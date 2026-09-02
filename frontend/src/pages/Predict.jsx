@@ -14,24 +14,22 @@ function Predict() {
   const [previousPrediction, setPreviousPrediction] = useState(null);
   const [prefillData, setPrefillData] = useState(null);
 
-  // Load previous prediction data for returning users
+  // Fetch previous prediction to enable progress delta tracking
   useEffect(() => {
     const fetchLatestUserPrediction = async () => {
       if (isAuthenticated) {
         try {
           const res = await getPredictions(1);
           if (res.predictions && res.predictions.length > 0) {
-            const latest = res.predictions[0];
-            setPreviousPrediction(latest);
+            setPreviousPrediction(res.predictions[0]);
           }
         } catch (err) {
-          console.warn("Could not fetch prior prediction history:", err);
+          console.warn("Could not load prior prediction history:", err);
         }
       } else {
         const history = JSON.parse(localStorage.getItem("predictionHistory")) || [];
         if (history.length > 0) {
-          const latest = history[history.length - 1];
-          setPreviousPrediction(latest);
+          setPreviousPrediction(history[history.length - 1]);
         }
       }
     };
@@ -67,7 +65,7 @@ function Predict() {
       });
       setResult(response);
 
-      // Also store in localStorage as backup
+      // Local storage backup for guest mode
       const history = JSON.parse(localStorage.getItem("predictionHistory")) || [];
       history.push({
         studentName: name,
@@ -97,7 +95,7 @@ function Predict() {
         </p>
       </div>
 
-      {/* Returning User Banner: Shows past predicted data if available */}
+      {/* Returning User Banner */}
       {previousPrediction && (
         <div className="returning-user-banner card">
           <div className="banner-icon">🎯</div>
@@ -168,7 +166,7 @@ function Predict() {
                 Fill in the candidate form on the left or use the <strong>Quick Fill Presets</strong> to run an instant placement probability analysis.
               </p>
               <div className="placeholder-highlights">
-                <div className="ph-item">✨ 92.86% Accurate ML Model</div>
+                <div className="ph-item">✨ 91.0% Accurate ML Model</div>
                 <div className="ph-item">⚡ Instant What-If Career Simulator</div>
                 <div className="ph-item">🔒 SQLite History & Trend Tracking</div>
               </div>

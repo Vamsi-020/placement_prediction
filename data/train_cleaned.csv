@@ -1,0 +1,1601 @@
+cgpa,attendance,backlogs,internships,projects,certifications,aptitude_score,coding_score,technical_skills_score,communication_score,branch,skills,placement
+6.15,74.99,0,2,5,7,59.66,38.06,78.94,62.6,CSE,SQL:Advanced;CSS:Intermediate;Java:Intermediate;HTML:Advanced,1
+8.84,66.39,2,2,6,0,91.97,79.1,79.97,69.97,CSE,Python:Intermediate;Machine Learning:Intermediate;JavaScript:Beginner;C++:Advanced,1
+6.88,74.33,0,1,2,7,53.49,79.2,67.93,62.94,EEE,SQL:Intermediate;Machine Learning:Beginner;Java:Advanced;JavaScript:Intermediate;CSS:Intermediate,1
+6.98,57.03,0,0,3,4,48.91,42.94,90.01,42.77,CSE,CSS:Intermediate;C++:Beginner;Machine Learning:Beginner,1
+8.27,76.18,1,2,3,2,92.36,80.93,84.65,61.96,EEE,Data Science:Beginner;Machine Learning:Intermediate,1
+9.37,95.79,3,1,6,4,89.11,81.73,51.57,62.48,MECH,HTML:Intermediate;Java:Intermediate;C++:Beginner;CSS:Intermediate;React:Intermediate,1
+5.5,57.38,0,1,1,6,74.3,52.89,54.68,77.39,CSE,CSS:Intermediate;JavaScript:Beginner;React:Intermediate;SQL:Advanced;Machine Learning:Intermediate,1
+8.56,81.89,4,2,5,7,63.53,44.12,77.7,88.23,ECE,Python:Intermediate;Machine Learning:Intermediate;JavaScript:Intermediate,1
+5.72,63.08,0,0,4,3,77.84,78.41,37.67,46.14,MECH,CSS:Advanced;Java:Advanced,0
+7.79,58.98,2,0,4,3,86.3,47.67,96.73,45.69,CIVIL,SQL:Advanced;Data Science:Intermediate;Machine Learning:Intermediate;CSS:Beginner;React:Beginner,0
+7.14,73.93,0,0,1,7,77.13,83.18,39.35,41.59,MECH,Machine Learning:Intermediate;Java:Beginner;SQL:Intermediate,1
+9.46,59.06,0,0,2,0,42.19,72.96,81.95,80.77,CSE,SQL:Intermediate;JavaScript:Beginner;HTML:Beginner;Data Science:Intermediate;Python:Beginner,1
+6.44,94.64,1,0,5,3,81.14,51.75,35.89,64.48,IT,CSS:Intermediate;Java:Beginner,1
+8.62,64.83,1,2,5,8,72.87,95.36,41.48,49.46,CSE,C++:Advanced;Python:Intermediate;Data Science:Intermediate;Machine Learning:Advanced;JavaScript:Intermediate,1
+6.88,85.73,4,0,3,7,48.32,79.31,47.08,96.82,IT,Machine Learning:Beginner;CSS:Advanced;React:Intermediate;Data Science:Intermediate,0
+9.34,56.34,2,0,5,0,66.29,48.49,60.63,93.24,EEE,React:Beginner;CSS:Beginner;C++:Advanced;HTML:Beginner;SQL:Beginner,1
+9.96,78.82,2,4,1,1,51.11,46.88,69.69,87.47,CIVIL,JavaScript:Intermediate;HTML:Advanced,1
+7.94,56.78,3,0,3,6,70.99,92.38,66.73,77.03,CSE,CSS:Intermediate;Data Science:Intermediate,1
+6.67,73.01,1,2,3,7,46.45,32.4,66.15,49.36,EEE,Python:Intermediate;Machine Learning:Advanced;Java:Beginner,1
+9.08,70.42,0,0,4,7,80.17,62.85,70.58,72.18,CSE,Python:Intermediate;React:Advanced;HTML:Beginner;C++:Intermediate;JavaScript:Beginner,1
+7.45,78.8,1,2,4,4,74.49,92.76,46.1,96.79,EEE,SQL:Intermediate;Machine Learning:Beginner;HTML:Beginner,1
+5.66,62.72,0,2,2,1,79.74,66.76,86.47,83.31,CSE,JavaScript:Intermediate;C++:Beginner;Data Science:Advanced;CSS:Beginner;Machine Learning:Advanced,1
+5.03,76.69,2,1,1,7,80.54,33.71,72.55,72.42,ECE,HTML:Beginner;React:Advanced,0
+7.17,59.43,1,2,3,2,80.11,93.24,37.99,87.77,ECE,SQL:Intermediate;HTML:Intermediate;C++:Advanced;Java:Beginner,1
+8.71,99.59,1,0,5,5,39.1,71.33,86.77,85.17,EEE,SQL:Intermediate;Data Science:Intermediate;C++:Beginner;Java:Intermediate;HTML:Intermediate,1
+5.02,65.54,1,0,5,1,79.95,58.83,71.74,53.28,IT,Machine Learning:Intermediate;HTML:Intermediate;Java:Intermediate,0
+8.37,64.25,3,0,3,1,35.81,95.58,75.12,56.99,CSE,React:Intermediate;C++:Beginner;JavaScript:Advanced;SQL:Beginner;Python:Intermediate,0
+6.74,86.38,3,1,6,3,39.81,57.25,97.33,65.0,IT,Data Science:Advanced;Python:Advanced;Java:Advanced,1
+7.1,91.18,0,0,5,2,64.74,54.76,47.13,55.35,EEE,Data Science:Beginner;C++:Intermediate,1
+5.63,85.13,1,0,5,4,84.85,41.75,74.47,84.88,CSE,React:Advanced;Java:Intermediate;Python:Advanced,0
+9.16,60.66,0,3,0,0,49.21,98.53,62.31,72.77,IT,JavaScript:Intermediate;SQL:Beginner;Data Science:Advanced;Java:Beginner;Machine Learning:Advanced,1
+7.36,96.54,1,1,3,7,45.21,84.07,69.84,72.73,IT,Machine Learning:Intermediate;SQL:Beginner;Data Science:Intermediate;React:Beginner,1
+9.72,97.51,1,0,3,4,48.27,87.48,36.41,91.72,IT,Data Science:Intermediate;React:Beginner;CSS:Intermediate;HTML:Advanced,1
+8.83,79.74,0,0,6,8,88.51,55.68,88.47,42.5,CIVIL,Machine Learning:Advanced;JavaScript:Advanced;HTML:Beginner;Python:Advanced;SQL:Intermediate,1
+9.04,94.13,1,2,5,7,40.83,66.55,44.44,87.01,MECH,Data Science:Beginner;JavaScript:Beginner;C++:Intermediate;CSS:Intermediate;React:Intermediate,1
+9.3,80.58,0,1,6,7,97.04,83.93,36.08,44.05,ECE,Python:Intermediate;Data Science:Intermediate;HTML:Intermediate,1
+9.05,70.49,0,0,5,3,72.5,75.49,70.0,98.76,ECE,SQL:Intermediate;Machine Learning:Advanced;CSS:Intermediate;HTML:Beginner,1
+8.23,85.11,1,1,5,2,42.28,95.65,62.1,45.35,ECE,Java:Advanced;SQL:Beginner;C++:Advanced;Machine Learning:Beginner;JavaScript:Intermediate,1
+6.65,63.18,1,1,6,6,92.81,58.1,54.1,77.42,EEE,Python:Intermediate;JavaScript:Beginner,1
+6.75,80.72,0,2,1,8,82.05,54.7,50.49,82.3,MECH,Python:Intermediate;React:Intermediate;JavaScript:Intermediate;HTML:Beginner;CSS:Intermediate,1
+5.37,66.25,0,0,5,1,36.81,60.24,36.56,87.83,ECE,JavaScript:Advanced;Java:Advanced;CSS:Advanced;Machine Learning:Intermediate,0
+7.06,91.41,0,0,0,4,66.56,45.33,76.36,42.74,EEE,JavaScript:Beginner;C++:Advanced;Data Science:Intermediate;HTML:Beginner;SQL:Intermediate,1
+5.55,65.25,0,1,1,6,92.94,35.15,73.03,43.26,EEE,JavaScript:Intermediate;CSS:Beginner;C++:Intermediate,1
+6.59,72.21,0,0,5,1,58.34,35.77,89.77,70.77,CIVIL,React:Beginner;JavaScript:Beginner,0
+8.04,70.21,4,1,5,6,81.1,44.47,48.24,54.2,CIVIL,C++:Advanced;JavaScript:Beginner;Python:Advanced;Java:Intermediate;React:Intermediate,0
+5.34,87.17,2,2,5,4,72.32,52.05,78.4,82.46,ECE,Python:Advanced;React:Beginner;Data Science:Advanced,1
+5.62,66.37,1,0,5,0,54.57,76.32,78.06,56.2,MECH,HTML:Beginner;Java:Advanced;Machine Learning:Intermediate,0
+8.51,58.71,1,1,2,1,55.14,65.79,48.21,88.48,MECH,HTML:Intermediate;Java:Advanced;React:Beginner;SQL:Beginner,1
+9.01,93.24,0,0,4,8,54.1,49.28,76.27,42.02,MECH,JavaScript:Intermediate;HTML:Intermediate;Java:Advanced;C++:Advanced;CSS:Advanced,1
+6.42,87.12,0,0,0,3,74.55,57.18,36.25,67.61,MECH,Python:Intermediate;Java:Beginner,0
+5.27,68.15,4,1,6,7,41.67,30.86,53.48,68.72,ECE,Python:Beginner;React:Beginner;CSS:Intermediate,0
+9.39,75.23,2,1,0,1,52.54,78.37,45.91,83.23,CSE,Python:Intermediate;Machine Learning:Advanced;React:Intermediate;Java:Intermediate,1
+5.65,65.79,0,1,3,7,61.34,85.23,45.11,54.94,IT,React:Intermediate;Python:Beginner;HTML:Beginner,1
+6.85,62.89,2,0,1,8,91.03,54.0,40.49,48.7,IT,HTML:Intermediate;Data Science:Beginner;JavaScript:Intermediate;SQL:Advanced;CSS:Beginner,0
+7.76,64.95,0,1,3,4,99.0,44.94,45.06,86.41,EEE,C++:Intermediate;CSS:Beginner;Machine Learning:Advanced,1
+5.83,85.74,0,1,2,0,84.28,70.6,74.58,55.47,CIVIL,Machine Learning:Intermediate;SQL:Intermediate;HTML:Intermediate;Python:Advanced;JavaScript:Advanced,1
+9.86,74.72,0,1,1,0,54.64,88.9,38.8,53.7,ECE,C++:Advanced;Data Science:Intermediate,1
+9.31,69.9,2,0,6,8,74.31,46.68,52.94,75.06,CSE,C++:Beginner;Java:Advanced,1
+8.82,80.83,1,1,5,4,51.22,37.94,82.82,69.94,EEE,React:Intermediate;Data Science:Beginner,1
+6.97,86.28,4,2,1,1,58.64,43.94,48.02,90.64,EEE,JavaScript:Intermediate;HTML:Beginner,0
+5.31,77.68,0,0,1,0,39.41,46.13,82.18,97.07,EEE,Java:Intermediate;SQL:Intermediate;HTML:Intermediate;Python:Beginner;C++:Intermediate,0
+8.54,66.8,2,2,3,3,56.08,82.76,43.52,52.59,IT,C++:Intermediate;Data Science:Advanced;Python:Beginner,1
+5.16,98.42,3,1,1,4,44.38,96.83,85.03,55.47,CIVIL,React:Advanced;Machine Learning:Beginner;Data Science:Beginner;Java:Intermediate,0
+7.58,73.25,4,1,5,4,96.57,45.16,74.42,68.28,EEE,JavaScript:Advanced;HTML:Advanced;C++:Beginner,0
+7.04,99.32,0,2,6,7,96.04,55.72,35.83,80.45,CIVIL,HTML:Intermediate;CSS:Intermediate,1
+7.45,80.98,0,1,3,1,76.19,91.61,41.05,70.94,ECE,CSS:Beginner;Data Science:Advanced;SQL:Intermediate;React:Intermediate,1
+7.68,83.79,3,1,3,7,54.65,97.99,80.55,93.74,EEE,C++:Intermediate;Java:Advanced;Python:Advanced;JavaScript:Beginner;SQL:Beginner,1
+9.79,58.46,0,0,1,7,44.78,44.3,96.89,41.36,EEE,CSS:Intermediate;SQL:Intermediate;HTML:Beginner,1
+5.8,86.65,2,0,3,5,54.34,96.3,39.34,56.53,EEE,Java:Intermediate;Python:Beginner;React:Intermediate,0
+6.12,66.73,0,2,6,3,40.04,79.45,58.78,80.11,EEE,Python:Advanced;SQL:Intermediate;React:Intermediate;C++:Intermediate;JavaScript:Intermediate,1
+5.47,97.73,0,2,5,0,62.29,31.49,69.38,67.68,CIVIL,SQL:Beginner;HTML:Beginner,1
+9.6,86.81,5,3,3,8,50.9,94.98,86.17,59.67,EEE,CSS:Advanced;HTML:Intermediate;SQL:Intermediate;Machine Learning:Beginner,1
+9.76,56.79,5,1,0,4,58.7,85.43,98.48,60.18,EEE,JavaScript:Intermediate;HTML:Advanced;Java:Beginner;Machine Learning:Intermediate;Python:Beginner,0
+8.94,95.54,3,2,1,3,90.3,96.62,93.72,51.79,MECH,React:Advanced;Java:Intermediate;SQL:Advanced;Data Science:Beginner;Machine Learning:Advanced,1
+5.79,90.33,2,0,3,6,61.22,97.57,59.92,42.26,IT,Python:Intermediate;SQL:Intermediate;JavaScript:Beginner;Data Science:Intermediate,0
+9.57,88.75,2,0,3,1,51.11,68.65,97.73,46.52,CSE,C++:Beginner;Machine Learning:Beginner;Data Science:Intermediate,1
+8.16,89.41,1,0,1,5,57.75,51.77,44.31,88.13,ECE,CSS:Advanced;HTML:Intermediate;React:Advanced,1
+8.4,99.75,0,1,3,7,50.34,58.36,85.69,48.79,CSE,Python:Intermediate;HTML:Beginner;C++:Beginner;Data Science:Intermediate,1
+5.13,96.73,4,2,4,5,35.16,42.52,87.1,60.6,CIVIL,React:Advanced;Data Science:Intermediate;Machine Learning:Beginner,0
+9.98,67.33,1,1,2,8,84.34,91.87,49.6,56.68,EEE,SQL:Beginner;Python:Intermediate;HTML:Beginner;Java:Intermediate;C++:Advanced,1
+7.73,68.06,2,1,0,5,82.38,36.65,61.47,48.56,EEE,Machine Learning:Beginner;Python:Beginner;C++:Beginner,0
+5.39,96.73,2,1,0,2,96.77,47.98,77.44,92.98,EEE,JavaScript:Advanced;React:Intermediate,0
+9.29,63.45,3,3,3,7,99.53,61.72,52.08,66.39,CIVIL,Machine Learning:Beginner;SQL:Advanced;Data Science:Intermediate;Java:Intermediate,1
+6.79,91.49,0,0,3,5,70.48,82.15,49.83,50.23,CIVIL,HTML:Advanced;CSS:Advanced;Machine Learning:Advanced;C++:Intermediate,1
+5.23,82.72,0,1,6,2,56.3,33.73,86.71,92.37,MECH,JavaScript:Intermediate;Java:Beginner;CSS:Intermediate;HTML:Advanced;SQL:Advanced,1
+7.64,64.62,0,2,0,7,91.77,87.54,53.96,98.93,EEE,SQL:Advanced;Data Science:Beginner;React:Intermediate,1
+6.19,59.14,0,1,6,8,71.92,99.37,35.97,83.19,CSE,Python:Intermediate;C++:Beginner,1
+8.03,63.43,0,2,2,5,81.14,49.0,40.64,92.62,ECE,React:Intermediate;JavaScript:Beginner;Data Science:Beginner;Java:Beginner;Python:Intermediate,1
+9.09,87.71,0,2,6,0,55.22,78.63,73.07,50.81,CIVIL,SQL:Advanced;JavaScript:Intermediate;HTML:Intermediate;Data Science:Intermediate;Python:Beginner,1
+6.61,80.37,1,2,2,1,75.92,90.85,35.51,65.28,ECE,Java:Beginner;C++:Intermediate;SQL:Advanced;Machine Learning:Intermediate,1
+7.07,95.44,0,1,3,4,41.39,46.16,84.84,47.82,EEE,Java:Intermediate;CSS:Beginner;SQL:Intermediate,1
+5.59,90.26,0,0,6,6,71.0,37.03,60.91,85.81,CSE,C++:Intermediate;HTML:Advanced;Python:Intermediate;React:Intermediate;CSS:Beginner,1
+6.89,66.54,0,1,5,8,78.68,78.65,71.64,84.15,CIVIL,Machine Learning:Intermediate;SQL:Advanced;CSS:Beginner;C++:Intermediate,1
+8.35,81.71,1,2,6,3,72.76,52.33,47.04,73.33,CSE,Machine Learning:Intermediate;JavaScript:Advanced;HTML:Intermediate,1
+8.74,60.73,1,2,3,2,50.69,66.49,67.31,44.5,MECH,HTML:Intermediate;Java:Intermediate,1
+9.78,93.35,0,1,3,8,97.79,37.24,79.4,77.38,CIVIL,CSS:Intermediate;HTML:Beginner;Java:Beginner;SQL:Advanced,1
+8.97,67.67,2,1,5,4,40.76,34.35,39.63,66.05,MECH,Python:Advanced;Java:Beginner;React:Intermediate,1
+8.41,88.21,1,0,6,6,80.2,60.08,62.74,48.27,EEE,Data Science:Intermediate;SQL:Intermediate,1
+7.3,84.8,0,2,4,2,50.23,77.19,88.05,82.7,MECH,C++:Advanced;HTML:Intermediate;React:Intermediate,1
+7.83,69.24,0,1,2,3,52.26,39.16,76.96,67.43,CSE,CSS:Beginner;Java:Beginner,1
+9.1,57.36,0,1,3,8,50.19,77.85,60.35,55.76,MECH,Python:Intermediate;React:Intermediate;CSS:Advanced;JavaScript:Beginner;SQL:Intermediate,1
+6.66,99.06,0,0,2,8,39.35,54.34,56.26,82.34,MECH,JavaScript:Intermediate;SQL:Intermediate;Data Science:Advanced;Java:Beginner,1
+9.63,73.83,1,0,1,3,97.59,62.93,95.73,67.17,EEE,Java:Intermediate;CSS:Advanced;JavaScript:Intermediate,1
+5.56,62.93,1,1,2,6,90.25,43.47,47.69,84.16,CIVIL,JavaScript:Intermediate;React:Advanced;Machine Learning:Advanced,0
+5.4,80.22,0,0,3,3,64.18,59.32,72.01,89.61,IT,HTML:Advanced;C++:Intermediate;React:Beginner,0
+7.5,58.83,0,1,4,0,85.11,93.69,80.41,50.01,EEE,Data Science:Beginner;Python:Beginner;C++:Intermediate;CSS:Beginner;React:Intermediate,1
+9.17,68.3,2,1,4,0,56.69,39.29,36.23,50.81,MECH,Java:Advanced;Data Science:Intermediate;React:Beginner;Machine Learning:Intermediate;C++:Advanced,1
+7.03,55.25,1,2,6,7,70.46,51.91,77.38,59.31,CIVIL,Machine Learning:Intermediate;Data Science:Intermediate;Java:Advanced;Python:Beginner;JavaScript:Intermediate,1
+8.97,86.24,0,1,1,6,52.86,78.22,47.07,70.09,CSE,C++:Beginner;React:Advanced;Machine Learning:Intermediate;Python:Beginner;JavaScript:Intermediate,1
+8.92,92.73,0,0,0,7,64.51,91.23,70.69,45.36,IT,C++:Intermediate;HTML:Intermediate;React:Intermediate;Java:Beginner;CSS:Intermediate,1
+6.37,67.82,2,1,5,6,68.56,60.35,64.25,72.33,MECH,CSS:Beginner;Python:Intermediate;HTML:Advanced;SQL:Beginner,1
+9.58,85.2,0,3,2,7,36.88,99.97,82.9,44.21,CIVIL,React:Beginner;SQL:Intermediate;HTML:Advanced,1
+9.77,93.27,0,2,5,2,88.33,39.72,67.14,96.03,CIVIL,Data Science:Advanced;Python:Intermediate;HTML:Intermediate;Machine Learning:Advanced;React:Beginner,1
+5.88,87.51,0,2,1,4,67.06,33.38,68.65,71.51,MECH,React:Advanced;SQL:Beginner;HTML:Advanced;C++:Advanced;Java:Intermediate,1
+6.4,56.97,0,0,5,2,72.64,35.74,64.36,47.7,IT,CSS:Beginner;Java:Beginner;JavaScript:Intermediate;Python:Advanced,1
+9.01,86.33,0,2,4,5,46.93,74.08,39.2,69.5,IT,C++:Beginner;JavaScript:Beginner,1
+9.9,73.74,0,1,4,4,41.7,64.65,47.51,72.35,CIVIL,JavaScript:Beginner;CSS:Intermediate,1
+9.08,55.67,0,2,0,1,79.96,57.02,63.21,46.88,CSE,HTML:Advanced;Java:Beginner;Python:Intermediate;React:Beginner;CSS:Beginner,1
+5.92,88.54,2,1,5,1,38.59,60.65,50.49,61.46,IT,C++:Advanced;Data Science:Intermediate;Python:Beginner;JavaScript:Beginner;React:Beginner,0
+5.7,72.52,1,0,0,2,90.42,30.34,70.92,60.48,CIVIL,Data Science:Beginner;Java:Intermediate;SQL:Intermediate;Machine Learning:Intermediate,0
+9.11,55.34,0,1,5,0,41.91,46.76,50.83,62.42,IT,Data Science:Beginner;CSS:Intermediate;Java:Beginner;React:Intermediate;Python:Intermediate,1
+7.35,74.02,1,1,1,7,36.29,56.7,90.51,85.53,ECE,Machine Learning:Intermediate;C++:Intermediate;React:Beginner,1
+7.0,61.39,0,2,3,5,71.37,34.66,56.47,88.86,EEE,Machine Learning:Beginner;CSS:Advanced;JavaScript:Intermediate;Python:Beginner;Java:Advanced,1
+6.42,55.81,1,3,0,7,88.92,59.21,65.13,93.06,MECH,SQL:Beginner;JavaScript:Advanced;CSS:Advanced,1
+6.3,62.11,0,1,4,8,87.66,89.21,98.65,61.87,IT,C++:Intermediate;Java:Intermediate,1
+6.26,82.36,0,0,4,8,83.49,98.32,73.97,49.29,IT,Python:Beginner;Data Science:Intermediate;Machine Learning:Intermediate;CSS:Intermediate;C++:Intermediate,1
+9.19,77.49,0,1,1,0,73.93,51.62,99.37,47.41,CIVIL,JavaScript:Beginner;CSS:Advanced;React:Beginner;SQL:Intermediate;Data Science:Advanced,1
+9.94,88.75,2,1,0,6,46.55,94.96,94.51,69.87,CIVIL,JavaScript:Advanced;SQL:Intermediate;Machine Learning:Beginner;HTML:Advanced;CSS:Intermediate,1
+9.46,64.79,0,1,1,3,99.38,37.36,36.05,72.1,EEE,JavaScript:Intermediate;Python:Intermediate;HTML:Advanced,1
+8.23,86.58,0,3,4,8,60.42,55.48,54.32,44.45,MECH,CSS:Beginner;C++:Intermediate;Java:Advanced,1
+9.58,59.38,0,1,1,5,39.2,83.42,54.29,78.57,IT,React:Beginner;HTML:Intermediate;Machine Learning:Advanced;SQL:Intermediate,1
+5.81,92.09,0,0,3,6,70.85,89.28,51.87,79.98,CSE,CSS:Intermediate;SQL:Beginner;Java:Advanced;JavaScript:Advanced;React:Intermediate,1
+9.35,82.89,0,2,1,3,64.97,47.78,51.6,40.56,EEE,Machine Learning:Advanced;C++:Advanced;Java:Beginner;JavaScript:Advanced,1
+7.24,73.81,1,1,1,5,80.64,72.97,72.98,52.93,CIVIL,C++:Beginner;Java:Intermediate;Data Science:Advanced;React:Intermediate,1
+8.65,98.37,0,2,3,6,59.42,77.79,78.02,72.36,CIVIL,Java:Beginner;C++:Advanced;HTML:Advanced;React:Advanced,1
+7.43,89.24,0,0,4,2,51.22,83.67,91.17,99.66,IT,JavaScript:Intermediate;CSS:Beginner;Java:Advanced;SQL:Intermediate;HTML:Intermediate,1
+5.33,92.02,2,0,5,0,89.33,85.51,85.92,58.33,ECE,React:Intermediate;Python:Beginner;HTML:Intermediate,0
+5.41,60.8,0,1,2,7,92.78,45.5,80.16,60.44,CIVIL,Data Science:Intermediate;CSS:Intermediate;HTML:Intermediate,1
+8.12,79.01,0,2,3,5,94.62,96.33,95.74,79.7,ECE,Data Science:Beginner;C++:Intermediate;Python:Intermediate;Machine Learning:Intermediate,1
+5.51,65.4,0,0,5,3,72.05,96.33,71.3,73.49,CIVIL,Data Science:Intermediate;SQL:Intermediate,1
+6.3,92.37,0,2,2,4,45.69,54.45,62.24,68.53,CIVIL,HTML:Advanced;SQL:Intermediate;Data Science:Advanced,1
+5.2,59.34,2,1,3,4,69.62,62.22,74.63,97.34,CSE,Java:Beginner;Machine Learning:Advanced;HTML:Intermediate;SQL:Beginner,0
+7.67,80.82,1,1,6,2,37.71,65.47,49.61,56.49,CSE,SQL:Advanced;Data Science:Beginner;HTML:Intermediate;React:Intermediate,1
+8.87,61.59,0,3,0,5,95.06,75.92,83.58,52.84,MECH,Machine Learning:Intermediate;React:Intermediate;C++:Beginner;Python:Intermediate,1
+7.37,80.21,0,0,3,2,68.97,45.68,73.7,88.7,EEE,HTML:Intermediate;Java:Beginner;C++:Intermediate;SQL:Advanced,1
+6.5,92.13,0,1,2,3,35.44,64.95,83.33,77.56,IT,CSS:Intermediate;C++:Advanced;React:Beginner;Java:Advanced,1
+8.14,63.9,0,0,2,4,40.94,99.42,86.67,87.21,MECH,Data Science:Intermediate;JavaScript:Advanced,1
+5.18,84.11,0,2,0,5,52.76,85.95,63.4,64.0,EEE,SQL:Intermediate;C++:Advanced;CSS:Beginner;Data Science:Beginner;JavaScript:Intermediate,1
+8.23,76.16,1,0,4,4,85.82,51.88,79.46,78.55,ECE,React:Intermediate;Java:Advanced;Python:Beginner;JavaScript:Intermediate,1
+8.22,63.22,0,1,3,3,58.45,65.14,46.35,67.51,IT,JavaScript:Advanced;SQL:Intermediate;CSS:Beginner,1
+7.96,72.96,0,0,4,1,79.39,52.28,48.98,97.7,ECE,HTML:Intermediate;Java:Intermediate;React:Beginner;SQL:Intermediate;C++:Intermediate,1
+8.2,99.61,1,0,2,6,52.73,63.77,56.81,43.25,ECE,CSS:Intermediate;Machine Learning:Intermediate;C++:Beginner;SQL:Intermediate;Python:Beginner,1
+7.62,56.31,3,0,0,0,93.17,37.16,53.7,92.0,ECE,React:Advanced;Java:Beginner;SQL:Advanced,0
+7.88,84.35,0,3,1,2,69.08,83.15,86.47,52.9,CIVIL,CSS:Intermediate;HTML:Intermediate;Machine Learning:Intermediate,1
+6.76,91.81,2,2,0,6,73.78,72.62,49.16,94.83,MECH,Java:Intermediate;JavaScript:Intermediate,1
+7.03,66.4,0,0,2,2,84.25,64.78,55.27,44.5,IT,React:Intermediate;CSS:Intermediate;Java:Intermediate;SQL:Beginner,1
+8.46,57.8,0,0,3,8,95.0,92.15,85.04,81.42,CIVIL,SQL:Intermediate;JavaScript:Intermediate;Machine Learning:Advanced;Java:Intermediate,1
+9.98,78.34,0,1,4,6,68.55,74.15,38.2,57.47,EEE,React:Beginner;CSS:Advanced;C++:Intermediate;JavaScript:Advanced,1
+7.8,89.81,0,0,4,1,77.19,81.62,83.9,92.27,CIVIL,JavaScript:Advanced;SQL:Intermediate;Machine Learning:Intermediate,1
+9.22,97.2,0,0,6,0,44.02,99.55,90.99,83.46,IT,Java:Advanced;JavaScript:Intermediate;SQL:Beginner,1
+8.69,61.75,0,2,6,2,99.47,30.15,46.54,48.01,ECE,Data Science:Advanced;Java:Intermediate;Python:Beginner;Machine Learning:Intermediate,1
+5.18,96.43,1,1,5,2,39.27,43.04,65.1,90.8,IT,HTML:Intermediate;Python:Beginner,0
+7.71,70.65,0,1,2,4,87.67,71.37,84.22,60.46,MECH,HTML:Advanced;Python:Advanced;Java:Beginner;React:Advanced;JavaScript:Intermediate,1
+7.36,71.34,1,1,5,7,51.57,30.48,60.96,44.1,IT,C++:Intermediate;Python:Advanced;JavaScript:Advanced;Machine Learning:Intermediate;CSS:Intermediate,1
+8.86,91.77,0,2,5,6,64.42,75.21,88.56,67.22,IT,SQL:Intermediate;JavaScript:Intermediate;CSS:Intermediate;C++:Intermediate,1
+5.6,95.0,1,0,1,4,82.56,38.15,57.99,44.74,IT,SQL:Intermediate;C++:Beginner,0
+7.45,89.05,0,0,5,4,96.99,78.78,60.05,92.63,CIVIL,SQL:Advanced;JavaScript:Intermediate;CSS:Beginner;Python:Beginner;C++:Beginner,1
+6.25,85.48,3,1,5,5,73.77,87.3,39.96,61.42,MECH,Java:Intermediate;Machine Learning:Intermediate;JavaScript:Intermediate;Python:Intermediate;SQL:Advanced,0
+7.84,58.82,0,0,4,0,78.81,49.05,78.03,69.14,EEE,React:Beginner;JavaScript:Intermediate;Java:Intermediate;C++:Intermediate;Machine Learning:Intermediate,1
+7.31,89.93,0,2,5,7,55.87,48.23,41.88,87.2,MECH,React:Intermediate;Python:Intermediate;HTML:Intermediate,1
+8.98,87.82,0,3,4,8,44.19,32.92,72.23,63.64,MECH,React:Intermediate;JavaScript:Advanced,1
+7.22,61.32,0,3,5,0,79.61,31.21,63.69,53.88,IT,HTML:Intermediate;SQL:Beginner;C++:Beginner,1
+7.26,61.39,2,1,0,2,86.24,56.7,91.57,48.96,ECE,HTML:Beginner;C++:Advanced,0
+5.79,71.22,2,0,1,6,37.83,82.9,38.93,90.03,MECH,C++:Beginner;React:Intermediate;CSS:Intermediate,0
+6.51,66.0,0,0,3,4,66.64,62.64,65.24,92.94,EEE,HTML:Advanced;Python:Advanced;JavaScript:Advanced,1
+7.95,61.72,1,2,3,5,88.29,90.34,56.34,56.12,ECE,HTML:Intermediate;Python:Intermediate;CSS:Intermediate,1
+7.63,77.57,2,0,2,4,36.58,74.21,79.72,42.03,CIVIL,HTML:Beginner;Data Science:Intermediate,0
+6.44,78.8,1,2,4,8,82.21,92.22,65.33,78.84,MECH,Data Science:Advanced;HTML:Beginner;React:Advanced;CSS:Beginner,1
+9.52,68.2,1,0,3,5,68.97,99.02,57.89,72.29,IT,Python:Beginner;JavaScript:Beginner,1
+7.59,63.05,1,1,3,7,65.79,70.68,76.48,87.44,CIVIL,JavaScript:Advanced;Data Science:Intermediate,1
+5.04,68.8,1,2,4,1,95.21,37.92,66.28,69.05,CSE,Machine Learning:Beginner;SQL:Beginner;JavaScript:Advanced,0
+6.73,65.37,1,1,5,5,67.0,83.2,70.83,67.35,CIVIL,C++:Beginner;Data Science:Intermediate;Python:Intermediate,1
+6.17,67.83,0,0,3,7,56.34,76.16,80.07,49.14,MECH,SQL:Intermediate;HTML:Advanced;C++:Intermediate;Python:Intermediate,1
+5.28,81.75,1,1,3,0,50.45,84.54,52.69,76.28,CIVIL,React:Intermediate;HTML:Beginner;CSS:Beginner,0
+9.25,70.28,0,1,5,3,56.48,83.73,47.25,47.14,ECE,HTML:Advanced;Python:Intermediate;SQL:Beginner;React:Beginner,1
+8.09,88.16,0,2,0,8,57.6,98.9,50.38,48.96,EEE,Python:Beginner;Data Science:Intermediate;Machine Learning:Intermediate;Java:Intermediate,1
+9.72,87.44,1,1,3,1,43.81,30.47,60.72,90.5,EEE,CSS:Advanced;SQL:Intermediate;HTML:Intermediate;Data Science:Intermediate,1
+7.69,84.71,1,1,0,2,54.45,67.83,76.55,94.44,EEE,CSS:Advanced;Python:Advanced,1
+5.93,98.87,0,4,1,0,49.09,89.16,60.28,97.12,ECE,C++:Beginner;SQL:Intermediate;CSS:Intermediate;Java:Beginner,1
+7.8,57.95,0,0,6,5,38.36,73.59,89.68,68.02,IT,C++:Advanced;CSS:Advanced,1
+6.39,94.58,0,0,1,1,53.71,64.06,49.54,50.16,ECE,JavaScript:Beginner;React:Beginner,0
+5.08,72.1,0,0,6,2,52.04,59.3,58.31,58.03,EEE,CSS:Intermediate;HTML:Beginner;SQL:Advanced;Python:Intermediate,1
+7.33,77.46,1,0,6,6,35.3,97.65,62.56,60.42,MECH,Java:Intermediate;Python:Advanced;SQL:Intermediate;CSS:Advanced;React:Intermediate,1
+9.88,58.91,0,1,5,6,61.35,44.02,36.0,82.22,CSE,Machine Learning:Beginner;SQL:Intermediate;Data Science:Beginner;HTML:Advanced,1
+8.84,81.14,3,0,6,2,49.38,85.35,88.04,60.45,EEE,Python:Intermediate;HTML:Intermediate,1
+8.36,60.14,1,2,2,5,90.29,96.9,51.78,73.51,CIVIL,SQL:Intermediate;Machine Learning:Intermediate;C++:Intermediate;Data Science:Beginner,1
+8.64,71.79,0,0,2,0,35.67,99.17,35.38,86.57,EEE,Machine Learning:Advanced;CSS:Intermediate;Python:Intermediate,1
+9.39,73.25,1,3,6,2,43.18,48.32,45.0,41.98,EEE,Python:Advanced;Java:Intermediate;React:Beginner,1
+8.76,59.07,3,0,6,5,83.84,57.5,94.0,76.7,MECH,Python:Beginner;Java:Intermediate;C++:Beginner,1
+9.64,81.51,2,0,5,4,52.93,61.56,49.72,92.86,EEE,Python:Beginner;Machine Learning:Intermediate;C++:Intermediate;Java:Beginner,1
+5.9,97.1,2,1,5,5,82.98,68.3,87.47,45.99,MECH,Java:Intermediate;Machine Learning:Intermediate;C++:Advanced;HTML:Intermediate;Python:Advanced,1
+8.4,68.08,0,1,6,2,85.39,37.0,87.25,60.14,EEE,Machine Learning:Intermediate;React:Beginner;CSS:Intermediate;C++:Intermediate,1
+8.82,77.67,1,0,2,7,66.06,62.85,88.35,78.48,IT,CSS:Intermediate;HTML:Beginner;Python:Intermediate;JavaScript:Beginner;C++:Beginner,1
+6.92,65.16,0,0,3,3,81.29,48.85,95.23,74.58,CSE,Data Science:Intermediate;CSS:Beginner,1
+6.55,71.95,2,2,5,8,41.07,76.93,68.05,41.09,ECE,JavaScript:Beginner;SQL:Advanced;CSS:Beginner,1
+6.43,95.73,2,0,1,4,51.52,94.18,97.11,55.7,EEE,Machine Learning:Advanced;JavaScript:Advanced,0
+8.34,68.31,4,0,2,5,98.46,31.78,57.27,93.79,IT,C++:Intermediate;Java:Advanced;CSS:Advanced;Python:Beginner;Data Science:Beginner,0
+7.61,87.58,2,0,5,8,91.8,78.74,87.39,56.59,MECH,C++:Beginner;JavaScript:Intermediate;Machine Learning:Intermediate;Java:Intermediate;CSS:Intermediate,1
+9.62,61.49,0,3,0,8,65.85,82.11,98.89,91.93,MECH,JavaScript:Advanced;C++:Advanced;Machine Learning:Advanced;CSS:Beginner;Python:Beginner,1
+9.3,74.57,2,1,3,5,83.98,89.25,36.41,42.68,CSE,Data Science:Intermediate;C++:Beginner,1
+6.45,89.79,0,3,3,5,66.38,70.79,72.16,97.2,IT,HTML:Intermediate;SQL:Beginner;Java:Beginner;React:Advanced,1
+7.0,97.49,2,0,2,2,78.41,65.61,94.66,55.11,CSE,Python:Intermediate;HTML:Advanced;Java:Beginner,0
+7.77,96.65,1,1,2,3,41.23,57.5,70.73,69.46,CSE,Python:Advanced;HTML:Intermediate;Java:Intermediate;C++:Beginner,1
+9.46,59.45,2,0,2,7,60.13,92.26,80.84,55.31,MECH,CSS:Beginner;Data Science:Advanced;React:Intermediate,1
+6.27,78.96,1,1,6,5,97.74,74.43,65.57,73.66,CIVIL,C++:Advanced;Data Science:Beginner,1
+5.16,60.17,0,1,2,2,43.37,91.4,48.52,42.86,IT,Python:Intermediate;CSS:Beginner;C++:Intermediate;Java:Beginner;HTML:Intermediate,0
+7.37,94.67,0,0,6,0,67.64,93.03,87.03,80.65,MECH,Java:Advanced;CSS:Beginner;C++:Beginner,1
+9.71,64.43,2,2,0,6,78.74,39.74,54.68,55.16,IT,HTML:Intermediate;Java:Intermediate;CSS:Advanced;React:Advanced;JavaScript:Intermediate,1
+6.59,98.78,4,0,5,4,44.88,43.16,43.55,41.57,MECH,Data Science:Intermediate;JavaScript:Intermediate;Machine Learning:Intermediate;Java:Intermediate,0
+7.73,88.2,0,0,2,5,36.95,83.58,85.7,86.52,CIVIL,Python:Intermediate;Java:Advanced,1
+5.59,87.27,0,0,3,8,74.8,95.41,59.11,55.78,ECE,JavaScript:Advanced;Machine Learning:Intermediate;CSS:Intermediate;Python:Intermediate;HTML:Intermediate,1
+7.84,67.64,0,0,3,4,39.11,30.85,97.22,75.74,IT,SQL:Beginner;CSS:Intermediate;React:Beginner;Java:Advanced,1
+5.56,99.03,2,0,0,3,65.75,63.56,35.16,93.18,CIVIL,Data Science:Intermediate;Python:Beginner;SQL:Intermediate,0
+8.01,95.07,5,0,3,7,77.74,75.96,39.96,96.3,IT,SQL:Advanced;JavaScript:Advanced;CSS:Beginner;Data Science:Intermediate;C++:Intermediate,0
+8.03,59.58,0,3,5,1,99.75,97.67,47.44,48.97,CSE,Java:Beginner;Data Science:Intermediate,1
+7.78,67.58,0,1,6,5,92.46,96.18,76.29,98.78,CIVIL,React:Intermediate;JavaScript:Intermediate;SQL:Beginner;C++:Intermediate;Java:Intermediate,1
+6.97,64.56,0,0,3,3,84.6,36.71,43.35,85.78,IT,SQL:Intermediate;React:Intermediate;HTML:Intermediate;Machine Learning:Advanced;JavaScript:Beginner,1
+9.39,74.28,1,1,6,4,39.19,67.99,75.75,94.59,IT,Data Science:Advanced;C++:Beginner;SQL:Intermediate;Machine Learning:Intermediate,1
+6.8,85.58,0,1,3,5,85.36,64.09,42.07,78.73,CSE,C++:Intermediate;Machine Learning:Intermediate;JavaScript:Intermediate;Data Science:Advanced,1
+8.95,58.87,0,3,0,3,37.16,39.84,35.34,86.46,MECH,SQL:Intermediate;C++:Advanced,1
+9.92,60.2,3,0,0,6,35.11,94.79,70.0,83.17,CIVIL,SQL:Advanced;HTML:Advanced;Java:Intermediate,1
+5.8,88.71,1,0,6,0,52.14,88.95,83.22,89.27,CSE,HTML:Advanced;C++:Beginner;Machine Learning:Beginner;React:Intermediate;Python:Intermediate,1
+7.35,93.74,0,1,6,0,55.18,72.14,38.66,68.57,IT,React:Beginner;SQL:Intermediate;Machine Learning:Advanced;Data Science:Advanced,1
+5.27,72.15,0,3,3,2,59.03,46.21,45.06,60.95,EEE,C++:Intermediate;CSS:Intermediate,1
+6.23,99.34,2,1,0,8,87.99,50.43,40.64,79.01,IT,HTML:Intermediate;Python:Advanced;C++:Beginner;SQL:Intermediate;Machine Learning:Intermediate,0
+8.82,97.89,0,2,2,4,73.24,51.03,97.73,43.58,MECH,CSS:Beginner;Python:Beginner;HTML:Beginner;JavaScript:Intermediate;Data Science:Beginner,1
+5.69,97.81,4,1,1,2,36.83,77.27,98.19,48.08,ECE,Python:Advanced;Machine Learning:Beginner;JavaScript:Intermediate;Java:Intermediate;Data Science:Advanced,0
+8.9,66.4,0,1,0,7,43.38,78.26,39.58,46.86,IT,Java:Beginner;C++:Intermediate;SQL:Advanced;Data Science:Intermediate;CSS:Intermediate,1
+7.58,74.96,2,1,1,8,96.18,40.53,89.02,59.77,CIVIL,JavaScript:Advanced;Machine Learning:Intermediate;Java:Intermediate;C++:Advanced,1
+9.52,61.93,0,1,6,8,55.17,52.91,85.02,45.9,MECH,JavaScript:Intermediate;Python:Advanced;CSS:Beginner,1
+8.47,99.94,0,0,0,7,46.22,79.94,99.82,88.63,ECE,Java:Advanced;Machine Learning:Intermediate;React:Advanced;C++:Intermediate,1
+6.06,78.62,0,0,2,0,64.96,86.02,76.75,40.92,EEE,Data Science:Beginner;Machine Learning:Beginner;SQL:Intermediate,1
+8.8,93.07,1,0,2,7,75.94,38.22,63.35,68.97,MECH,C++:Intermediate;React:Beginner,1
+6.83,77.4,0,3,4,5,37.35,57.89,67.03,87.87,ECE,C++:Intermediate;JavaScript:Intermediate,1
+5.06,57.16,0,0,3,2,79.6,95.12,49.93,80.96,IT,Java:Advanced;Python:Beginner,1
+5.95,76.41,3,0,4,2,97.55,49.25,48.38,89.78,MECH,Java:Beginner;Machine Learning:Advanced;SQL:Beginner;JavaScript:Intermediate;React:Intermediate,0
+8.69,57.44,0,0,5,8,47.73,70.77,63.82,64.67,IT,SQL:Intermediate;JavaScript:Beginner,1
+5.83,84.4,1,0,4,8,48.21,68.92,55.02,65.07,EEE,CSS:Beginner;JavaScript:Advanced;C++:Intermediate;HTML:Beginner;Machine Learning:Beginner,1
+8.43,64.46,1,1,5,8,47.52,87.23,81.04,69.72,CIVIL,CSS:Intermediate;React:Intermediate;Python:Beginner,1
+5.47,75.38,1,3,1,3,47.55,75.16,92.25,81.6,MECH,SQL:Intermediate;Java:Intermediate;HTML:Beginner;JavaScript:Beginner,1
+7.41,97.9,0,1,2,7,83.44,64.71,68.32,64.0,IT,C++:Beginner;JavaScript:Advanced;React:Intermediate;Machine Learning:Beginner,1
+7.28,75.43,0,1,4,1,60.17,65.44,46.77,64.61,ECE,Java:Beginner;Python:Advanced,1
+5.31,66.27,0,2,3,5,74.42,88.85,95.03,59.27,CIVIL,HTML:Intermediate;C++:Intermediate;JavaScript:Beginner;Java:Intermediate;Machine Learning:Intermediate,1
+5.01,85.27,1,0,6,3,69.51,51.21,98.15,89.93,MECH,Machine Learning:Intermediate;HTML:Beginner,1
+7.69,74.15,0,0,2,2,80.23,87.1,99.95,56.84,EEE,Machine Learning:Beginner;SQL:Intermediate,1
+5.23,78.99,1,1,4,2,59.34,37.01,45.77,78.06,MECH,C++:Advanced;Machine Learning:Beginner;HTML:Advanced,0
+5.2,94.29,0,0,5,2,52.02,71.61,76.51,71.37,EEE,SQL:Intermediate;CSS:Advanced;Python:Intermediate;Data Science:Beginner;Java:Beginner,1
+5.09,91.84,0,0,2,6,92.67,38.25,44.26,81.71,MECH,SQL:Advanced;Python:Intermediate;C++:Beginner;JavaScript:Intermediate;React:Beginner,0
+8.04,75.03,1,0,4,6,62.5,99.19,54.79,85.87,MECH,CSS:Intermediate;Python:Intermediate;Machine Learning:Intermediate;React:Intermediate;HTML:Intermediate,1
+6.81,81.71,0,0,4,0,82.27,93.61,77.83,58.1,CIVIL,Python:Advanced;CSS:Intermediate,1
+7.46,90.71,4,1,1,3,71.19,99.95,58.32,55.65,CIVIL,C++:Advanced;Machine Learning:Intermediate;Python:Beginner,0
+7.06,90.88,0,1,5,0,72.03,42.12,69.88,91.49,MECH,React:Beginner;SQL:Advanced;Machine Learning:Intermediate;Python:Intermediate;CSS:Intermediate,1
+6.61,95.03,1,0,2,8,79.53,86.2,96.88,62.28,MECH,CSS:Advanced;Data Science:Intermediate;JavaScript:Advanced;C++:Beginner,1
+5.06,84.43,5,3,6,6,49.79,80.63,48.64,54.02,MECH,CSS:Intermediate;SQL:Advanced;Java:Intermediate;C++:Intermediate;Data Science:Advanced,0
+9.36,65.45,4,1,3,5,77.62,85.08,66.6,79.95,MECH,CSS:Beginner;React:Beginner;C++:Intermediate;HTML:Advanced;Data Science:Advanced,1
+7.03,76.86,0,2,4,7,66.12,90.88,43.14,71.85,IT,JavaScript:Intermediate;HTML:Intermediate;SQL:Advanced;Python:Intermediate;Machine Learning:Intermediate,1
+9.23,56.26,0,1,0,3,73.81,82.96,55.09,73.1,CIVIL,JavaScript:Beginner;React:Intermediate,1
+5.71,98.43,0,1,4,7,38.76,76.01,98.21,57.41,EEE,HTML:Advanced;Java:Beginner,1
+8.86,56.8,0,0,5,5,54.73,67.47,56.26,58.49,EEE,HTML:Beginner;Machine Learning:Intermediate;C++:Intermediate;JavaScript:Intermediate;CSS:Intermediate,1
+5.21,96.29,0,3,3,5,57.53,54.66,80.35,86.42,IT,SQL:Beginner;Machine Learning:Advanced;Java:Beginner;HTML:Beginner,1
+7.84,59.18,2,1,0,7,55.18,75.11,84.82,68.23,IT,Data Science:Intermediate;React:Intermediate;SQL:Intermediate,1
+9.28,81.29,0,0,3,1,40.25,97.44,48.97,71.42,CIVIL,Java:Intermediate;SQL:Intermediate;HTML:Beginner;JavaScript:Intermediate;C++:Intermediate,1
+9.06,76.16,2,0,5,8,50.51,58.55,79.29,92.5,MECH,CSS:Beginner;Machine Learning:Beginner;JavaScript:Intermediate,1
+5.51,82.44,4,2,6,4,65.58,77.82,74.58,72.39,EEE,HTML:Intermediate;Python:Advanced;React:Advanced;Java:Intermediate,0
+5.62,95.5,1,1,2,6,80.32,68.81,47.47,79.9,EEE,Data Science:Intermediate;React:Beginner;HTML:Beginner,1
+5.57,63.84,0,1,2,8,90.86,77.35,64.04,82.2,MECH,CSS:Intermediate;Python:Intermediate;JavaScript:Advanced;Machine Learning:Advanced,1
+8.94,77.52,3,2,5,1,69.34,49.41,87.09,72.21,EEE,React:Advanced;Python:Advanced;SQL:Beginner;HTML:Beginner;Machine Learning:Advanced,1
+7.01,63.31,0,0,4,6,89.63,56.62,46.91,80.07,CSE,Machine Learning:Intermediate;SQL:Intermediate,1
+8.18,98.68,0,2,1,6,63.84,83.24,89.54,79.11,MECH,HTML:Intermediate;React:Intermediate;SQL:Intermediate;Java:Advanced;C++:Advanced,1
+8.31,84.7,0,1,3,0,73.88,33.41,59.53,52.1,IT,JavaScript:Intermediate;Data Science:Advanced;Java:Intermediate;Python:Beginner,1
+7.8,79.42,1,1,4,5,56.04,62.79,91.4,75.92,MECH,Java:Intermediate;Machine Learning:Advanced;C++:Intermediate,1
+9.43,67.7,0,0,5,2,87.7,56.5,41.26,72.23,MECH,Machine Learning:Advanced;Python:Beginner;SQL:Intermediate;Java:Beginner,1
+9.52,57.27,0,0,3,2,80.8,92.39,75.92,81.41,EEE,React:Advanced;SQL:Advanced;JavaScript:Beginner;Machine Learning:Advanced,1
+9.4,75.53,1,1,2,6,74.85,86.7,46.38,54.95,MECH,CSS:Beginner;HTML:Intermediate;C++:Beginner;SQL:Advanced;React:Beginner,1
+5.82,91.97,0,0,3,5,39.48,54.29,83.03,72.25,MECH,HTML:Beginner;Python:Intermediate;CSS:Intermediate;Java:Beginner;C++:Beginner,0
+5.74,60.75,3,2,4,6,54.21,33.34,39.97,42.71,CSE,HTML:Intermediate;Java:Beginner;CSS:Beginner;SQL:Beginner;Data Science:Intermediate,0
+5.87,66.33,0,0,4,8,99.4,42.15,63.66,52.26,IT,SQL:Beginner;Java:Intermediate;Data Science:Beginner;Machine Learning:Intermediate;Python:Advanced,1
+5.6,93.54,0,1,5,2,93.24,78.7,51.47,68.02,CSE,React:Advanced;HTML:Beginner;SQL:Beginner;C++:Intermediate;Java:Advanced,1
+7.73,77.98,2,2,2,7,65.36,35.64,45.38,43.61,IT,Python:Advanced;Data Science:Intermediate;HTML:Intermediate;Machine Learning:Advanced,1
+8.54,91.26,3,1,3,8,69.45,57.19,51.57,59.82,CSE,SQL:Intermediate;Java:Intermediate;JavaScript:Beginner;Python:Beginner;C++:Advanced,1
+9.38,91.91,2,1,4,1,57.87,72.15,87.87,84.27,EEE,Python:Intermediate;C++:Advanced,1
+9.6,97.2,3,1,3,7,96.36,76.81,39.26,54.77,IT,CSS:Beginner;JavaScript:Beginner;HTML:Advanced,1
+5.88,64.06,0,1,2,5,68.16,59.3,44.46,67.22,ECE,C++:Advanced;HTML:Intermediate;CSS:Intermediate;Java:Advanced,1
+9.65,78.55,0,0,4,8,76.97,78.6,56.43,48.49,MECH,C++:Beginner;Python:Advanced;JavaScript:Beginner;SQL:Intermediate,1
+8.76,89.64,0,1,2,7,99.65,56.6,97.58,85.54,CSE,React:Intermediate;Machine Learning:Intermediate;Java:Advanced;Python:Intermediate;CSS:Intermediate,1
+9.83,60.12,2,2,5,3,52.03,65.16,58.85,44.12,IT,C++:Beginner;CSS:Intermediate;HTML:Beginner;React:Beginner;JavaScript:Advanced,1
+6.99,63.38,1,0,0,4,92.4,76.45,91.41,85.33,EEE,Data Science:Beginner;SQL:Beginner;CSS:Beginner;React:Intermediate;Python:Advanced,1
+9.29,69.13,1,0,3,6,86.84,42.16,68.47,78.98,ECE,JavaScript:Intermediate;Python:Advanced;HTML:Beginner;Machine Learning:Intermediate;SQL:Intermediate,1
+8.1,90.09,1,1,2,1,64.92,61.18,75.37,51.86,IT,Machine Learning:Intermediate;Data Science:Advanced,1
+6.02,85.59,0,1,4,8,84.14,99.12,36.56,90.63,CIVIL,Python:Advanced;React:Intermediate;C++:Beginner;Java:Intermediate,1
+6.54,78.57,1,0,5,6,48.46,85.57,43.28,83.48,ECE,Java:Advanced;Data Science:Intermediate;C++:Intermediate;Python:Intermediate;Machine Learning:Advanced,1
+6.95,71.2,0,0,6,2,60.75,36.67,77.56,68.85,ECE,React:Beginner;Data Science:Intermediate,1
+7.06,84.07,1,0,1,4,47.63,42.7,86.98,91.14,MECH,Machine Learning:Beginner;Java:Beginner;React:Intermediate;SQL:Advanced;Python:Intermediate,0
+9.95,97.49,4,0,2,6,77.7,36.15,59.84,97.64,MECH,HTML:Intermediate;JavaScript:Intermediate;C++:Intermediate,0
+5.12,59.69,1,1,2,7,99.5,83.95,85.1,81.93,MECH,JavaScript:Intermediate;Java:Intermediate,1
+7.67,78.74,0,0,3,1,88.94,59.06,54.56,59.03,ECE,Java:Beginner;Machine Learning:Beginner;SQL:Advanced;JavaScript:Intermediate;React:Intermediate,1
+6.08,61.04,1,1,2,2,82.39,59.54,70.74,55.64,CIVIL,HTML:Advanced;CSS:Intermediate;Java:Advanced,0
+9.4,62.99,0,2,0,0,95.79,92.18,86.59,47.22,ECE,Java:Intermediate;SQL:Advanced;C++:Intermediate;React:Intermediate,1
+7.62,89.15,0,0,2,6,44.53,96.17,83.58,52.94,ECE,JavaScript:Advanced;React:Intermediate;HTML:Intermediate;Machine Learning:Beginner,1
+6.05,59.09,1,1,4,1,96.42,31.13,59.7,65.2,CSE,SQL:Advanced;React:Intermediate;Java:Beginner;JavaScript:Intermediate,0
+9.7,87.91,0,0,6,8,71.05,77.91,53.12,98.33,CIVIL,CSS:Intermediate;Machine Learning:Beginner,1
+9.71,63.2,0,1,1,6,36.69,39.01,95.6,77.89,EEE,Java:Intermediate;Machine Learning:Advanced,1
+8.33,79.66,2,1,1,6,56.46,80.0,82.54,78.11,IT,JavaScript:Beginner;Java:Beginner;HTML:Beginner,1
+5.07,76.41,2,0,5,8,94.63,34.74,98.68,74.73,IT,Data Science:Intermediate;React:Intermediate;CSS:Beginner;C++:Advanced,0
+9.43,67.74,0,0,1,4,42.91,45.47,36.56,66.62,CIVIL,CSS:Intermediate;SQL:Intermediate;Data Science:Advanced;C++:Intermediate;HTML:Intermediate,1
+6.91,80.29,0,0,0,8,67.03,32.91,95.84,48.15,CIVIL,Python:Intermediate;JavaScript:Intermediate;Machine Learning:Advanced,0
+7.1,83.92,2,0,6,8,86.67,99.26,85.82,61.55,MECH,SQL:Beginner;Machine Learning:Intermediate;Data Science:Beginner;JavaScript:Advanced;C++:Advanced,1
+7.28,70.34,2,2,6,7,56.58,83.72,74.0,83.0,ECE,Java:Intermediate;Data Science:Intermediate;JavaScript:Advanced;Python:Intermediate;C++:Intermediate,1
+9.48,65.18,0,1,2,8,54.54,98.09,99.44,43.08,MECH,React:Beginner;Java:Advanced;C++:Advanced;Data Science:Beginner,1
+5.64,72.26,1,0,6,0,54.38,50.36,82.31,75.78,ECE,C++:Beginner;SQL:Advanced;CSS:Advanced;Data Science:Beginner;Java:Beginner,1
+6.47,92.59,5,2,3,5,89.91,39.13,57.28,70.03,CSE,HTML:Intermediate;Java:Intermediate,0
+5.94,92.52,0,0,0,3,41.35,84.13,66.59,59.21,MECH,Python:Intermediate;Data Science:Intermediate,0
+6.88,95.83,1,0,6,5,66.65,63.75,74.27,70.11,IT,C++:Beginner;JavaScript:Beginner;Java:Beginner;React:Intermediate;SQL:Advanced,1
+8.89,81.95,0,1,1,7,81.5,33.4,86.06,91.69,ECE,Machine Learning:Intermediate;Data Science:Advanced;SQL:Intermediate;C++:Beginner,1
+5.09,70.67,1,0,3,8,84.63,53.94,81.14,41.73,CSE,C++:Intermediate;Data Science:Beginner;JavaScript:Advanced,0
+5.48,84.51,0,1,6,7,53.71,91.87,43.38,42.18,CSE,Python:Advanced;HTML:Intermediate;JavaScript:Advanced,1
+7.52,89.4,0,4,5,1,43.36,36.77,59.26,99.21,MECH,C++:Beginner;JavaScript:Beginner;HTML:Intermediate;React:Advanced,1
+9.0,95.31,1,1,1,8,69.0,58.53,68.04,82.46,CIVIL,Java:Advanced;Machine Learning:Beginner;SQL:Intermediate;JavaScript:Beginner,1
+6.45,75.61,1,1,0,7,87.35,84.1,90.39,91.12,MECH,Data Science:Intermediate;React:Beginner;HTML:Advanced,1
+9.31,96.14,0,0,3,4,81.18,83.65,52.99,42.43,CIVIL,SQL:Intermediate;Data Science:Beginner;Java:Beginner;Python:Beginner;CSS:Beginner,1
+9.29,73.99,0,0,1,1,57.2,76.75,80.16,98.92,MECH,Data Science:Intermediate;SQL:Beginner;React:Advanced;JavaScript:Advanced,1
+9.18,59.94,1,1,3,6,76.03,86.85,94.81,87.28,MECH,Data Science:Intermediate;HTML:Beginner;Python:Intermediate,1
+7.64,58.16,0,1,6,5,45.26,38.19,72.2,80.57,MECH,Machine Learning:Beginner;C++:Beginner,1
+5.16,74.37,3,1,2,6,63.77,32.52,46.5,79.56,ECE,CSS:Intermediate;HTML:Intermediate;C++:Advanced,0
+5.67,69.05,0,0,3,7,70.47,50.15,99.14,92.42,IT,Java:Beginner;HTML:Beginner;SQL:Intermediate,1
+6.24,65.98,0,0,4,8,49.95,72.93,35.74,97.38,ECE,Data Science:Intermediate;SQL:Advanced;C++:Intermediate,1
+7.99,71.28,1,1,2,7,98.33,87.28,59.26,83.98,CSE,C++:Intermediate;Python:Intermediate;Data Science:Intermediate;CSS:Beginner,1
+7.83,91.06,1,1,2,1,80.38,64.38,93.65,57.6,IT,React:Intermediate;SQL:Intermediate,1
+5.83,67.66,0,0,6,3,63.65,32.75,86.57,80.8,ECE,JavaScript:Intermediate;Data Science:Advanced,1
+9.76,74.3,0,0,6,4,91.03,95.74,51.91,80.25,IT,Java:Intermediate;React:Beginner,1
+7.94,63.29,0,0,1,0,41.21,76.43,74.91,42.78,CSE,JavaScript:Intermediate;React:Beginner,1
+5.08,92.68,2,0,5,2,93.87,71.08,96.38,70.98,CIVIL,HTML:Beginner;Python:Beginner;Java:Beginner;CSS:Beginner;React:Intermediate,1
+5.6,61.38,0,3,6,3,42.82,74.57,96.91,87.57,EEE,Python:Intermediate;Java:Intermediate;Machine Learning:Advanced,1
+7.51,97.87,2,1,2,0,67.28,70.61,69.72,73.14,CSE,HTML:Beginner;Machine Learning:Intermediate;SQL:Beginner,1
+8.29,66.07,3,1,3,6,41.53,66.83,72.17,98.69,IT,Python:Advanced;React:Intermediate;JavaScript:Beginner;HTML:Beginner,0
+8.52,91.93,0,2,6,0,50.29,79.16,60.63,59.09,EEE,HTML:Intermediate;Data Science:Beginner;JavaScript:Intermediate;SQL:Advanced;Java:Advanced,1
+8.3,85.63,2,1,2,4,93.95,58.32,82.89,74.98,MECH,SQL:Advanced;JavaScript:Intermediate;CSS:Intermediate,1
+6.77,75.52,0,3,5,8,53.54,98.12,89.56,81.57,CIVIL,C++:Beginner;JavaScript:Intermediate;Java:Beginner,1
+7.92,69.87,0,1,1,0,41.09,57.23,75.76,61.27,IT,Machine Learning:Intermediate;Data Science:Advanced;CSS:Intermediate,1
+7.14,80.69,2,0,4,2,48.7,93.92,44.28,66.88,IT,JavaScript:Intermediate;React:Beginner;HTML:Advanced;Machine Learning:Intermediate;SQL:Beginner,0
+6.79,59.4,0,2,2,5,50.19,51.98,49.15,43.16,IT,CSS:Intermediate;HTML:Intermediate,1
+5.6,89.67,2,2,0,6,38.52,66.71,55.76,73.89,ECE,C++:Advanced;Python:Advanced;HTML:Intermediate,0
+5.49,55.16,2,4,3,6,94.54,30.25,88.13,56.74,ECE,CSS:Beginner;Java:Intermediate;SQL:Advanced;Python:Intermediate;Data Science:Beginner,1
+6.04,64.5,1,0,1,8,39.88,30.19,64.28,75.63,ECE,JavaScript:Intermediate;React:Intermediate,0
+9.34,86.47,1,1,3,5,57.89,67.97,69.01,85.9,CSE,CSS:Beginner;HTML:Intermediate;SQL:Intermediate,1
+5.97,55.15,0,0,6,0,95.13,74.05,58.21,49.15,EEE,Python:Intermediate;SQL:Intermediate,1
+8.87,68.39,0,1,4,6,47.86,54.26,59.56,64.97,EEE,Java:Advanced;JavaScript:Advanced;Python:Intermediate,1
+9.25,98.88,0,1,6,1,70.39,68.11,42.88,74.76,IT,CSS:Beginner;HTML:Advanced;Java:Advanced;Machine Learning:Intermediate,1
+9.78,97.42,1,0,2,4,92.82,82.77,79.21,87.78,CIVIL,Java:Intermediate;Machine Learning:Intermediate;HTML:Beginner;React:Intermediate,1
+7.78,87.12,0,2,1,6,56.3,63.39,45.39,89.91,MECH,Data Science:Advanced;Java:Advanced;C++:Intermediate,1
+5.8,55.13,0,1,1,5,86.75,42.17,85.11,84.41,CIVIL,HTML:Beginner;Machine Learning:Advanced,1
+7.05,83.59,2,3,2,4,71.44,38.24,65.31,90.17,CSE,Java:Beginner;Data Science:Intermediate;Machine Learning:Intermediate;CSS:Beginner;SQL:Beginner,1
+5.94,71.97,0,1,3,6,61.9,96.68,35.1,99.84,CIVIL,JavaScript:Beginner;React:Advanced;C++:Beginner;HTML:Intermediate;Python:Advanced,1
+7.28,68.6,5,2,0,3,59.79,55.13,54.23,81.96,CSE,React:Intermediate;Python:Advanced;Machine Learning:Beginner;Data Science:Advanced;SQL:Intermediate,0
+8.76,58.56,0,2,6,3,88.35,42.19,54.11,58.53,IT,JavaScript:Intermediate;Machine Learning:Beginner;CSS:Beginner;Python:Intermediate,1
+6.24,58.78,0,1,5,7,63.02,49.23,98.17,81.34,IT,Python:Beginner;Java:Advanced;SQL:Intermediate;C++:Advanced;Data Science:Intermediate,1
+8.48,76.56,0,1,2,4,82.77,74.3,97.9,86.92,ECE,React:Beginner;HTML:Advanced;SQL:Beginner;Python:Advanced;Data Science:Beginner,1
+9.39,66.89,1,1,3,0,46.19,58.21,75.19,80.85,EEE,HTML:Intermediate;SQL:Beginner,1
+6.27,55.14,0,0,3,5,80.53,67.88,38.92,93.65,EEE,React:Beginner;HTML:Beginner,1
+6.41,85.47,0,1,1,0,53.86,48.33,75.15,94.44,ECE,Java:Advanced;Python:Intermediate;CSS:Beginner;Data Science:Intermediate;C++:Intermediate,1
+6.22,69.04,1,0,0,4,49.87,63.7,61.82,77.88,CSE,Machine Learning:Intermediate;Java:Intermediate;CSS:Intermediate;Python:Intermediate;HTML:Beginner,0
+6.65,78.74,2,1,2,2,45.26,67.71,50.75,87.64,CIVIL,Data Science:Intermediate;HTML:Intermediate;Machine Learning:Advanced;SQL:Advanced,0
+6.46,73.72,0,1,2,2,83.14,48.95,61.54,90.68,EEE,HTML:Intermediate;React:Intermediate,1
+5.29,90.3,1,0,6,7,77.7,57.03,55.4,56.61,EEE,SQL:Beginner;Data Science:Beginner,0
+7.31,88.55,1,0,4,5,88.03,86.71,94.98,41.36,CIVIL,React:Intermediate;Python:Intermediate;C++:Advanced,1
+5.31,71.22,1,1,6,0,65.82,99.0,80.07,95.2,EEE,SQL:Intermediate;React:Beginner,1
+6.09,71.4,0,0,2,5,86.95,38.2,94.0,79.14,ECE,React:Beginner;Data Science:Beginner;C++:Intermediate,1
+5.82,55.1,2,0,3,0,35.11,47.8,38.43,94.62,EEE,Machine Learning:Advanced;Data Science:Advanced;HTML:Intermediate,0
+7.04,64.83,0,1,4,7,37.2,83.73,63.79,66.44,EEE,Data Science:Beginner;SQL:Intermediate;CSS:Advanced;Python:Beginner;Machine Learning:Beginner,1
+8.93,97.51,0,1,4,0,77.85,57.23,57.41,99.24,MECH,CSS:Intermediate;Machine Learning:Intermediate;React:Intermediate,1
+6.56,85.79,1,1,6,6,43.82,43.05,89.94,64.94,IT,CSS:Beginner;React:Advanced;HTML:Advanced,1
+9.72,85.88,0,1,2,2,48.29,78.6,98.03,62.08,CIVIL,Data Science:Intermediate;Machine Learning:Advanced;SQL:Intermediate;Python:Advanced;C++:Intermediate,1
+8.07,68.64,2,0,3,6,50.43,86.02,56.16,93.18,CSE,Data Science:Intermediate;Java:Intermediate;C++:Advanced,1
+5.45,66.56,1,1,1,8,36.53,68.34,70.39,57.87,EEE,C++:Beginner;JavaScript:Advanced;Machine Learning:Advanced;React:Beginner;HTML:Advanced,0
+7.79,57.36,2,0,0,0,49.24,46.29,44.92,92.23,MECH,SQL:Intermediate;HTML:Beginner;Machine Learning:Beginner;Python:Intermediate,0
+7.93,61.99,0,0,1,4,48.37,96.01,56.29,96.67,EEE,CSS:Beginner;Data Science:Advanced;Machine Learning:Advanced;JavaScript:Beginner,1
+7.48,63.35,0,2,2,4,83.33,85.46,99.92,46.66,IT,CSS:Intermediate;Python:Intermediate,1
+7.6,70.7,5,2,2,7,93.12,98.7,84.99,90.81,ECE,Java:Advanced;Data Science:Intermediate;Python:Advanced,1
+5.13,79.02,0,0,3,1,45.77,45.81,37.43,95.86,CSE,React:Beginner;CSS:Intermediate,0
+6.76,77.92,1,2,2,0,42.5,97.93,46.61,97.75,ECE,Java:Intermediate;HTML:Advanced,1
+7.03,82.39,1,2,6,7,53.28,35.65,40.87,88.42,IT,JavaScript:Beginner;Python:Advanced;Data Science:Beginner;Machine Learning:Intermediate,1
+7.7,87.85,0,0,5,5,63.48,66.23,42.87,53.48,ECE,Data Science:Beginner;Machine Learning:Beginner,1
+8.16,69.27,3,3,0,3,98.03,63.35,68.15,69.45,ECE,JavaScript:Beginner;Java:Intermediate;Data Science:Intermediate;React:Advanced;Python:Intermediate,1
+6.32,87.59,0,1,4,1,49.94,56.98,42.06,52.14,MECH,C++:Intermediate;Java:Advanced;Data Science:Intermediate;JavaScript:Advanced;React:Beginner,1
+6.81,77.97,4,0,3,7,53.9,36.31,83.62,69.3,EEE,Java:Beginner;Data Science:Intermediate;C++:Intermediate,0
+8.42,65.89,2,0,1,4,92.07,50.0,82.89,50.37,IT,JavaScript:Beginner;React:Advanced;Python:Beginner;Machine Learning:Intermediate;C++:Beginner,1
+8.41,57.94,1,1,5,0,81.38,64.36,80.77,96.56,EEE,CSS:Intermediate;React:Intermediate;Machine Learning:Advanced,1
+9.0,72.3,2,2,6,7,80.76,31.3,89.55,98.85,CIVIL,SQL:Beginner;CSS:Intermediate,1
+7.84,86.13,0,1,2,0,36.92,79.7,58.18,71.67,MECH,Machine Learning:Advanced;HTML:Advanced;SQL:Intermediate;CSS:Advanced,1
+5.58,60.1,1,1,2,4,97.28,80.59,95.63,43.87,EEE,Data Science:Intermediate;SQL:Beginner;C++:Intermediate,1
+5.66,84.36,1,1,1,2,55.08,79.36,69.05,48.12,IT,SQL:Beginner;Java:Advanced;Machine Learning:Beginner,0
+9.63,86.38,1,1,3,6,71.83,50.94,50.76,77.38,CIVIL,SQL:Intermediate;Python:Advanced,1
+8.14,92.96,1,0,6,0,68.39,98.2,57.28,96.92,CIVIL,JavaScript:Beginner;CSS:Intermediate;React:Advanced;SQL:Intermediate;Python:Advanced,1
+7.83,61.16,0,0,3,6,69.77,81.7,41.67,99.39,MECH,C++:Beginner;JavaScript:Beginner;Machine Learning:Advanced;Java:Intermediate;Data Science:Advanced,1
+8.53,99.19,2,0,2,5,93.5,95.58,55.81,61.42,CIVIL,SQL:Beginner;JavaScript:Advanced;C++:Advanced,1
+7.32,87.36,0,0,1,3,64.94,40.86,47.25,92.51,CSE,HTML:Beginner;Python:Beginner,1
+9.73,61.86,0,3,4,4,86.39,61.85,52.4,53.35,EEE,React:Intermediate;Machine Learning:Beginner;CSS:Intermediate;Python:Intermediate,1
+7.28,84.03,0,1,1,0,74.21,56.45,36.35,89.59,CIVIL,C++:Advanced;JavaScript:Beginner,1
+8.88,77.77,2,2,4,5,85.44,46.72,81.87,79.5,MECH,JavaScript:Beginner;Machine Learning:Beginner;CSS:Intermediate;HTML:Intermediate;React:Beginner,1
+9.01,73.6,0,1,6,8,86.65,55.32,36.93,48.74,CSE,Java:Intermediate;SQL:Advanced,1
+8.74,56.1,0,2,6,6,47.02,91.01,75.74,82.23,CSE,HTML:Intermediate;SQL:Beginner,1
+6.36,67.21,0,1,3,7,81.96,67.86,91.24,96.03,IT,SQL:Intermediate;Python:Beginner;CSS:Intermediate;HTML:Intermediate;C++:Beginner,1
+5.89,82.83,0,0,5,6,90.39,40.2,57.11,61.23,IT,Java:Intermediate;React:Beginner;Data Science:Intermediate;C++:Intermediate;CSS:Beginner,1
+5.23,66.78,0,0,0,8,41.74,96.07,99.96,73.74,CSE,Python:Intermediate;SQL:Beginner;Java:Intermediate;Machine Learning:Intermediate,1
+6.59,66.57,0,0,1,4,44.36,47.89,40.83,58.41,EEE,Python:Beginner;SQL:Beginner;C++:Intermediate,0
+8.34,95.17,0,1,1,1,79.57,84.17,49.14,62.3,CIVIL,Data Science:Intermediate;React:Intermediate;JavaScript:Advanced,1
+9.09,97.36,0,2,3,2,92.59,88.97,76.53,85.93,IT,CSS:Intermediate;Data Science:Intermediate;Machine Learning:Advanced,1
+9.63,66.43,4,1,3,0,82.21,98.81,73.72,71.06,ECE,React:Beginner;JavaScript:Intermediate,1
+9.55,61.64,1,1,4,7,84.3,37.54,52.78,56.56,CIVIL,React:Beginner;C++:Advanced;Machine Learning:Intermediate;CSS:Intermediate;Python:Intermediate,1
+5.52,55.2,0,2,4,0,98.39,53.87,87.55,84.52,IT,Machine Learning:Intermediate;HTML:Advanced;Data Science:Intermediate;JavaScript:Intermediate,1
+8.36,75.22,4,0,6,8,90.41,38.41,97.86,87.25,CIVIL,Java:Advanced;JavaScript:Intermediate;HTML:Intermediate,1
+9.56,73.55,1,0,0,1,37.27,88.01,95.14,43.07,EEE,Java:Intermediate;CSS:Intermediate,1
+8.28,65.09,0,2,2,1,84.57,70.19,87.47,90.71,MECH,Data Science:Beginner;React:Beginner,1
+7.02,97.73,0,2,2,3,58.4,62.47,43.12,43.06,CSE,Java:Intermediate;SQL:Intermediate,1
+7.71,93.2,1,3,4,0,54.07,37.67,78.84,97.98,ECE,Data Science:Advanced;React:Advanced;JavaScript:Advanced;Python:Advanced;CSS:Intermediate,1
+5.01,56.83,5,2,4,1,82.88,64.37,37.48,49.07,MECH,Machine Learning:Intermediate;React:Advanced,0
+7.95,75.29,1,2,0,7,87.22,86.78,36.18,50.12,IT,Java:Beginner;CSS:Intermediate,1
+7.68,62.19,0,0,5,5,97.78,83.86,85.22,54.0,CSE,Python:Intermediate;Machine Learning:Beginner;HTML:Intermediate;CSS:Beginner;C++:Beginner,1
+10.0,62.11,5,0,6,4,45.33,67.58,63.67,42.36,EEE,HTML:Intermediate;Python:Intermediate;React:Intermediate;Data Science:Intermediate;Java:Intermediate,0
+9.54,96.15,2,0,6,3,87.13,75.21,40.41,76.09,CSE,SQL:Advanced;CSS:Advanced;React:Advanced;Data Science:Beginner;Python:Advanced,1
+8.69,64.32,3,0,0,4,60.24,56.4,98.5,63.25,MECH,Python:Advanced;JavaScript:Beginner;HTML:Beginner;React:Intermediate;CSS:Intermediate,0
+8.44,62.59,0,2,3,4,74.02,86.99,86.24,54.38,IT,React:Intermediate;Python:Intermediate;JavaScript:Beginner;CSS:Intermediate,1
+5.34,87.32,1,1,0,2,72.33,43.02,62.48,57.15,CSE,React:Intermediate;CSS:Beginner;JavaScript:Beginner;Data Science:Beginner,0
+8.4,65.28,1,2,2,0,83.29,93.53,80.35,43.44,CIVIL,Java:Beginner;CSS:Intermediate;Machine Learning:Beginner;SQL:Intermediate,1
+8.07,82.51,3,1,1,2,84.57,90.39,73.1,62.18,ECE,Machine Learning:Beginner;React:Intermediate;Java:Intermediate,1
+7.04,71.35,1,0,6,2,50.34,69.97,67.52,47.24,CIVIL,CSS:Beginner;Java:Advanced;JavaScript:Intermediate;React:Intermediate,1
+6.66,68.69,0,0,3,1,39.4,60.95,48.21,73.07,CIVIL,C++:Intermediate;React:Intermediate;SQL:Advanced;Machine Learning:Intermediate;Python:Intermediate,1
+6.27,58.24,0,0,4,6,35.21,43.22,95.72,95.67,EEE,Machine Learning:Beginner;HTML:Intermediate;JavaScript:Advanced;C++:Intermediate,1
+8.44,94.0,3,1,6,0,74.52,87.7,81.81,63.65,CIVIL,Machine Learning:Intermediate;Java:Advanced,1
+7.97,67.64,3,2,3,6,79.62,47.19,81.52,99.21,IT,CSS:Intermediate;Python:Intermediate;Machine Learning:Intermediate,1
+5.36,63.74,1,0,3,1,35.83,64.73,67.23,78.54,CSE,SQL:Advanced;Python:Advanced;JavaScript:Beginner;CSS:Beginner;Machine Learning:Intermediate,0
+8.83,82.66,0,1,6,4,80.13,63.86,46.24,96.56,EEE,HTML:Intermediate;React:Intermediate;Java:Intermediate;CSS:Intermediate,1
+5.5,57.75,2,0,4,0,41.29,66.56,35.47,76.18,ECE,CSS:Intermediate;SQL:Intermediate;HTML:Intermediate;C++:Beginner;Data Science:Intermediate,0
+7.27,97.24,0,1,3,7,46.8,32.56,78.91,47.09,IT,CSS:Intermediate;C++:Intermediate;HTML:Beginner,1
+7.7,77.86,4,0,1,7,82.92,80.98,39.11,68.61,CIVIL,HTML:Intermediate;CSS:Beginner,0
+8.58,64.62,1,0,1,8,39.31,49.85,48.79,53.05,MECH,Data Science:Advanced;Java:Intermediate;HTML:Intermediate;SQL:Beginner,1
+5.22,57.2,1,2,3,5,76.38,36.21,82.05,56.5,IT,HTML:Advanced;Java:Intermediate;JavaScript:Advanced;CSS:Intermediate;Machine Learning:Beginner,0
+8.88,79.48,3,0,3,3,64.82,43.69,89.99,71.49,CIVIL,Python:Intermediate;C++:Advanced;Machine Learning:Advanced;Java:Beginner,0
+7.1,92.63,5,0,0,7,50.78,64.65,73.42,79.94,CSE,Machine Learning:Beginner;HTML:Advanced;Data Science:Intermediate;Python:Beginner;React:Beginner,0
+7.34,88.29,3,2,0,1,44.1,43.55,95.75,99.08,ECE,Data Science:Advanced;Java:Beginner;CSS:Beginner;JavaScript:Intermediate;HTML:Intermediate,0
+9.88,64.1,0,1,0,4,43.87,89.62,64.81,50.27,ECE,React:Intermediate;C++:Intermediate;Machine Learning:Beginner,1
+8.05,92.45,2,2,0,1,74.46,34.53,66.41,62.22,IT,React:Advanced;Java:Intermediate;Data Science:Intermediate;CSS:Intermediate,0
+5.96,91.27,1,1,1,3,51.73,63.08,41.66,97.42,MECH,HTML:Advanced;React:Intermediate;Python:Beginner;Machine Learning:Beginner;JavaScript:Intermediate,0
+9.41,66.55,0,0,4,6,92.84,85.37,98.47,88.4,MECH,SQL:Advanced;Python:Beginner;HTML:Advanced;React:Intermediate,1
+9.92,57.47,0,3,6,2,84.67,50.26,42.8,69.84,EEE,C++:Intermediate;HTML:Advanced;JavaScript:Advanced,1
+8.63,86.49,0,1,2,7,36.84,86.19,35.22,73.51,CSE,HTML:Intermediate;Python:Beginner;SQL:Intermediate,1
+5.87,87.63,2,1,6,4,79.27,90.42,87.07,66.37,CSE,C++:Advanced;Data Science:Beginner;React:Intermediate,1
+9.84,75.9,0,2,3,2,90.7,86.66,35.05,68.57,ECE,SQL:Advanced;Machine Learning:Intermediate;Data Science:Beginner,1
+8.3,75.39,3,2,3,3,38.54,70.82,38.49,74.01,EEE,SQL:Beginner;C++:Intermediate;Python:Advanced,0
+7.69,85.0,0,1,1,7,61.73,83.33,42.88,62.12,CSE,HTML:Beginner;CSS:Beginner;C++:Beginner;Machine Learning:Intermediate,1
+5.61,71.13,0,1,0,4,51.45,35.56,63.56,72.64,CIVIL,JavaScript:Intermediate;HTML:Intermediate;Java:Beginner;Python:Intermediate,0
+8.21,82.19,0,0,3,6,79.19,91.32,71.02,89.77,MECH,JavaScript:Advanced;HTML:Intermediate;C++:Advanced;CSS:Beginner,1
+7.41,57.08,0,0,2,1,85.74,97.66,94.37,67.41,EEE,React:Advanced;Machine Learning:Beginner;SQL:Intermediate,1
+7.56,77.67,2,0,6,3,54.26,48.8,42.74,53.44,MECH,React:Advanced;Python:Beginner;C++:Beginner,1
+6.43,80.18,1,1,3,2,92.89,95.35,39.04,51.61,IT,Java:Intermediate;C++:Intermediate,1
+9.63,90.66,0,1,3,4,38.67,65.73,91.56,97.9,CIVIL,React:Beginner;Machine Learning:Beginner,1
+7.86,70.51,1,3,1,0,71.52,86.61,41.39,89.84,IT,Machine Learning:Advanced;SQL:Advanced;Data Science:Beginner,1
+8.15,58.82,2,1,6,4,82.32,39.26,67.24,41.11,CIVIL,CSS:Intermediate;SQL:Intermediate;C++:Advanced;JavaScript:Advanced;HTML:Intermediate,1
+9.05,85.25,4,2,1,1,52.15,76.04,55.95,49.54,EEE,Java:Advanced;CSS:Intermediate,1
+6.6,88.48,0,1,5,5,47.9,62.9,68.38,53.03,CSE,Java:Intermediate;Python:Advanced;C++:Advanced,1
+9.37,69.55,3,0,4,7,62.65,63.02,54.67,85.6,IT,HTML:Advanced;Data Science:Intermediate;CSS:Beginner;C++:Intermediate;Machine Learning:Beginner,1
+9.51,59.15,0,1,6,7,53.89,52.47,91.34,46.72,CIVIL,C++:Beginner;Python:Advanced;JavaScript:Intermediate,1
+5.3,80.95,0,0,5,4,91.76,64.26,97.38,88.8,CIVIL,C++:Intermediate;JavaScript:Advanced;CSS:Intermediate;SQL:Advanced,1
+8.61,74.51,0,1,2,5,75.49,72.51,62.91,74.03,ECE,CSS:Advanced;C++:Advanced,1
+5.18,76.88,1,1,6,3,88.45,81.29,92.59,94.21,ECE,React:Intermediate;Data Science:Advanced;Java:Beginner,1
+7.01,96.37,3,2,0,0,45.53,69.93,78.2,66.77,MECH,Machine Learning:Advanced;React:Intermediate;CSS:Intermediate;Python:Beginner,0
+9.97,81.41,5,0,1,8,45.95,80.28,53.84,44.41,CIVIL,React:Advanced;CSS:Intermediate,0
+7.79,89.38,0,1,5,6,90.75,30.66,53.19,58.61,CIVIL,JavaScript:Beginner;Java:Beginner;CSS:Beginner;HTML:Advanced;Machine Learning:Intermediate,1
+9.03,58.67,3,0,4,6,95.54,54.68,64.99,56.27,IT,Java:Advanced;CSS:Intermediate;Data Science:Intermediate,1
+6.91,92.18,2,1,3,2,44.78,36.57,56.88,64.48,CIVIL,Data Science:Beginner;JavaScript:Beginner;SQL:Beginner,0
+7.07,93.95,5,0,4,8,48.15,81.47,99.51,91.57,IT,HTML:Advanced;SQL:Intermediate;Python:Advanced;Java:Beginner,0
+5.18,90.61,2,0,5,7,97.82,40.12,86.89,88.26,IT,React:Beginner;C++:Beginner;HTML:Intermediate;Machine Learning:Intermediate,0
+7.45,58.68,0,0,2,3,41.61,79.11,91.02,75.76,CSE,HTML:Advanced;C++:Advanced;Machine Learning:Beginner,1
+5.24,77.37,1,0,5,0,79.95,58.76,57.19,84.52,IT,CSS:Beginner;Data Science:Intermediate;Machine Learning:Intermediate,0
+7.16,68.71,3,1,5,8,88.47,43.55,42.07,53.91,ECE,SQL:Intermediate;Machine Learning:Advanced;CSS:Beginner;Python:Intermediate,0
+6.34,71.76,0,2,2,4,89.79,90.08,79.52,98.35,IT,React:Beginner;CSS:Intermediate;SQL:Intermediate,1
+6.98,75.73,1,0,1,4,54.99,42.92,90.75,66.19,CIVIL,C++:Beginner;Machine Learning:Beginner;SQL:Beginner,0
+7.91,59.73,0,2,4,7,66.53,71.39,76.45,55.66,MECH,SQL:Beginner;React:Beginner;C++:Intermediate,1
+7.19,98.74,0,1,1,8,66.67,82.43,70.56,63.96,ECE,HTML:Intermediate;React:Advanced,1
+7.52,61.52,1,0,6,3,92.27,30.83,90.76,91.79,CIVIL,Machine Learning:Intermediate;Java:Intermediate,1
+9.05,61.02,1,1,1,2,73.51,38.19,55.97,91.88,EEE,Python:Intermediate;C++:Intermediate;SQL:Intermediate,1
+7.85,72.78,0,0,1,1,35.57,41.18,98.1,47.67,CSE,SQL:Intermediate;Data Science:Advanced;CSS:Beginner;React:Intermediate,0
+8.61,81.03,0,1,6,5,35.92,92.76,95.7,69.97,ECE,HTML:Intermediate;React:Beginner,1
+6.32,95.04,2,0,2,3,81.64,44.25,76.23,55.84,EEE,Python:Beginner;Java:Beginner;HTML:Advanced;CSS:Intermediate,0
+8.81,61.01,0,2,4,3,47.84,30.78,54.46,86.75,CIVIL,Data Science:Intermediate;C++:Intermediate;Python:Advanced;JavaScript:Intermediate;HTML:Advanced,1
+5.86,57.49,0,0,0,2,71.5,66.57,64.79,41.78,CIVIL,JavaScript:Beginner;C++:Beginner;HTML:Beginner,0
+8.42,65.38,1,1,2,0,97.74,80.35,83.79,78.71,IT,C++:Advanced;SQL:Intermediate;Java:Beginner;Machine Learning:Intermediate,1
+7.54,65.8,1,1,6,2,70.41,59.53,84.77,62.69,CSE,JavaScript:Beginner;React:Advanced;C++:Beginner;Machine Learning:Advanced,1
+6.4,66.52,0,1,6,1,81.97,78.17,96.47,55.44,CIVIL,CSS:Beginner;JavaScript:Intermediate;SQL:Advanced,1
+5.49,85.68,3,2,1,4,93.9,76.83,35.28,98.24,MECH,React:Beginner;Java:Advanced,0
+8.63,93.73,0,1,3,0,66.26,74.56,94.43,72.51,CSE,Data Science:Advanced;C++:Intermediate;JavaScript:Beginner,1
+9.21,80.3,0,1,1,3,99.05,66.59,76.64,89.27,ECE,JavaScript:Advanced;C++:Intermediate;Python:Beginner;React:Advanced;Machine Learning:Advanced,1
+5.46,79.83,1,2,1,0,36.81,85.76,73.51,54.48,ECE,Machine Learning:Beginner;Java:Intermediate;Python:Beginner;HTML:Advanced;C++:Advanced,0
+6.08,94.5,0,0,2,6,65.45,34.74,80.0,80.22,EEE,SQL:Beginner;Python:Intermediate;CSS:Intermediate;HTML:Advanced;JavaScript:Intermediate,1
+7.49,85.51,0,0,2,5,91.39,31.24,83.68,79.63,MECH,React:Intermediate;CSS:Beginner;JavaScript:Beginner;HTML:Advanced,1
+6.05,89.69,1,0,3,5,85.76,42.04,67.49,45.33,ECE,SQL:Advanced;React:Beginner;Java:Intermediate,0
+5.02,72.31,0,2,4,5,90.86,96.9,47.25,77.25,IT,SQL:Intermediate;Java:Intermediate;C++:Advanced,1
+5.14,69.51,0,1,4,5,45.65,50.38,95.39,66.79,IT,Machine Learning:Intermediate;React:Intermediate;HTML:Intermediate;JavaScript:Intermediate;Data Science:Advanced,1
+9.63,89.8,0,2,3,4,71.41,82.46,82.24,83.65,CIVIL,SQL:Beginner;Java:Intermediate;C++:Advanced,1
+6.24,55.2,0,0,6,5,72.74,33.57,98.02,52.73,ECE,Python:Intermediate;CSS:Intermediate;Machine Learning:Advanced;JavaScript:Beginner;React:Intermediate,1
+6.96,55.7,0,0,0,3,75.62,61.94,76.31,88.27,EEE,React:Beginner;Data Science:Advanced;Machine Learning:Intermediate,1
+7.99,87.59,2,1,3,5,87.74,48.73,72.11,77.32,ECE,Data Science:Beginner;HTML:Advanced;Python:Intermediate,1
+7.19,62.1,0,1,4,7,63.88,56.84,87.96,87.13,MECH,Machine Learning:Intermediate;Data Science:Intermediate,1
+8.24,72.99,0,1,1,6,75.24,50.66,46.11,74.29,CIVIL,HTML:Beginner;React:Intermediate;C++:Intermediate;Python:Intermediate,1
+6.9,71.14,0,1,6,2,66.4,64.17,92.69,66.44,CSE,SQL:Advanced;Python:Intermediate;JavaScript:Intermediate;Data Science:Intermediate,1
+6.98,57.2,0,2,1,0,96.89,89.82,71.14,73.01,CSE,Java:Advanced;C++:Advanced;Data Science:Beginner;Python:Advanced;HTML:Intermediate,1
+8.96,98.23,1,0,4,5,49.51,71.23,46.4,58.41,CIVIL,C++:Advanced;Data Science:Intermediate;Python:Advanced;SQL:Advanced,1
+9.23,85.98,0,0,4,1,99.7,86.42,41.75,78.98,MECH,Java:Intermediate;CSS:Advanced;Data Science:Intermediate;SQL:Advanced;JavaScript:Beginner,1
+9.98,76.88,1,1,2,7,37.49,40.9,65.55,78.41,ECE,Data Science:Beginner;HTML:Advanced,1
+8.89,90.61,0,0,6,0,65.79,45.63,35.2,61.37,MECH,Machine Learning:Advanced;C++:Intermediate;React:Intermediate;Data Science:Advanced;JavaScript:Intermediate,1
+6.76,63.46,0,2,1,1,48.63,78.9,66.95,90.85,MECH,Machine Learning:Intermediate;Python:Advanced;HTML:Intermediate;JavaScript:Advanced;Data Science:Intermediate,1
+6.64,82.16,3,1,1,4,83.85,58.2,79.66,41.44,EEE,React:Intermediate;Data Science:Intermediate;HTML:Intermediate,0
+7.41,81.76,1,0,4,7,78.06,42.25,56.04,85.04,EEE,JavaScript:Beginner;HTML:Advanced,1
+8.93,93.47,0,1,1,5,83.81,44.55,37.3,88.59,CIVIL,Python:Beginner;Data Science:Advanced;React:Beginner;Java:Intermediate;SQL:Beginner,1
+7.56,89.97,1,0,0,6,41.53,79.36,68.88,51.42,MECH,Python:Beginner;JavaScript:Intermediate,1
+5.84,89.24,1,2,1,0,45.23,49.57,87.55,85.24,CSE,CSS:Advanced;HTML:Beginner;SQL:Intermediate;Data Science:Intermediate,1
+8.3,70.91,1,1,0,0,53.35,87.21,74.51,55.17,IT,C++:Intermediate;SQL:Beginner;React:Advanced,1
+5.8,61.14,0,2,5,8,46.44,89.68,97.65,69.15,CSE,Java:Intermediate;SQL:Advanced,1
+7.61,97.31,0,2,2,5,40.28,54.05,39.52,64.03,CSE,HTML:Intermediate;C++:Beginner;Java:Advanced;Data Science:Beginner;CSS:Beginner,1
+8.08,72.59,1,0,4,0,68.51,44.8,88.27,60.24,EEE,React:Intermediate;Python:Beginner;SQL:Beginner,1
+8.85,92.05,0,3,5,1,64.25,77.61,57.39,92.68,MECH,C++:Advanced;HTML:Intermediate;Python:Intermediate,1
+7.01,66.25,5,2,3,3,58.92,77.17,58.14,71.63,EEE,CSS:Intermediate;Python:Beginner,0
+5.22,93.17,3,0,0,1,68.84,76.13,55.31,74.65,ECE,SQL:Beginner;JavaScript:Intermediate;Machine Learning:Advanced,0
+5.55,97.08,4,0,5,5,54.0,85.49,86.13,61.28,EEE,Data Science:Advanced;HTML:Intermediate,0
+6.72,62.29,1,1,1,3,63.04,97.02,41.43,87.72,CIVIL,Java:Intermediate;SQL:Advanced;Data Science:Intermediate,1
+9.09,95.34,1,0,6,1,80.91,45.9,44.61,50.6,CIVIL,HTML:Advanced;Machine Learning:Intermediate;SQL:Beginner;CSS:Beginner,1
+7.6,76.16,0,2,2,8,42.86,84.36,77.06,72.05,CSE,CSS:Advanced;Python:Intermediate;React:Beginner;HTML:Intermediate;JavaScript:Advanced,1
+5.36,57.7,0,1,1,5,74.43,51.88,81.69,84.05,ECE,C++:Intermediate;SQL:Beginner;Java:Beginner;Data Science:Beginner;CSS:Beginner,1
+8.43,70.36,2,1,0,2,47.61,88.37,94.95,68.75,EEE,C++:Beginner;CSS:Intermediate,1
+7.45,97.71,0,0,3,7,45.31,84.7,89.19,84.9,MECH,JavaScript:Beginner;HTML:Beginner;Java:Intermediate;C++:Beginner,1
+8.87,82.87,3,1,4,1,99.61,32.76,53.85,91.56,MECH,C++:Advanced;Machine Learning:Beginner,1
+5.31,89.16,1,1,4,0,98.55,98.6,86.94,92.55,ECE,HTML:Intermediate;Machine Learning:Intermediate;React:Advanced;SQL:Advanced;Data Science:Intermediate,1
+6.11,96.82,2,1,4,4,48.67,58.59,45.32,80.94,ECE,Machine Learning:Intermediate;SQL:Beginner,0
+9.98,63.12,0,0,2,4,54.92,72.18,62.7,81.39,ECE,Python:Advanced;SQL:Advanced;HTML:Beginner;C++:Intermediate;Machine Learning:Intermediate,1
+8.93,76.69,2,0,0,1,46.98,50.6,58.0,67.94,MECH,SQL:Beginner;Machine Learning:Intermediate,0
+9.9,74.22,0,1,4,2,87.79,68.98,57.92,50.45,MECH,JavaScript:Intermediate;Python:Intermediate;React:Beginner;HTML:Beginner;CSS:Intermediate,1
+5.6,71.58,1,0,4,4,55.69,44.64,88.02,79.48,CIVIL,HTML:Beginner;Machine Learning:Advanced;CSS:Intermediate,0
+5.25,68.49,1,2,1,0,49.7,87.9,45.52,90.7,CIVIL,HTML:Beginner;React:Intermediate;Data Science:Beginner;JavaScript:Beginner,0
+8.88,57.33,0,1,1,4,53.19,31.58,61.07,82.5,CSE,Data Science:Intermediate;React:Intermediate;JavaScript:Beginner;SQL:Intermediate;Python:Intermediate,1
+5.69,66.63,0,4,6,8,63.94,70.3,62.62,77.39,CSE,React:Beginner;Java:Advanced,1
+8.82,77.68,0,1,6,5,88.53,87.63,36.66,96.72,EEE,Data Science:Beginner;React:Intermediate,1
+7.17,84.07,1,0,2,8,70.85,82.02,52.48,70.8,IT,JavaScript:Advanced;CSS:Intermediate;React:Intermediate;Python:Intermediate,1
+7.02,96.94,0,1,1,7,56.69,78.86,51.62,74.81,CSE,Java:Beginner;SQL:Beginner;HTML:Intermediate;JavaScript:Beginner,1
+6.09,76.29,0,2,5,6,62.47,97.68,41.38,55.68,ECE,C++:Intermediate;HTML:Intermediate;SQL:Beginner;Machine Learning:Beginner,1
+7.97,81.08,1,0,5,4,57.75,64.82,82.74,41.0,CIVIL,HTML:Intermediate;Data Science:Advanced;SQL:Intermediate,1
+8.29,83.85,0,1,4,6,80.63,49.81,74.64,63.02,IT,Data Science:Intermediate;HTML:Intermediate;Python:Beginner;C++:Beginner,1
+7.16,99.31,4,1,2,5,54.89,50.31,35.17,78.14,EEE,C++:Intermediate;Data Science:Intermediate;SQL:Intermediate;Python:Beginner;HTML:Intermediate,0
+8.1,80.18,1,0,3,5,94.97,58.98,63.25,57.91,ECE,React:Beginner;JavaScript:Beginner;Data Science:Advanced;SQL:Intermediate,1
+7.5,75.61,3,0,1,8,54.82,64.3,83.39,41.1,CIVIL,SQL:Beginner;React:Beginner;JavaScript:Beginner;Machine Learning:Intermediate,0
+5.08,76.25,0,0,3,6,45.29,88.08,90.5,56.66,IT,Data Science:Intermediate;CSS:Intermediate;HTML:Intermediate;JavaScript:Beginner;Java:Advanced,1
+5.69,94.32,0,1,3,5,57.09,59.34,79.57,64.2,CIVIL,SQL:Beginner;Python:Advanced;Machine Learning:Intermediate;Java:Intermediate,1
+9.76,76.81,0,1,4,8,77.45,58.64,66.96,82.61,EEE,C++:Beginner;Java:Beginner;Python:Intermediate;HTML:Beginner;Machine Learning:Intermediate,1
+8.62,67.63,1,2,4,6,58.01,91.18,47.91,84.85,ECE,React:Intermediate;Machine Learning:Advanced;JavaScript:Intermediate,1
+5.7,89.65,3,1,1,2,77.42,65.93,73.77,86.02,CSE,HTML:Intermediate;C++:Intermediate;Python:Beginner,0
+8.59,65.82,0,1,3,8,95.07,85.64,59.25,68.89,CSE,Machine Learning:Intermediate;Python:Advanced;Java:Intermediate;Data Science:Advanced,1
+7.78,81.39,1,0,0,6,57.98,76.57,83.77,92.09,CIVIL,React:Intermediate;Data Science:Intermediate,1
+8.02,74.42,0,2,4,5,96.74,60.51,67.11,43.56,ECE,SQL:Beginner;Machine Learning:Advanced,1
+9.91,80.44,3,0,6,4,36.48,95.56,78.85,55.77,IT,JavaScript:Beginner;CSS:Beginner;Data Science:Advanced,1
+5.75,70.17,3,1,1,8,87.83,80.93,64.57,42.91,ECE,Java:Intermediate;CSS:Beginner,0
+5.73,69.99,1,0,6,5,64.35,48.49,75.89,62.65,ECE,C++:Beginner;SQL:Advanced;Machine Learning:Beginner,0
+8.77,91.9,2,0,3,3,56.78,60.29,57.28,78.84,ECE,HTML:Intermediate;CSS:Intermediate;SQL:Intermediate;Python:Intermediate;Java:Intermediate,0
+6.46,75.71,1,1,5,0,61.76,92.23,49.57,59.72,MECH,Python:Advanced;Java:Beginner,1
+8.79,94.98,0,4,1,4,65.57,49.22,35.45,63.18,EEE,Machine Learning:Intermediate;HTML:Intermediate;C++:Intermediate;CSS:Intermediate,1
+6.37,56.02,1,0,5,2,49.01,57.83,59.53,42.23,EEE,HTML:Intermediate;C++:Advanced;Python:Advanced;React:Intermediate;CSS:Intermediate,0
+6.51,55.67,0,3,5,8,44.7,67.57,89.37,51.48,CSE,CSS:Beginner;JavaScript:Intermediate;Data Science:Beginner,1
+5.13,76.65,0,0,6,8,47.41,51.06,65.12,68.44,CSE,C++:Intermediate;Data Science:Intermediate,1
+6.03,56.38,0,0,3,3,37.08,96.34,80.46,74.68,IT,Machine Learning:Advanced;C++:Advanced;CSS:Beginner;Java:Beginner,1
+8.27,57.22,0,1,4,0,52.85,85.55,47.77,58.0,CSE,SQL:Intermediate;JavaScript:Beginner,1
+6.08,60.93,0,1,3,1,43.5,40.99,70.62,82.23,MECH,Java:Intermediate;SQL:Intermediate,0
+7.83,90.75,1,2,3,7,79.51,90.92,98.15,49.93,MECH,Machine Learning:Beginner;HTML:Beginner;Data Science:Intermediate;React:Intermediate;C++:Beginner,1
+5.66,73.83,0,2,1,6,70.56,47.86,94.54,40.03,CSE,Python:Advanced;React:Beginner;CSS:Advanced,1
+5.05,67.57,2,0,6,7,93.67,35.57,72.53,40.93,MECH,JavaScript:Beginner;SQL:Intermediate,0
+6.06,95.82,1,0,5,8,91.41,68.06,82.88,69.75,IT,Java:Intermediate;React:Beginner;Python:Intermediate;SQL:Intermediate,1
+9.48,91.98,1,0,0,2,55.95,49.15,97.47,60.41,ECE,Python:Advanced;Data Science:Intermediate;SQL:Intermediate;CSS:Beginner;React:Beginner,1
+9.79,70.33,0,0,0,0,65.72,41.65,69.35,92.03,EEE,CSS:Advanced;C++:Intermediate,1
+5.2,91.43,3,2,2,0,42.38,91.93,49.71,60.26,ECE,JavaScript:Intermediate;HTML:Advanced,0
+9.39,61.39,0,1,6,6,93.15,87.64,60.25,40.26,CSE,JavaScript:Advanced;SQL:Advanced;Python:Intermediate,1
+9.59,95.29,0,2,2,6,83.48,87.6,72.2,83.75,MECH,HTML:Beginner;CSS:Intermediate;Data Science:Beginner;JavaScript:Intermediate,1
+9.71,63.92,1,2,1,1,80.32,51.11,79.48,88.33,MECH,SQL:Intermediate;Machine Learning:Intermediate,1
+7.26,85.88,3,1,5,3,35.2,74.67,96.23,59.33,CIVIL,Python:Intermediate;SQL:Intermediate;CSS:Intermediate;Java:Beginner,1
+6.75,89.79,2,1,0,6,92.98,59.81,72.57,48.92,EEE,Data Science:Intermediate;Java:Advanced,0
+7.69,93.31,0,1,6,3,80.78,40.99,88.23,45.02,IT,C++:Intermediate;Java:Beginner,1
+6.26,76.35,2,0,2,6,40.1,42.82,56.84,42.85,ECE,C++:Advanced;Data Science:Advanced;HTML:Intermediate;JavaScript:Intermediate,0
+6.87,66.3,3,1,4,6,47.75,54.71,87.99,57.65,CIVIL,C++:Advanced;Machine Learning:Advanced;React:Beginner,1
+6.04,56.2,2,1,2,6,42.28,38.95,73.82,95.46,IT,SQL:Beginner;CSS:Advanced;Machine Learning:Beginner;C++:Intermediate;Data Science:Intermediate,0
+9.87,79.33,0,1,5,8,46.51,71.83,76.02,78.15,MECH,Machine Learning:Intermediate;Data Science:Advanced;React:Intermediate;C++:Intermediate;JavaScript:Beginner,1
+7.92,89.55,1,1,1,5,93.06,80.04,72.5,51.33,IT,React:Beginner;C++:Intermediate;Java:Advanced,1
+7.31,82.27,2,3,2,8,90.58,61.53,84.16,95.32,EEE,HTML:Intermediate;Machine Learning:Intermediate;Java:Advanced;JavaScript:Advanced,1
+8.62,96.94,3,0,1,2,90.06,31.61,99.75,99.59,CIVIL,HTML:Beginner;React:Beginner;Java:Advanced;CSS:Intermediate;JavaScript:Advanced,1
+9.58,58.38,2,1,3,8,88.78,37.16,47.57,71.17,EEE,Data Science:Intermediate;Machine Learning:Intermediate;SQL:Intermediate,1
+5.71,72.48,1,1,3,2,66.63,67.62,94.75,95.84,IT,CSS:Beginner;React:Advanced;C++:Intermediate,1
+5.09,60.33,2,2,3,4,84.97,40.88,67.86,88.5,EEE,SQL:Beginner;CSS:Intermediate,0
+7.65,93.55,1,1,5,3,38.17,97.05,87.83,73.46,ECE,JavaScript:Intermediate;Java:Beginner;Python:Intermediate;SQL:Beginner,1
+5.34,64.01,0,0,3,0,57.71,35.64,92.31,70.55,IT,JavaScript:Intermediate;C++:Beginner;Python:Intermediate;SQL:Intermediate;HTML:Advanced,0
+9.15,71.85,0,1,6,2,84.47,48.01,41.6,85.2,CSE,Machine Learning:Beginner;Java:Intermediate;CSS:Advanced;JavaScript:Intermediate,1
+9.55,88.57,1,1,5,5,50.87,81.73,96.81,89.4,MECH,Data Science:Advanced;CSS:Intermediate,1
+5.16,81.01,1,0,0,0,42.08,99.56,45.49,57.06,CIVIL,CSS:Beginner;SQL:Beginner;Python:Intermediate,0
+8.48,82.96,0,0,1,1,88.75,60.18,78.09,65.62,EEE,HTML:Intermediate;Data Science:Advanced,1
+9.82,91.53,4,0,2,0,56.95,80.47,61.36,52.7,CIVIL,Machine Learning:Intermediate;C++:Intermediate;JavaScript:Beginner;Python:Advanced;HTML:Intermediate,0
+6.95,89.64,4,0,6,6,66.0,95.99,54.41,63.4,EEE,CSS:Intermediate;JavaScript:Beginner;React:Intermediate,0
+7.93,82.65,1,1,0,2,70.17,55.24,81.73,52.2,IT,CSS:Intermediate;Java:Advanced;HTML:Intermediate;C++:Advanced,1
+8.83,86.47,2,0,3,2,68.05,70.73,93.45,88.22,ECE,React:Beginner;Python:Intermediate;Java:Intermediate;Data Science:Beginner,1
+8.26,93.16,1,1,4,8,77.65,88.28,66.01,57.09,MECH,Data Science:Beginner;Python:Beginner;SQL:Beginner;Java:Advanced;HTML:Advanced,1
+6.82,74.58,0,0,4,3,48.23,85.6,95.31,69.02,EEE,Machine Learning:Intermediate;Python:Advanced;SQL:Intermediate;HTML:Beginner;Data Science:Intermediate,1
+8.22,81.2,0,2,0,1,47.85,75.22,87.6,45.52,ECE,Python:Beginner;CSS:Advanced,1
+8.71,79.83,0,0,0,2,70.46,88.42,72.86,48.89,IT,React:Advanced;SQL:Advanced,1
+9.36,88.6,0,1,0,6,76.47,87.66,65.92,69.09,MECH,C++:Beginner;React:Beginner;SQL:Intermediate;Java:Beginner;Machine Learning:Beginner,1
+5.79,95.88,0,0,3,7,82.12,80.62,61.86,96.37,EEE,JavaScript:Intermediate;HTML:Intermediate;SQL:Beginner;Machine Learning:Intermediate;Data Science:Beginner,1
+5.82,76.02,0,2,3,0,63.7,99.22,71.46,67.47,CSE,Java:Beginner;SQL:Beginner;Data Science:Advanced,1
+7.0,89.22,0,0,2,5,42.53,84.08,91.22,89.5,CSE,HTML:Intermediate;Python:Intermediate;JavaScript:Intermediate;React:Beginner;C++:Beginner,1
+9.75,65.91,2,1,3,3,51.16,54.53,49.71,96.94,IT,Java:Intermediate;C++:Advanced;JavaScript:Beginner;CSS:Beginner;Data Science:Intermediate,1
+5.06,57.07,0,3,1,0,70.94,93.98,83.14,65.16,ECE,HTML:Advanced;SQL:Intermediate;React:Beginner,1
+6.53,85.86,1,1,4,0,83.44,71.5,42.1,44.72,ECE,Java:Intermediate;Python:Intermediate;JavaScript:Intermediate;React:Beginner;Data Science:Intermediate,0
+5.41,74.49,1,0,0,8,35.75,51.78,96.61,75.85,IT,Machine Learning:Intermediate;SQL:Advanced;Python:Beginner,0
+9.55,74.14,5,1,0,0,36.5,71.77,89.68,75.37,ECE,JavaScript:Advanced;HTML:Intermediate;Java:Beginner,0
+5.05,60.69,1,0,0,3,98.61,49.39,81.44,48.96,IT,CSS:Advanced;Data Science:Beginner;SQL:Advanced,0
+8.11,87.19,0,1,3,1,69.71,89.57,56.41,52.58,ECE,HTML:Intermediate;Machine Learning:Intermediate;C++:Beginner,1
+5.81,70.99,1,1,5,1,74.59,41.98,82.39,49.8,EEE,Machine Learning:Advanced;JavaScript:Beginner;SQL:Advanced;HTML:Advanced,0
+6.74,82.79,0,0,6,2,50.06,76.57,67.46,80.76,ECE,JavaScript:Intermediate;Java:Intermediate;C++:Advanced,1
+5.0,91.69,2,0,3,8,35.54,94.55,96.55,68.62,CSE,React:Beginner;JavaScript:Advanced;Python:Intermediate;Data Science:Beginner;C++:Intermediate,0
+8.05,98.89,3,2,0,7,91.59,58.13,89.3,95.5,CSE,Machine Learning:Advanced;React:Advanced,1
+8.11,98.15,1,0,6,1,60.08,67.82,53.38,94.68,ECE,CSS:Intermediate;Python:Beginner;React:Beginner;SQL:Advanced;Java:Advanced,1
+6.66,64.28,3,2,2,1,41.96,78.36,81.19,89.26,ECE,CSS:Beginner;C++:Beginner;SQL:Advanced;Data Science:Intermediate;Python:Intermediate,1
+7.66,73.04,0,1,4,2,98.3,56.87,57.15,88.83,MECH,HTML:Intermediate;SQL:Intermediate;JavaScript:Intermediate;Java:Advanced;Machine Learning:Beginner,1
+9.51,77.83,0,1,5,5,97.52,45.57,50.21,64.28,EEE,Python:Beginner;React:Beginner;Java:Advanced;CSS:Advanced;SQL:Intermediate,1
+6.46,86.74,0,1,3,3,64.69,40.12,47.39,75.96,CIVIL,Java:Intermediate;React:Advanced;HTML:Beginner,0
+8.72,63.72,4,1,2,8,93.45,61.45,97.29,71.61,ECE,SQL:Intermediate;HTML:Beginner;Machine Learning:Intermediate;C++:Intermediate,1
+7.56,80.68,1,1,2,6,87.14,96.66,45.75,95.82,ECE,SQL:Intermediate;React:Beginner;HTML:Beginner,1
+5.53,95.63,0,0,0,8,58.81,54.63,91.36,70.03,CSE,React:Advanced;Data Science:Beginner;JavaScript:Advanced,1
+8.3,55.71,1,1,0,8,81.94,67.5,53.63,70.13,CIVIL,C++:Beginner;Java:Intermediate;Machine Learning:Beginner;React:Intermediate;CSS:Advanced,1
+8.15,63.39,1,1,5,3,64.22,60.07,35.29,52.89,ECE,Data Science:Advanced;Java:Intermediate,1
+6.64,78.0,0,1,5,3,99.78,43.37,58.03,66.77,EEE,JavaScript:Advanced;Java:Beginner;C++:Intermediate;HTML:Intermediate;SQL:Beginner,1
+6.56,87.54,2,0,0,8,58.02,31.57,86.39,52.27,EEE,Java:Intermediate;Machine Learning:Intermediate,0
+6.17,89.27,1,1,4,8,48.69,49.67,60.91,85.96,CSE,SQL:Beginner;CSS:Beginner;Python:Beginner,1
+5.17,98.13,0,0,5,8,89.23,62.54,40.37,81.16,CSE,Python:Intermediate;C++:Intermediate;SQL:Beginner;Java:Intermediate;React:Intermediate,1
+5.01,55.62,1,2,0,0,64.06,86.75,66.68,86.6,MECH,HTML:Advanced;JavaScript:Advanced;C++:Intermediate;Python:Intermediate;Machine Learning:Advanced,0
+8.55,98.88,0,1,5,5,81.17,83.25,71.55,74.97,CIVIL,Machine Learning:Intermediate;React:Beginner;HTML:Beginner;CSS:Intermediate;Python:Beginner,1
+6.65,84.45,5,0,0,4,36.05,45.16,81.31,41.51,CSE,Python:Intermediate;SQL:Advanced,0
+7.88,91.04,0,0,1,2,84.57,64.07,74.67,85.8,MECH,Java:Beginner;Data Science:Beginner,1
+9.84,91.21,0,2,0,4,69.88,61.84,78.73,80.34,MECH,SQL:Intermediate;Java:Advanced;JavaScript:Intermediate;CSS:Intermediate;Python:Intermediate,1
+5.45,68.28,1,1,1,6,75.66,80.68,37.35,61.37,CSE,Data Science:Advanced;JavaScript:Intermediate,0
+5.33,84.72,1,2,2,1,36.24,90.72,77.21,53.87,EEE,SQL:Advanced;CSS:Intermediate,0
+7.15,71.98,2,1,3,7,50.64,61.66,52.77,66.64,CSE,HTML:Beginner;SQL:Intermediate,1
+5.79,75.85,0,0,2,3,86.08,32.04,50.88,58.48,EEE,Machine Learning:Beginner;CSS:Beginner;React:Advanced;Data Science:Beginner;SQL:Advanced,0
+6.22,67.45,1,1,4,6,89.73,62.72,41.0,85.0,CIVIL,React:Intermediate;JavaScript:Intermediate;Data Science:Intermediate,1
+5.37,80.06,0,3,3,5,99.79,95.75,97.87,75.89,CIVIL,Python:Intermediate;React:Intermediate,1
+7.79,64.41,0,2,2,2,98.31,81.56,42.1,94.08,CSE,Machine Learning:Advanced;SQL:Advanced,1
+8.3,70.95,3,1,0,0,73.78,64.85,57.27,80.35,EEE,HTML:Advanced;SQL:Intermediate;Python:Beginner,0
+7.66,64.51,0,3,3,8,41.46,82.91,85.24,65.94,IT,C++:Intermediate;Python:Beginner;JavaScript:Beginner;Data Science:Intermediate,1
+5.46,77.56,2,0,0,2,82.69,89.29,59.59,79.47,MECH,React:Intermediate;CSS:Intermediate;HTML:Beginner,0
+8.03,62.05,2,3,2,6,92.83,60.58,44.68,61.19,CSE,C++:Beginner;CSS:Advanced;Python:Intermediate,1
+6.93,60.38,0,0,6,0,37.67,34.92,41.99,72.11,IT,HTML:Beginner;JavaScript:Intermediate,0
+5.32,63.09,2,0,6,7,43.27,74.12,44.55,77.08,CSE,Java:Intermediate;Python:Advanced;C++:Intermediate,0
+9.85,82.67,0,2,3,4,39.6,88.34,36.1,50.07,EEE,JavaScript:Intermediate;Java:Advanced;Python:Beginner;C++:Intermediate,1
+6.0,63.38,1,1,2,6,35.33,79.93,57.25,65.4,MECH,Java:Beginner;SQL:Advanced,0
+5.26,65.04,1,0,3,1,92.0,90.62,85.28,58.64,CSE,Python:Advanced;SQL:Intermediate;JavaScript:Beginner;C++:Intermediate;React:Advanced,1
+9.96,70.97,0,2,4,3,95.54,55.8,36.39,69.85,EEE,Python:Advanced;React:Intermediate;HTML:Advanced;Java:Intermediate,1
+7.68,98.41,0,0,2,1,40.88,86.53,54.77,82.28,MECH,JavaScript:Beginner;SQL:Intermediate,1
+7.33,60.49,1,0,0,5,86.29,54.73,60.21,51.36,ECE,Data Science:Advanced;Java:Beginner,0
+9.9,61.15,0,1,0,4,46.8,38.58,87.89,43.16,CIVIL,Machine Learning:Advanced;JavaScript:Advanced;Data Science:Advanced;HTML:Intermediate,1
+5.26,99.1,5,0,0,0,77.16,74.29,98.19,59.47,CIVIL,C++:Advanced;HTML:Intermediate;React:Beginner;Data Science:Intermediate,0
+8.0,75.41,1,0,3,1,79.73,77.3,67.53,85.01,EEE,Data Science:Beginner;SQL:Intermediate;HTML:Advanced,1
+9.19,80.39,0,1,0,1,78.43,86.57,61.91,85.39,IT,HTML:Intermediate;Machine Learning:Intermediate,1
+8.25,57.57,0,2,3,4,58.81,90.13,44.41,50.54,CIVIL,Java:Beginner;JavaScript:Intermediate;React:Intermediate,1
+6.21,89.34,0,1,0,2,39.12,52.01,65.69,51.59,CSE,React:Beginner;HTML:Beginner,0
+9.9,61.85,2,3,4,6,86.99,63.01,52.36,47.54,CSE,JavaScript:Intermediate;HTML:Advanced;Data Science:Advanced;React:Intermediate;C++:Intermediate,1
+5.77,72.53,0,0,2,7,58.39,48.88,43.61,51.24,EEE,Java:Beginner;Python:Intermediate;Data Science:Intermediate;C++:Intermediate;React:Beginner,0
+7.17,71.18,2,0,2,1,56.37,60.18,84.34,59.17,CSE,Data Science:Intermediate;Java:Intermediate;SQL:Intermediate;CSS:Beginner;JavaScript:Advanced,0
+8.15,93.24,0,0,0,5,56.71,61.19,63.88,56.6,CSE,SQL:Intermediate;CSS:Intermediate;Data Science:Beginner;C++:Beginner;Python:Advanced,1
+8.12,95.59,0,3,0,0,40.28,96.4,85.12,55.88,IT,Data Science:Beginner;Python:Advanced;CSS:Intermediate;SQL:Advanced;React:Intermediate,1
+7.45,92.45,3,0,6,0,84.28,85.71,53.55,59.87,CIVIL,SQL:Intermediate;Machine Learning:Intermediate;React:Advanced,1
+9.09,89.8,3,0,6,3,62.49,61.6,72.46,41.38,MECH,Machine Learning:Intermediate;HTML:Intermediate;CSS:Intermediate,1
+5.95,87.2,1,0,1,3,61.57,71.15,57.1,97.24,ECE,C++:Beginner;JavaScript:Advanced,0
+6.52,95.35,1,0,6,6,58.52,37.72,93.76,85.16,ECE,Machine Learning:Intermediate;Python:Intermediate;C++:Advanced,1
+8.45,69.88,0,0,2,0,84.49,40.36,53.75,53.26,ECE,React:Intermediate;Data Science:Intermediate;C++:Intermediate;Machine Learning:Beginner,1
+7.15,79.76,0,0,5,7,62.59,69.3,93.66,77.27,MECH,React:Intermediate;Python:Intermediate;Java:Advanced;CSS:Advanced,1
+7.25,78.36,3,0,3,3,76.0,80.99,53.4,90.67,MECH,Data Science:Beginner;Python:Beginner;React:Intermediate,0
+6.09,64.96,0,0,0,0,72.14,75.02,93.0,90.34,CSE,JavaScript:Beginner;Python:Beginner;HTML:Advanced;React:Beginner,0
+9.11,66.6,1,0,6,0,76.61,31.94,35.75,46.15,CIVIL,Data Science:Intermediate;JavaScript:Beginner;Python:Beginner;HTML:Intermediate;CSS:Beginner,1
+7.32,86.55,1,0,0,0,54.78,64.48,41.32,93.24,IT,CSS:Intermediate;SQL:Advanced;HTML:Intermediate;React:Advanced;Machine Learning:Intermediate,0
+7.2,90.43,0,2,6,1,81.93,55.65,77.67,48.52,IT,JavaScript:Intermediate;React:Intermediate;Java:Intermediate;C++:Advanced;SQL:Advanced,1
+6.24,95.42,1,0,1,6,55.16,89.16,44.91,85.49,ECE,Data Science:Intermediate;Machine Learning:Intermediate,0
+6.86,75.36,1,2,3,8,79.09,67.3,54.0,77.26,CIVIL,JavaScript:Beginner;CSS:Intermediate,1
+5.36,75.9,3,0,1,1,61.0,43.58,92.66,42.36,ECE,Python:Intermediate;React:Beginner,0
+7.83,74.52,2,1,1,8,59.14,68.52,40.3,75.31,ECE,CSS:Intermediate;C++:Intermediate;Java:Advanced;JavaScript:Advanced;React:Advanced,1
+6.49,98.71,0,0,3,6,79.36,49.18,93.7,91.69,MECH,HTML:Advanced;CSS:Beginner;Data Science:Beginner;Python:Advanced;C++:Intermediate,1
+5.69,70.94,0,2,6,4,92.08,90.84,97.55,87.04,EEE,CSS:Beginner;HTML:Beginner;Data Science:Advanced;C++:Intermediate;Python:Intermediate,1
+5.95,57.04,1,1,0,2,69.76,52.23,70.59,73.17,CSE,CSS:Beginner;Machine Learning:Intermediate;SQL:Advanced,0
+6.4,86.06,0,1,1,5,41.46,78.0,70.39,98.67,ECE,HTML:Beginner;React:Beginner,1
+6.89,84.18,4,1,6,8,53.53,87.56,39.23,57.8,EEE,SQL:Intermediate;Java:Beginner;CSS:Advanced,1
+8.18,70.23,0,1,2,6,82.6,67.53,75.07,80.78,EEE,Python:Beginner;CSS:Beginner;Data Science:Intermediate;JavaScript:Advanced;Machine Learning:Advanced,1
+8.26,68.03,0,2,1,6,48.61,57.76,50.87,91.12,ECE,Python:Intermediate;Java:Advanced;CSS:Intermediate;Machine Learning:Beginner;SQL:Advanced,1
+6.0,70.51,2,2,2,6,86.11,42.49,63.09,81.83,MECH,Python:Intermediate;JavaScript:Beginner;C++:Intermediate,1
+8.46,90.75,2,0,0,1,99.84,72.23,73.94,61.75,CIVIL,HTML:Advanced;Data Science:Beginner;Python:Intermediate;SQL:Beginner;CSS:Beginner,1
+7.73,56.75,0,0,4,3,99.33,99.75,92.91,95.86,MECH,Machine Learning:Intermediate;React:Beginner;C++:Advanced,1
+8.23,59.07,1,0,4,8,43.79,58.95,64.31,50.73,MECH,CSS:Intermediate;Java:Intermediate;React:Intermediate,1
+8.85,78.94,1,0,5,1,35.59,79.62,73.37,75.96,ECE,CSS:Beginner;Data Science:Advanced,1
+5.05,75.43,3,1,2,6,57.94,98.44,54.15,50.05,CIVIL,Data Science:Intermediate;React:Beginner;Python:Beginner;SQL:Advanced,0
+5.23,72.17,0,2,5,5,97.78,33.77,83.34,52.19,EEE,SQL:Advanced;Machine Learning:Advanced;JavaScript:Beginner,1
+7.44,71.61,2,2,1,3,96.21,66.08,90.57,78.38,MECH,Python:Intermediate;C++:Advanced;React:Beginner;Machine Learning:Advanced;Data Science:Beginner,1
+6.4,79.23,3,0,4,6,85.63,80.95,37.6,77.58,CSE,CSS:Beginner;SQL:Intermediate;Machine Learning:Advanced;React:Intermediate,0
+8.98,73.62,1,1,1,6,59.39,51.95,94.04,88.51,IT,Python:Advanced;C++:Advanced;Data Science:Intermediate;CSS:Intermediate,1
+7.09,82.4,1,0,3,5,98.08,61.7,43.67,64.76,CIVIL,Machine Learning:Beginner;SQL:Intermediate;JavaScript:Intermediate;Java:Advanced,0
+7.16,86.94,0,1,2,3,67.66,77.94,52.9,40.45,IT,Java:Advanced;HTML:Advanced;JavaScript:Intermediate;React:Intermediate;C++:Intermediate,1
+9.87,90.17,1,2,0,8,37.73,37.38,75.95,92.25,ECE,React:Intermediate;CSS:Beginner;Machine Learning:Intermediate,1
+6.9,59.53,0,2,1,8,52.09,48.86,97.3,60.59,IT,HTML:Intermediate;JavaScript:Intermediate;Data Science:Intermediate;SQL:Intermediate;C++:Advanced,1
+9.49,64.45,0,0,6,8,92.47,58.45,75.34,49.27,IT,C++:Beginner;HTML:Advanced;Python:Advanced,1
+5.44,63.06,1,0,6,8,42.16,91.17,56.31,63.5,MECH,Data Science:Intermediate;CSS:Beginner;Machine Learning:Beginner;React:Beginner,1
+5.27,74.12,2,0,6,7,67.63,84.67,81.28,90.65,ECE,C++:Intermediate;HTML:Intermediate,1
+8.27,63.82,0,3,5,6,86.5,70.83,35.72,73.33,MECH,React:Advanced;HTML:Intermediate;Machine Learning:Advanced;JavaScript:Beginner;SQL:Advanced,1
+9.33,74.35,3,1,6,7,60.92,81.07,55.32,58.75,ECE,C++:Advanced;CSS:Beginner;Java:Beginner;Python:Intermediate,1
+8.63,61.51,0,0,6,6,57.92,64.59,66.28,98.37,MECH,C++:Intermediate;JavaScript:Intermediate;HTML:Intermediate;Machine Learning:Intermediate,1
+5.7,93.66,0,0,4,5,66.8,73.05,64.16,43.28,CSE,SQL:Intermediate;React:Beginner,1
+5.27,71.39,0,0,4,7,37.82,81.83,95.12,50.55,CSE,Machine Learning:Intermediate;Java:Intermediate;Data Science:Intermediate;CSS:Intermediate;SQL:Advanced,1
+5.74,94.79,0,1,2,3,81.85,59.25,85.11,77.89,CIVIL,Data Science:Beginner;SQL:Advanced;Machine Learning:Advanced;Python:Beginner,1
+5.79,55.15,2,1,4,2,68.0,37.45,75.64,90.5,MECH,C++:Intermediate;SQL:Advanced;Data Science:Intermediate,0
+8.96,89.62,0,1,6,1,67.13,41.51,37.28,47.3,EEE,SQL:Advanced;C++:Beginner;HTML:Intermediate;Java:Intermediate,1
+5.43,69.01,0,2,6,2,79.48,61.77,94.31,62.39,CIVIL,Machine Learning:Intermediate;C++:Intermediate,1
+8.46,77.53,1,2,4,4,82.71,82.67,95.08,92.17,CSE,C++:Intermediate;React:Intermediate;JavaScript:Advanced;SQL:Advanced,1
+7.45,69.43,0,1,0,5,90.59,44.01,50.95,93.07,CSE,SQL:Advanced;React:Intermediate;Machine Learning:Intermediate,1
+9.65,68.66,0,1,1,1,38.48,45.07,47.4,65.39,ECE,React:Intermediate;HTML:Beginner,1
+9.71,56.21,2,2,1,8,74.45,43.21,60.46,78.77,IT,HTML:Intermediate;Java:Intermediate;JavaScript:Advanced;CSS:Advanced;SQL:Advanced,1
+8.71,66.64,1,1,6,2,93.25,56.24,86.8,78.52,MECH,JavaScript:Advanced;HTML:Intermediate;Machine Learning:Advanced;SQL:Intermediate;C++:Advanced,1
+6.21,95.51,0,0,1,5,89.65,66.33,83.18,59.05,IT,JavaScript:Intermediate;Machine Learning:Advanced;HTML:Advanced;Java:Intermediate;React:Beginner,1
+6.42,88.87,1,0,3,6,82.83,94.52,93.74,76.21,ECE,SQL:Beginner;Machine Learning:Intermediate,1
+6.77,68.51,2,1,1,4,39.1,42.7,71.71,77.29,CIVIL,JavaScript:Beginner;C++:Intermediate,0
+8.32,79.87,0,0,1,0,94.92,67.15,98.87,66.63,EEE,Python:Intermediate;SQL:Beginner;C++:Intermediate;Java:Intermediate,1
+7.96,63.28,0,1,6,8,35.73,78.95,47.66,78.61,CSE,SQL:Intermediate;C++:Advanced;Machine Learning:Intermediate;React:Intermediate;Data Science:Intermediate,1
+9.18,88.21,0,0,5,8,43.93,88.55,86.55,85.85,MECH,SQL:Beginner;Java:Advanced;Machine Learning:Beginner,1
+7.9,81.34,0,3,1,0,42.4,44.5,88.51,69.98,EEE,SQL:Beginner;JavaScript:Advanced;C++:Beginner;Python:Advanced;Machine Learning:Advanced,1
+7.29,70.85,0,0,5,0,41.7,58.23,95.54,62.89,EEE,CSS:Intermediate;Data Science:Beginner,1
+7.68,80.77,0,2,1,1,51.42,55.28,59.57,84.34,CSE,CSS:Intermediate;React:Beginner;JavaScript:Intermediate;Java:Intermediate,1
+9.7,56.8,1,1,1,3,99.81,72.48,97.27,74.01,EEE,Python:Advanced;C++:Intermediate,1
+9.79,58.45,3,1,3,5,38.77,80.09,64.5,85.07,IT,CSS:Advanced;C++:Advanced;JavaScript:Beginner;Python:Intermediate,1
+8.15,70.06,0,1,3,4,51.38,89.61,97.69,76.16,IT,Java:Advanced;C++:Intermediate;SQL:Intermediate;Machine Learning:Intermediate,1
+9.16,76.06,1,0,5,6,88.43,85.6,38.79,77.02,MECH,Java:Beginner;React:Beginner,1
+8.32,71.12,0,1,1,6,88.62,64.63,55.99,57.02,MECH,Data Science:Advanced;CSS:Advanced;SQL:Beginner,1
+8.0,91.43,2,0,1,0,44.58,55.78,39.63,68.58,ECE,React:Advanced;HTML:Intermediate;JavaScript:Intermediate;Java:Intermediate;SQL:Beginner,0
+8.47,85.31,0,0,4,0,37.3,51.38,69.18,45.95,EEE,Python:Beginner;CSS:Intermediate;Data Science:Intermediate,1
+9.61,70.8,0,0,5,6,39.52,81.87,98.17,45.51,MECH,HTML:Intermediate;Data Science:Intermediate;CSS:Intermediate,1
+9.99,85.15,0,0,0,2,81.89,64.07,63.39,99.41,CSE,HTML:Intermediate;CSS:Intermediate;Data Science:Intermediate,1
+5.08,95.37,3,0,5,3,85.9,63.66,49.67,61.44,CSE,HTML:Beginner;React:Beginner;CSS:Beginner;JavaScript:Intermediate;C++:Intermediate,0
+8.94,87.42,0,1,3,2,92.5,64.52,59.62,72.76,CSE,Data Science:Advanced;JavaScript:Beginner;C++:Beginner;Machine Learning:Beginner;Python:Beginner,1
+5.11,89.02,0,2,0,1,85.85,50.65,41.87,66.62,CIVIL,Machine Learning:Advanced;Python:Advanced;React:Intermediate;Data Science:Intermediate;HTML:Beginner,0
+8.4,58.02,0,0,2,6,35.69,71.83,57.31,62.49,ECE,Data Science:Advanced;CSS:Intermediate;Python:Intermediate;SQL:Beginner;JavaScript:Intermediate,1
+9.1,66.02,1,1,2,3,83.06,35.79,67.01,71.16,CIVIL,React:Intermediate;Data Science:Intermediate;Python:Intermediate;Machine Learning:Intermediate,1
+7.32,80.08,3,0,1,7,78.39,99.15,73.7,97.0,EEE,Machine Learning:Intermediate;CSS:Advanced;C++:Advanced;SQL:Beginner;JavaScript:Advanced,0
+6.86,92.7,0,0,1,4,92.33,59.6,72.09,91.82,CIVIL,JavaScript:Beginner;React:Advanced;HTML:Intermediate;SQL:Advanced,1
+8.74,97.81,0,1,1,2,97.48,69.46,43.37,63.03,EEE,CSS:Beginner;HTML:Advanced,1
+9.67,61.82,0,1,6,3,60.41,86.18,81.89,44.2,ECE,HTML:Beginner;Machine Learning:Intermediate;Python:Intermediate,1
+6.48,95.54,4,2,3,5,43.85,95.67,35.02,55.08,MECH,JavaScript:Intermediate;Java:Beginner;Python:Advanced;HTML:Advanced,0
+9.71,88.72,1,0,1,7,53.02,90.75,68.24,43.4,IT,Data Science:Advanced;HTML:Beginner,1
+8.09,82.02,0,3,1,1,35.92,66.81,85.27,95.7,CIVIL,Java:Beginner;JavaScript:Intermediate;Machine Learning:Beginner;Data Science:Advanced;C++:Intermediate,1
+6.1,94.7,2,2,1,2,37.86,65.88,88.02,59.36,CIVIL,Data Science:Advanced;JavaScript:Beginner;HTML:Beginner,0
+5.51,98.01,0,1,0,5,95.02,94.39,93.21,76.27,IT,Machine Learning:Beginner;SQL:Intermediate;C++:Intermediate;Data Science:Advanced;JavaScript:Intermediate,1
+7.2,81.95,0,0,3,2,82.19,83.41,61.76,47.8,IT,Python:Advanced;Machine Learning:Intermediate;Java:Advanced;SQL:Advanced,1
+7.77,81.38,0,2,5,2,54.8,58.47,40.45,78.15,IT,SQL:Advanced;Machine Learning:Intermediate;C++:Intermediate,1
+7.94,57.94,0,0,3,2,73.2,70.29,92.76,77.75,EEE,SQL:Beginner;Python:Beginner;Machine Learning:Intermediate;Data Science:Intermediate,1
+8.98,81.43,2,0,6,4,97.83,81.61,75.03,94.55,IT,Python:Beginner;JavaScript:Advanced;Machine Learning:Beginner,1
+5.4,98.13,2,1,5,0,40.41,52.87,39.8,44.22,MECH,JavaScript:Advanced;Machine Learning:Intermediate;React:Intermediate;HTML:Beginner;C++:Advanced,0
+5.02,76.77,3,2,5,1,92.02,70.18,55.3,82.68,CIVIL,JavaScript:Intermediate;C++:Intermediate;CSS:Advanced;Data Science:Intermediate,0
+7.69,72.37,1,1,4,8,68.44,40.85,92.64,81.44,CSE,SQL:Intermediate;CSS:Beginner;C++:Intermediate;HTML:Beginner,1
+7.85,59.88,0,2,1,1,71.06,64.86,43.26,99.73,EEE,Java:Beginner;Data Science:Advanced;JavaScript:Advanced;Python:Beginner;CSS:Intermediate,1
+9.87,95.27,3,0,6,7,52.62,94.69,79.49,56.82,MECH,C++:Beginner;SQL:Beginner,1
+5.97,98.52,4,3,1,8,73.48,94.65,35.5,95.77,ECE,SQL:Intermediate;CSS:Beginner,1
+6.03,94.87,1,0,2,0,56.0,41.52,74.02,40.52,CIVIL,React:Beginner;CSS:Intermediate,0
+8.13,64.49,1,0,5,6,89.32,44.39,88.87,92.72,CIVIL,Java:Intermediate;C++:Beginner;Python:Beginner;JavaScript:Advanced;SQL:Intermediate,1
+8.11,73.34,1,1,6,1,77.77,69.96,59.72,53.24,MECH,JavaScript:Advanced;C++:Beginner;React:Intermediate;Data Science:Beginner,1
+6.85,79.1,3,1,6,4,68.02,87.03,47.05,63.95,IT,SQL:Advanced;HTML:Beginner;Machine Learning:Advanced;C++:Beginner,1
+5.81,89.33,4,2,6,5,68.12,64.2,79.75,81.79,CIVIL,HTML:Advanced;JavaScript:Intermediate;Machine Learning:Intermediate;CSS:Beginner;Python:Intermediate,0
+8.4,97.88,0,1,6,7,37.26,34.71,85.6,61.98,EEE,Data Science:Intermediate;C++:Advanced,1
+5.3,60.79,1,0,1,8,36.88,38.21,81.89,70.27,CSE,C++:Intermediate;Machine Learning:Intermediate;JavaScript:Intermediate;Java:Advanced;Data Science:Advanced,0
+7.41,89.26,1,2,5,5,39.91,70.95,65.85,71.26,MECH,JavaScript:Advanced;Java:Beginner;C++:Advanced;Data Science:Advanced,1
+8.27,60.36,1,3,0,2,92.45,45.96,79.16,74.39,CSE,SQL:Advanced;React:Beginner;CSS:Intermediate;Python:Intermediate;Data Science:Intermediate,1
+7.52,68.04,0,0,4,2,74.02,70.35,65.99,69.47,CSE,C++:Intermediate;React:Intermediate;Python:Intermediate,1
+9.19,63.69,0,1,2,3,57.74,48.97,38.72,81.97,CIVIL,CSS:Intermediate;HTML:Intermediate;C++:Intermediate;Data Science:Beginner,1
+5.96,83.88,0,1,0,3,45.29,81.31,51.52,89.94,EEE,SQL:Beginner;C++:Intermediate;JavaScript:Advanced;Machine Learning:Beginner,1
+5.18,60.33,0,0,3,2,73.32,40.08,70.96,93.61,IT,Machine Learning:Advanced;HTML:Advanced;React:Beginner;CSS:Intermediate,0
+6.09,74.13,0,0,6,5,51.54,35.93,83.86,57.7,MECH,JavaScript:Intermediate;Python:Intermediate;CSS:Intermediate;React:Intermediate,1
+6.23,88.86,1,1,6,3,80.7,35.12,44.31,66.24,MECH,HTML:Intermediate;JavaScript:Beginner;C++:Intermediate;Machine Learning:Beginner;React:Intermediate,1
+6.03,61.5,2,2,6,5,56.13,58.78,77.87,80.82,EEE,C++:Intermediate;JavaScript:Advanced;HTML:Advanced,1
+6.0,63.85,0,0,6,4,47.39,72.28,43.96,91.3,CIVIL,Python:Intermediate;React:Advanced;Machine Learning:Advanced;HTML:Advanced,1
+7.16,85.96,2,0,3,0,46.14,32.46,46.38,90.57,EEE,Java:Beginner;C++:Beginner,0
+8.75,96.09,1,2,1,1,68.73,64.38,97.12,77.73,EEE,Python:Advanced;HTML:Intermediate;Java:Intermediate;Machine Learning:Beginner,1
+6.93,84.87,2,4,3,0,43.21,97.57,56.58,46.02,EEE,Machine Learning:Beginner;CSS:Beginner,1
+7.18,62.97,0,3,2,8,73.2,61.45,87.73,92.9,ECE,React:Intermediate;C++:Intermediate;Java:Intermediate;HTML:Advanced,1
+7.86,55.23,0,0,5,8,89.89,46.37,54.45,80.02,CIVIL,HTML:Beginner;Machine Learning:Intermediate;JavaScript:Beginner,1
+9.16,66.35,0,0,4,0,99.99,54.5,77.26,86.87,CIVIL,Python:Beginner;JavaScript:Beginner,1
+7.0,94.25,0,0,3,7,77.18,80.72,38.56,89.62,CSE,JavaScript:Intermediate;Data Science:Intermediate;HTML:Intermediate;React:Intermediate,1
+5.68,94.13,0,1,1,0,65.99,75.49,79.15,60.31,ECE,Machine Learning:Advanced;C++:Advanced;CSS:Intermediate,1
+8.82,76.09,1,0,1,6,88.52,87.52,71.6,64.86,MECH,HTML:Beginner;C++:Intermediate,1
+9.62,62.99,0,1,2,7,77.65,77.83,41.39,74.81,EEE,HTML:Beginner;JavaScript:Intermediate;Python:Advanced;React:Intermediate;Java:Intermediate,1
+7.02,72.16,0,1,6,6,56.87,50.24,42.05,77.96,MECH,JavaScript:Advanced;Python:Intermediate;Machine Learning:Advanced;SQL:Beginner,1
+9.09,63.68,0,0,4,5,54.6,63.19,84.46,72.01,IT,C++:Intermediate;JavaScript:Intermediate,1
+6.16,80.66,1,1,4,1,75.46,48.27,93.87,64.04,MECH,SQL:Intermediate;HTML:Advanced,0
+8.18,97.98,0,0,5,1,68.4,83.65,46.91,45.67,IT,SQL:Intermediate;React:Intermediate;Machine Learning:Intermediate;Data Science:Intermediate,1
+8.17,59.37,0,1,1,1,74.74,80.97,74.61,67.64,EEE,Machine Learning:Beginner;HTML:Intermediate;CSS:Intermediate;React:Intermediate,1
+8.83,95.14,0,3,5,7,83.66,99.55,76.01,76.26,ECE,CSS:Intermediate;C++:Intermediate;SQL:Intermediate,1
+7.76,61.56,2,0,1,6,59.19,98.85,84.88,48.86,CIVIL,Machine Learning:Intermediate;HTML:Advanced;SQL:Intermediate;JavaScript:Intermediate;Python:Intermediate,1
+8.65,81.83,0,0,6,5,71.63,61.01,63.92,75.98,CSE,JavaScript:Advanced;CSS:Advanced,1
+7.86,67.48,3,0,1,7,41.7,39.43,74.65,54.82,CSE,SQL:Advanced;JavaScript:Intermediate;Machine Learning:Advanced;C++:Intermediate;Java:Advanced,0
+5.23,99.28,1,2,3,6,92.6,70.3,81.69,63.04,EEE,C++:Advanced;Python:Beginner;Java:Advanced,1
+6.3,85.83,2,0,0,3,95.21,66.78,99.04,43.09,MECH,Java:Beginner;HTML:Beginner;JavaScript:Advanced;C++:Beginner,0
+5.34,68.37,0,1,3,6,48.31,45.29,54.3,80.8,CSE,HTML:Intermediate;Java:Intermediate;React:Beginner;Machine Learning:Beginner;SQL:Intermediate,1
+7.94,98.49,1,1,2,2,44.9,75.33,79.66,57.95,ECE,React:Beginner;Java:Advanced;Machine Learning:Advanced;Data Science:Beginner;HTML:Beginner,1
+6.08,58.97,0,0,3,4,64.32,47.05,70.86,90.28,ECE,Machine Learning:Beginner;SQL:Intermediate;C++:Beginner;CSS:Beginner;JavaScript:Intermediate,0
+10.0,64.07,1,1,4,0,40.21,86.53,37.11,40.79,ECE,Java:Intermediate;JavaScript:Beginner;Data Science:Advanced;HTML:Advanced;SQL:Intermediate,1
+5.83,65.96,1,0,6,6,85.55,31.09,66.65,40.38,IT,Data Science:Intermediate;React:Advanced,1
+9.09,77.92,4,1,1,4,37.63,79.03,63.93,88.48,CSE,HTML:Intermediate;Data Science:Beginner,0
+7.28,94.46,2,2,0,2,84.68,49.74,41.53,57.07,MECH,Machine Learning:Intermediate;C++:Intermediate;SQL:Beginner;HTML:Intermediate;Python:Intermediate,0
+5.18,59.03,2,1,5,6,81.18,42.25,43.59,52.22,MECH,Data Science:Intermediate;CSS:Beginner;C++:Advanced,0
+7.68,76.2,3,1,2,4,37.08,49.1,37.54,85.08,ECE,Data Science:Intermediate;Java:Advanced;JavaScript:Intermediate;C++:Beginner;Python:Advanced,0
+8.8,68.16,0,1,3,8,94.9,43.89,85.72,43.69,EEE,C++:Beginner;Java:Beginner,1
+9.08,93.31,4,3,2,4,69.78,41.25,42.82,96.81,ECE,Data Science:Intermediate;CSS:Beginner;SQL:Beginner,1
+8.56,59.0,0,0,3,6,94.4,60.24,91.99,79.42,IT,Machine Learning:Intermediate;HTML:Intermediate;React:Beginner;Python:Advanced,1
+9.29,61.51,0,0,1,1,77.97,31.8,35.97,87.4,IT,Python:Beginner;C++:Intermediate;React:Beginner;Data Science:Beginner,1
+9.22,84.68,2,1,6,8,40.91,75.84,94.27,73.78,CIVIL,Machine Learning:Intermediate;JavaScript:Beginner;React:Advanced;C++:Intermediate;Java:Intermediate,1
+7.71,80.66,5,0,1,1,73.64,94.14,69.15,73.61,CIVIL,CSS:Intermediate;Machine Learning:Intermediate;C++:Beginner;HTML:Advanced,0
+6.86,73.67,0,0,4,2,83.23,86.72,46.8,92.74,CSE,Python:Intermediate;CSS:Intermediate;JavaScript:Advanced,1
+7.4,95.36,1,0,0,6,39.99,71.67,44.95,93.37,IT,HTML:Intermediate;Machine Learning:Beginner,1
+8.04,71.44,0,4,1,1,67.75,94.13,77.63,52.57,IT,Python:Intermediate;C++:Advanced,1
+7.9,56.5,0,1,3,6,81.8,80.91,83.61,52.47,CIVIL,HTML:Advanced;React:Intermediate;Machine Learning:Advanced,1
+6.68,68.35,2,1,1,6,61.8,50.39,60.57,66.72,MECH,SQL:Beginner;Java:Intermediate;Machine Learning:Advanced;C++:Beginner;Data Science:Intermediate,0
+9.89,61.91,0,1,2,8,57.25,79.26,75.36,67.62,CSE,Python:Intermediate;Java:Advanced;HTML:Intermediate;JavaScript:Beginner,1
+7.68,97.92,0,2,5,3,97.25,51.17,99.32,76.09,CSE,React:Advanced;SQL:Intermediate,1
+5.35,98.33,0,0,5,8,39.55,34.02,68.7,50.31,EEE,C++:Intermediate;Java:Beginner;Data Science:Advanced;React:Advanced;JavaScript:Beginner,0
+6.16,57.73,0,1,4,1,52.41,75.38,92.79,47.02,MECH,CSS:Beginner;HTML:Beginner;Python:Intermediate;Java:Beginner,1
+9.85,66.15,4,1,0,1,85.43,91.37,45.4,87.99,CSE,JavaScript:Beginner;Java:Beginner;SQL:Intermediate;Machine Learning:Intermediate;Python:Beginner,1
+9.93,98.96,1,2,4,8,49.25,83.92,77.86,56.59,IT,C++:Intermediate;CSS:Beginner,1
+5.32,59.9,2,1,3,2,62.19,79.62,79.59,50.32,CIVIL,C++:Intermediate;JavaScript:Intermediate;Machine Learning:Advanced,0
+6.3,57.11,0,1,0,2,89.74,56.62,40.53,75.74,CSE,C++:Advanced;Machine Learning:Intermediate,1
+8.02,87.04,0,2,3,7,43.94,43.53,37.09,85.87,CSE,HTML:Beginner;JavaScript:Beginner;Machine Learning:Advanced;Data Science:Intermediate,1
+8.2,89.05,0,2,3,5,56.91,60.64,58.5,49.55,IT,Python:Intermediate;Java:Intermediate;JavaScript:Intermediate;React:Beginner,1
+5.88,81.66,2,1,4,0,80.72,54.62,71.9,48.53,IT,Machine Learning:Beginner;React:Beginner;C++:Beginner;JavaScript:Intermediate;Python:Beginner,0
+7.68,73.78,1,0,5,1,76.13,64.95,95.31,64.13,CIVIL,Data Science:Beginner;HTML:Beginner;C++:Intermediate;Python:Advanced;React:Beginner,1
+5.37,65.08,0,0,0,4,53.4,82.46,61.83,55.07,MECH,Java:Beginner;React:Advanced;Python:Intermediate,0
+6.01,83.22,1,0,6,3,45.9,56.63,79.28,41.5,MECH,C++:Intermediate;React:Beginner;Java:Intermediate,0
+5.71,78.14,0,2,3,5,69.74,35.5,48.65,77.32,MECH,C++:Intermediate;Java:Intermediate;CSS:Intermediate;React:Intermediate,1
+6.19,78.1,1,0,3,8,72.27,54.15,42.88,53.1,CSE,React:Advanced;Data Science:Advanced;Python:Intermediate;SQL:Beginner,0
+8.19,75.72,3,3,2,3,83.58,81.67,55.18,62.76,ECE,React:Intermediate;C++:Advanced;SQL:Beginner,1
+9.61,71.35,4,0,3,1,83.09,51.08,43.43,69.17,MECH,Python:Beginner;JavaScript:Advanced;HTML:Beginner;React:Beginner;Machine Learning:Intermediate,0
+6.35,65.36,0,0,6,2,54.34,91.17,82.57,91.19,ECE,CSS:Intermediate;Java:Intermediate,1
+8.55,73.58,0,2,1,2,37.42,30.71,54.62,74.0,ECE,Java:Advanced;C++:Beginner;JavaScript:Intermediate;React:Intermediate;Python:Beginner,1
+5.94,55.87,0,1,1,1,53.34,38.75,63.5,40.49,CSE,Python:Intermediate;CSS:Intermediate;JavaScript:Advanced,0
+9.12,63.71,2,4,2,6,89.58,34.62,83.24,79.31,IT,C++:Beginner;CSS:Advanced;Python:Beginner;HTML:Beginner,1
+7.17,75.48,4,2,2,1,98.02,64.92,79.56,67.98,IT,Data Science:Intermediate;Machine Learning:Beginner;C++:Beginner;CSS:Intermediate,0
+7.35,95.7,2,1,5,7,78.84,75.78,90.91,60.03,IT,SQL:Intermediate;CSS:Intermediate;React:Intermediate;C++:Intermediate;Java:Intermediate,1
+7.19,65.33,1,3,0,1,75.22,62.24,67.13,74.26,IT,JavaScript:Beginner;Machine Learning:Advanced;HTML:Advanced;CSS:Advanced;C++:Intermediate,1
+6.35,67.63,0,1,2,0,46.81,30.04,77.93,59.3,ECE,React:Advanced;Java:Intermediate;HTML:Intermediate;Machine Learning:Beginner;C++:Beginner,0
+7.9,63.39,1,0,4,6,54.69,81.82,37.79,95.13,CSE,JavaScript:Beginner;CSS:Beginner;Data Science:Advanced;Python:Beginner;C++:Advanced,1
+6.38,92.63,0,4,2,6,51.34,52.5,50.49,75.05,CSE,Java:Advanced;SQL:Advanced;C++:Advanced;CSS:Intermediate,1
+5.82,62.49,0,1,5,8,47.9,98.07,83.87,47.79,ECE,Java:Advanced;React:Beginner,1
+7.68,59.72,2,0,2,8,88.37,45.68,52.49,90.2,EEE,CSS:Intermediate;HTML:Intermediate;Java:Beginner;Data Science:Intermediate;Python:Advanced,0
+6.13,88.11,3,2,6,7,82.28,50.94,87.98,94.74,IT,Machine Learning:Intermediate;HTML:Intermediate,1
+9.09,71.84,0,0,1,2,42.59,93.71,74.73,66.17,EEE,SQL:Beginner;HTML:Advanced;C++:Beginner,1
+7.11,60.74,1,0,2,1,56.89,87.73,56.88,76.53,CSE,Java:Advanced;SQL:Advanced,0
+5.64,65.83,1,3,0,3,38.49,64.62,55.37,91.31,MECH,Java:Beginner;React:Beginner;C++:Beginner;Python:Advanced,0
+8.26,94.55,0,1,0,4,98.3,66.4,56.86,87.13,EEE,C++:Beginner;HTML:Intermediate,1
+5.09,59.52,0,1,3,2,40.04,83.45,79.03,49.21,ECE,JavaScript:Intermediate;Python:Beginner;Data Science:Intermediate,1
+8.12,67.91,0,1,6,4,51.38,73.11,52.89,55.42,CIVIL,Data Science:Advanced;C++:Intermediate,1
+7.04,89.26,0,1,4,2,67.23,55.29,53.74,83.33,CSE,CSS:Intermediate;Java:Intermediate;HTML:Intermediate;C++:Advanced,1
+7.19,84.58,4,3,0,0,66.9,73.38,71.87,45.15,ECE,Python:Intermediate;HTML:Intermediate,0
+9.67,94.64,3,0,1,7,89.19,79.25,74.76,99.23,CIVIL,Machine Learning:Advanced;React:Beginner,1
+8.09,79.47,4,1,0,2,98.92,74.41,85.54,51.19,CIVIL,React:Intermediate;JavaScript:Advanced;Machine Learning:Intermediate,0
+7.03,93.91,1,0,3,8,66.78,88.94,80.87,59.09,CIVIL,React:Intermediate;C++:Beginner,1
+9.67,73.26,2,4,3,2,70.91,43.21,84.43,92.85,CIVIL,Java:Advanced;C++:Beginner,1
+7.21,73.62,2,0,1,5,75.47,94.34,75.73,96.83,MECH,Data Science:Intermediate;Machine Learning:Intermediate;JavaScript:Intermediate;SQL:Advanced;React:Intermediate,1
+6.45,61.91,0,0,2,3,61.78,62.02,51.44,67.29,MECH,SQL:Advanced;Java:Advanced;CSS:Beginner,0
+6.1,81.42,0,0,1,4,93.91,95.18,68.2,62.39,MECH,Java:Intermediate;C++:Advanced;Data Science:Intermediate;CSS:Intermediate;SQL:Intermediate,1
+6.82,92.14,0,0,6,8,47.3,80.22,39.79,75.33,EEE,CSS:Beginner;Python:Intermediate;React:Intermediate;SQL:Advanced,1
+8.41,63.41,0,1,3,0,62.85,68.96,43.45,75.04,ECE,SQL:Intermediate;CSS:Beginner,1
+8.44,96.58,2,1,5,3,62.63,68.12,77.1,94.5,IT,Python:Advanced;C++:Intermediate,1
+7.6,60.23,0,1,0,8,63.96,33.89,43.58,64.93,MECH,Machine Learning:Intermediate;CSS:Intermediate,0
+8.18,60.32,1,1,5,7,85.8,35.09,36.99,88.17,EEE,SQL:Intermediate;CSS:Advanced;Java:Beginner,1
+8.56,72.3,0,1,0,2,40.74,37.82,63.38,73.84,CIVIL,C++:Advanced;Machine Learning:Intermediate;JavaScript:Beginner;Java:Intermediate,1
+6.39,81.21,0,0,6,3,55.91,56.15,56.86,88.07,CIVIL,CSS:Beginner;Data Science:Intermediate;SQL:Advanced,1
+5.78,59.8,3,1,5,7,74.9,83.5,70.2,42.54,EEE,Data Science:Advanced;SQL:Intermediate;CSS:Advanced;React:Advanced,0
+6.62,61.12,0,2,5,3,61.75,41.18,95.49,60.67,EEE,Python:Beginner;React:Intermediate,1
+8.79,57.98,0,1,5,4,41.48,45.06,52.6,99.87,IT,Python:Intermediate;CSS:Intermediate,1
+6.47,58.58,0,2,5,7,71.35,83.62,41.08,83.09,EEE,JavaScript:Advanced;HTML:Advanced;Machine Learning:Intermediate,1
+9.42,70.52,0,0,2,6,72.99,51.4,75.59,64.2,ECE,Java:Intermediate;C++:Beginner;Data Science:Beginner,1
+7.9,84.46,0,1,1,8,65.76,93.08,86.74,50.18,CSE,Machine Learning:Advanced;SQL:Beginner;Java:Intermediate;HTML:Advanced,1
+7.09,56.33,2,0,1,2,91.5,93.44,70.17,54.21,CIVIL,SQL:Beginner;HTML:Intermediate,0
+7.91,67.28,2,1,3,5,65.93,72.22,61.29,69.07,ECE,CSS:Beginner;Java:Intermediate;Machine Learning:Intermediate,1
+7.91,77.75,5,3,5,1,71.54,43.99,77.21,79.88,CSE,Java:Intermediate;C++:Beginner,0
+6.14,81.68,0,2,3,7,92.89,51.94,92.25,63.05,IT,Java:Intermediate;Machine Learning:Advanced;CSS:Advanced;JavaScript:Beginner,1
+7.27,61.59,0,1,0,0,62.62,39.1,48.96,44.68,CIVIL,Data Science:Intermediate;Machine Learning:Intermediate;HTML:Advanced;CSS:Intermediate;C++:Advanced,0
+9.46,62.04,2,1,5,1,75.3,90.6,72.56,57.31,ECE,JavaScript:Beginner;Python:Advanced,1
+6.1,75.56,3,1,5,8,91.06,77.44,40.22,62.34,IT,Java:Advanced;Machine Learning:Advanced;SQL:Intermediate,0
+5.89,65.58,0,1,0,6,94.45,75.19,43.98,51.28,IT,HTML:Intermediate;Java:Intermediate;SQL:Beginner;JavaScript:Intermediate,1
+8.28,98.5,4,3,2,2,46.22,70.37,71.85,76.89,CIVIL,C++:Intermediate;Java:Intermediate;HTML:Intermediate;CSS:Beginner;Data Science:Intermediate,1
+5.59,68.3,0,0,3,2,94.78,81.72,96.15,73.29,ECE,C++:Intermediate;Java:Advanced;Python:Intermediate;React:Intermediate,1
+6.89,90.43,0,3,2,7,50.61,86.66,77.96,96.47,MECH,Java:Beginner;Data Science:Intermediate;C++:Intermediate;Machine Learning:Intermediate;HTML:Advanced,1
+6.63,59.39,0,0,3,1,73.89,77.99,73.77,89.19,ECE,Python:Advanced;Java:Advanced;JavaScript:Intermediate;HTML:Beginner;Machine Learning:Beginner,1
+9.23,75.92,0,2,0,7,42.18,40.9,64.11,99.57,CIVIL,Java:Advanced;CSS:Beginner;HTML:Advanced;Data Science:Advanced;SQL:Beginner,1
+5.74,99.92,0,1,2,5,79.7,70.55,81.71,66.12,CSE,JavaScript:Beginner;CSS:Beginner;Python:Beginner;C++:Beginner,1
+8.71,64.48,1,1,2,6,37.1,89.66,97.9,77.88,MECH,Java:Beginner;JavaScript:Intermediate;SQL:Intermediate;C++:Beginner,1
+8.28,84.54,1,1,6,0,92.81,96.99,71.58,73.71,ECE,JavaScript:Intermediate;React:Advanced;SQL:Intermediate;Data Science:Intermediate,1
+9.15,55.44,0,0,0,0,55.27,43.14,80.11,72.26,ECE,Python:Intermediate;CSS:Beginner,1
+8.78,97.01,2,0,4,3,92.33,65.11,93.04,80.39,IT,CSS:Intermediate;HTML:Intermediate;Java:Advanced,1
+8.6,71.12,2,0,5,6,74.03,44.62,43.84,66.07,IT,C++:Intermediate;Data Science:Advanced;SQL:Advanced;CSS:Beginner,1
+7.08,62.33,1,1,3,2,97.92,65.92,69.39,81.67,EEE,Python:Advanced;C++:Beginner;SQL:Intermediate;Data Science:Beginner;React:Intermediate,1
+6.8,69.7,0,0,1,3,90.01,48.16,39.87,84.56,IT,C++:Advanced;CSS:Intermediate,0
+5.33,96.09,1,1,1,7,60.72,94.02,64.83,55.89,IT,Data Science:Beginner;HTML:Advanced;Machine Learning:Intermediate;C++:Beginner,0
+6.36,84.65,1,1,5,4,91.98,80.45,73.29,63.64,ECE,Data Science:Advanced;React:Advanced;JavaScript:Intermediate,1
+6.78,88.2,1,1,0,0,63.12,64.48,76.07,81.08,CIVIL,HTML:Beginner;JavaScript:Beginner;Java:Intermediate;Machine Learning:Advanced,0
+5.99,65.55,3,2,1,6,73.89,83.38,93.29,88.71,CSE,Python:Intermediate;Data Science:Intermediate,1
+5.16,99.74,2,1,1,2,36.18,45.81,93.82,80.69,EEE,React:Intermediate;SQL:Advanced;Data Science:Beginner;C++:Intermediate;JavaScript:Advanced,0
+9.56,69.22,4,0,4,8,84.48,42.29,67.6,49.38,CIVIL,CSS:Beginner;Python:Beginner;SQL:Beginner;Java:Intermediate,1
+8.62,82.22,2,1,3,5,51.88,70.26,75.51,95.63,MECH,Machine Learning:Advanced;CSS:Beginner;Data Science:Beginner;HTML:Beginner;Java:Beginner,1
+9.87,59.04,1,3,1,8,73.55,35.49,57.86,51.56,ECE,Data Science:Intermediate;Java:Intermediate,1
+5.11,62.45,3,0,2,7,44.4,38.72,41.33,59.07,CSE,React:Advanced;Data Science:Intermediate;Python:Advanced,0
+7.52,74.16,0,2,5,1,64.41,46.84,71.3,40.75,CIVIL,JavaScript:Intermediate;C++:Beginner;SQL:Intermediate;Machine Learning:Intermediate;Java:Intermediate,1
+5.79,88.38,1,0,6,2,52.58,43.37,80.83,43.77,CIVIL,SQL:Intermediate;Data Science:Beginner;Python:Intermediate,0
+5.73,55.11,0,0,0,2,46.27,59.25,91.28,93.86,IT,Machine Learning:Intermediate;JavaScript:Beginner;CSS:Intermediate,0
+7.01,95.06,3,1,6,6,62.05,96.89,91.16,75.01,EEE,Machine Learning:Beginner;CSS:Intermediate;React:Intermediate;C++:Advanced;Java:Advanced,1
+6.59,77.84,1,0,0,2,42.01,69.93,65.68,45.48,ECE,JavaScript:Advanced;Machine Learning:Intermediate;HTML:Beginner;SQL:Beginner;Data Science:Advanced,0
+7.76,70.26,0,0,5,6,67.1,71.47,54.36,60.33,CSE,CSS:Intermediate;HTML:Intermediate;JavaScript:Beginner,1
+6.93,55.55,0,0,3,8,40.69,80.95,63.87,99.56,EEE,C++:Advanced;HTML:Intermediate;Machine Learning:Beginner;Java:Intermediate,1
+9.95,63.51,0,1,1,4,40.87,85.59,97.6,95.99,CIVIL,C++:Advanced;Machine Learning:Advanced;Python:Advanced,1
+8.47,58.38,1,0,5,3,65.43,56.95,66.7,60.43,MECH,React:Intermediate;CSS:Advanced;C++:Beginner;HTML:Intermediate,1
+6.25,84.39,2,0,2,5,89.34,89.33,63.85,41.04,CSE,Python:Beginner;SQL:Beginner;CSS:Advanced;Machine Learning:Beginner;React:Intermediate,0
+7.97,86.25,2,1,1,4,82.02,72.07,66.37,64.07,CSE,Machine Learning:Intermediate;Java:Beginner;HTML:Intermediate,1
+6.99,81.31,1,0,6,1,79.45,75.62,99.39,45.38,CIVIL,CSS:Intermediate;React:Intermediate,1
+8.03,59.19,2,1,5,3,60.28,55.54,74.91,78.73,MECH,Machine Learning:Intermediate;CSS:Intermediate;React:Intermediate;Data Science:Intermediate,1
+7.7,94.02,0,2,6,2,48.62,41.15,36.09,92.05,EEE,React:Intermediate;C++:Intermediate;CSS:Intermediate;HTML:Intermediate;SQL:Intermediate,1
+5.99,71.88,0,1,3,0,85.88,53.92,81.1,56.18,ECE,C++:Intermediate;HTML:Beginner;JavaScript:Advanced;CSS:Advanced,1
+9.92,97.66,0,0,5,8,80.16,46.28,56.08,55.19,ECE,Python:Beginner;HTML:Intermediate,1
+5.72,88.32,1,0,5,2,54.56,51.76,99.3,40.39,EEE,Java:Beginner;Data Science:Advanced;Python:Intermediate,0
+9.14,64.93,0,1,4,4,53.5,82.0,87.57,64.77,CSE,C++:Intermediate;React:Intermediate;Java:Beginner,1
+6.45,97.48,5,1,1,7,57.01,37.86,66.13,42.4,CIVIL,React:Intermediate;Python:Advanced,0
+8.57,86.75,0,2,0,6,89.21,38.36,63.82,82.64,ECE,Machine Learning:Advanced;React:Beginner,1
+8.65,74.09,4,3,2,4,61.16,68.61,42.84,49.94,CIVIL,CSS:Beginner;Python:Intermediate;JavaScript:Beginner;C++:Beginner,0
+9.34,87.86,0,3,3,3,37.96,73.55,87.64,56.07,IT,Python:Intermediate;C++:Beginner;Data Science:Intermediate;HTML:Intermediate;SQL:Beginner,1
+6.0,60.97,0,0,4,7,64.85,77.86,63.84,54.51,IT,Machine Learning:Beginner;Java:Intermediate;SQL:Beginner;HTML:Intermediate;Data Science:Intermediate,1
+5.87,73.1,0,1,3,3,39.29,87.06,77.25,62.14,CSE,HTML:Advanced;React:Beginner;CSS:Intermediate,1
+8.71,57.25,3,3,0,7,90.58,90.41,66.51,81.62,CIVIL,Data Science:Beginner;C++:Advanced;SQL:Intermediate,1
+6.85,61.65,3,3,4,3,49.37,85.25,40.81,89.74,ECE,CSS:Advanced;Python:Intermediate,1
+7.64,63.64,2,0,6,5,80.47,79.74,66.06,64.27,IT,Machine Learning:Intermediate;React:Beginner,1
+5.03,92.89,2,0,3,5,41.51,65.26,49.91,74.54,CSE,SQL:Beginner;Data Science:Intermediate;CSS:Advanced;React:Intermediate;Machine Learning:Intermediate,0
+6.5,95.85,1,1,2,2,38.9,44.32,86.32,79.89,EEE,Data Science:Intermediate;React:Advanced;CSS:Beginner;Java:Advanced;Python:Beginner,1
+7.56,66.94,3,2,5,7,91.94,63.72,84.53,49.07,ECE,C++:Advanced;Java:Intermediate,1
+9.92,61.51,0,0,6,2,46.94,40.1,77.12,40.92,ECE,JavaScript:Beginner;React:Intermediate;Java:Advanced,1
+6.21,92.17,1,1,5,1,53.92,30.34,70.97,44.77,EEE,C++:Beginner;JavaScript:Intermediate,0
+9.01,57.72,1,0,1,7,85.67,71.51,51.93,51.58,ECE,Java:Advanced;Python:Advanced;Data Science:Intermediate,1
+6.85,74.16,1,2,0,8,52.37,50.53,62.11,66.81,ECE,Data Science:Intermediate;Java:Beginner,1
+8.14,76.2,1,0,0,8,83.29,61.81,39.58,98.74,CIVIL,React:Advanced;Python:Beginner;HTML:Intermediate;CSS:Intermediate,1
+5.73,92.88,0,1,2,7,39.16,81.8,58.0,75.98,CSE,Data Science:Advanced;C++:Intermediate;JavaScript:Advanced;Python:Beginner;Machine Learning:Intermediate,1
+5.16,83.83,3,2,3,2,61.14,67.01,74.04,64.88,IT,React:Advanced;Machine Learning:Intermediate;SQL:Beginner;HTML:Beginner,0
+6.84,80.28,0,1,1,4,71.01,56.45,82.17,73.88,EEE,HTML:Intermediate;CSS:Intermediate;Python:Intermediate,1
+8.67,55.86,0,2,3,6,37.34,77.03,80.3,60.14,MECH,HTML:Beginner;SQL:Beginner;C++:Beginner;CSS:Beginner;Machine Learning:Intermediate,1
+8.21,70.03,1,2,3,0,40.28,30.77,83.51,88.63,CIVIL,React:Beginner;C++:Intermediate;SQL:Intermediate,1
+7.45,71.82,1,0,6,8,55.11,34.54,86.95,92.79,CIVIL,JavaScript:Intermediate;C++:Beginner,1
+5.22,79.57,2,0,6,7,98.75,63.5,46.85,48.09,CIVIL,Python:Advanced;React:Intermediate;JavaScript:Intermediate;Data Science:Intermediate;Java:Advanced,0
+6.38,80.83,4,0,3,2,45.15,90.57,80.01,95.19,IT,Data Science:Intermediate;Java:Beginner,0
+6.44,61.12,0,0,2,6,88.01,36.78,86.16,49.96,ECE,CSS:Beginner;Python:Beginner,1
+7.01,75.49,0,1,5,6,69.06,46.42,53.69,55.96,CSE,C++:Advanced;Data Science:Intermediate;React:Intermediate;Java:Beginner,1
+9.53,70.62,2,1,4,4,63.61,92.34,57.09,66.28,CSE,Java:Intermediate;CSS:Intermediate;JavaScript:Advanced;HTML:Intermediate;Data Science:Intermediate,1
+6.02,96.17,1,1,1,5,78.4,90.98,35.59,99.03,MECH,SQL:Intermediate;CSS:Intermediate;Java:Beginner;JavaScript:Beginner;React:Advanced,1
+7.22,90.76,1,0,5,5,97.25,94.65,64.68,85.25,MECH,SQL:Intermediate;C++:Advanced;Java:Intermediate;CSS:Intermediate;React:Beginner,1
+6.81,89.07,0,3,1,2,45.8,74.66,37.14,82.98,CIVIL,Data Science:Beginner;HTML:Intermediate;C++:Intermediate;React:Intermediate,1
+6.38,73.16,0,0,1,3,50.95,90.08,39.07,58.24,EEE,HTML:Advanced;React:Advanced;C++:Beginner;Data Science:Intermediate,0
+6.05,65.75,0,1,1,8,66.1,45.17,55.86,63.6,IT,SQL:Beginner;JavaScript:Intermediate;Machine Learning:Beginner;C++:Intermediate;HTML:Beginner,1
+7.22,94.48,0,0,6,0,68.86,98.43,77.12,57.31,CSE,SQL:Beginner;Data Science:Beginner;JavaScript:Advanced,1
+5.97,62.88,0,0,6,3,54.14,39.89,97.99,64.25,MECH,HTML:Advanced;Python:Intermediate,1
+5.33,76.11,1,0,3,1,81.74,62.26,78.44,56.29,ECE,Data Science:Intermediate;HTML:Beginner;Machine Learning:Advanced;Java:Advanced;SQL:Advanced,0
+9.8,85.38,1,1,0,0,66.7,70.38,42.54,64.99,CSE,HTML:Intermediate;React:Beginner;Machine Learning:Beginner;JavaScript:Intermediate,1
+5.72,79.28,1,0,0,0,81.29,55.08,42.78,98.64,MECH,Machine Learning:Intermediate;HTML:Intermediate,0
+5.91,83.12,0,0,6,3,88.29,99.63,64.69,83.88,IT,Machine Learning:Intermediate;JavaScript:Beginner;HTML:Advanced;CSS:Beginner;SQL:Beginner,1
+8.2,56.13,0,0,5,1,78.99,92.45,40.65,65.32,CSE,JavaScript:Intermediate;Data Science:Beginner,1
+7.23,85.24,3,0,0,6,63.53,67.78,84.04,86.56,IT,JavaScript:Intermediate;SQL:Beginner;Machine Learning:Intermediate;Java:Beginner,0
+7.7,55.76,0,2,1,7,53.21,86.57,56.2,67.5,IT,CSS:Advanced;C++:Intermediate;Data Science:Intermediate;Python:Intermediate;Machine Learning:Intermediate,1
+8.6,68.28,0,0,4,3,67.45,75.82,79.52,55.44,EEE,CSS:Intermediate;C++:Intermediate;SQL:Advanced;Java:Intermediate;HTML:Intermediate,1
+5.18,75.01,0,0,6,1,38.31,59.6,97.98,42.42,MECH,C++:Intermediate;HTML:Intermediate;Data Science:Intermediate;Java:Advanced;SQL:Beginner,1
+5.58,75.93,1,2,5,8,64.39,39.34,44.14,98.04,CSE,Python:Advanced;Data Science:Intermediate;JavaScript:Beginner;SQL:Advanced,1
+8.0,95.23,3,1,5,1,70.83,43.55,50.45,81.18,IT,Data Science:Intermediate;C++:Intermediate,1
+6.46,55.98,2,0,6,5,97.22,55.29,85.23,84.84,IT,SQL:Intermediate;CSS:Intermediate;JavaScript:Intermediate,1
+5.65,93.07,5,1,2,4,48.59,97.11,69.18,88.32,IT,C++:Advanced;JavaScript:Beginner,0
+6.26,55.18,0,1,3,2,43.94,43.52,73.45,71.86,ECE,React:Intermediate;C++:Intermediate;Machine Learning:Intermediate;CSS:Beginner;JavaScript:Intermediate,1
+9.5,72.21,0,2,6,0,60.75,99.03,88.26,85.09,IT,JavaScript:Intermediate;C++:Intermediate,1
+8.7,74.61,2,1,5,2,82.04,71.27,88.31,70.56,IT,Data Science:Intermediate;SQL:Intermediate,1
+8.19,68.77,5,1,3,7,41.62,90.19,87.05,50.48,IT,Data Science:Advanced;React:Advanced,0
+8.03,97.49,0,0,4,2,35.8,83.97,76.89,95.01,EEE,Machine Learning:Advanced;JavaScript:Beginner,1
+6.92,94.89,0,3,5,3,36.29,39.53,52.01,50.37,EEE,C++:Intermediate;React:Advanced;CSS:Intermediate;Data Science:Advanced;Java:Intermediate,1
+5.7,68.28,0,0,5,0,57.67,76.11,90.17,81.5,EEE,Java:Intermediate;HTML:Intermediate;Data Science:Intermediate;SQL:Intermediate;React:Intermediate,1
+6.42,99.51,1,1,1,8,65.42,43.5,42.32,49.75,EEE,C++:Beginner;Python:Intermediate;SQL:Beginner;HTML:Intermediate,1
+6.3,80.65,0,1,6,4,47.47,77.46,99.48,81.58,MECH,Machine Learning:Intermediate;CSS:Advanced;Python:Beginner;JavaScript:Advanced,1
+9.55,81.13,2,0,4,2,70.04,46.23,43.22,94.48,MECH,JavaScript:Intermediate;Machine Learning:Intermediate,1
+7.5,82.39,0,1,5,2,82.56,38.09,45.23,92.0,CIVIL,HTML:Intermediate;CSS:Intermediate;C++:Beginner;Python:Beginner;Data Science:Intermediate,1
+5.84,93.44,0,0,2,1,48.69,57.79,41.21,96.21,EEE,Python:Intermediate;HTML:Advanced,0
+6.63,72.26,0,1,5,7,96.85,76.94,78.26,95.36,CIVIL,Java:Beginner;SQL:Intermediate;JavaScript:Advanced;React:Intermediate;HTML:Intermediate,1
+5.01,69.03,0,0,0,4,86.51,86.47,93.68,67.19,ECE,Machine Learning:Beginner;JavaScript:Advanced;Java:Intermediate;Python:Advanced;CSS:Beginner,0
+9.76,92.32,1,0,2,3,43.5,74.73,44.76,98.4,ECE,HTML:Intermediate;Java:Intermediate;Data Science:Intermediate;SQL:Beginner,1
+8.49,55.92,1,1,5,8,41.91,63.16,53.13,73.44,EEE,Java:Beginner;Data Science:Advanced,1
+7.86,84.08,1,1,3,2,96.37,51.88,79.19,63.87,CIVIL,Java:Intermediate;SQL:Advanced;JavaScript:Advanced,1
+6.79,77.78,0,0,2,5,50.87,98.82,87.03,79.28,EEE,JavaScript:Advanced;SQL:Beginner;C++:Intermediate;Java:Advanced,1
+6.5,80.26,2,1,6,8,73.41,65.61,68.59,68.04,CIVIL,HTML:Advanced;Java:Advanced;Python:Intermediate,1
+9.1,91.94,3,0,4,3,71.84,89.46,79.01,72.43,EEE,Java:Beginner;Machine Learning:Intermediate;SQL:Advanced,1
+5.12,97.57,0,3,6,0,82.39,89.46,51.48,89.1,ECE,JavaScript:Beginner;React:Intermediate;CSS:Advanced;HTML:Beginner,1
+9.51,79.27,0,3,5,6,68.93,55.93,37.82,71.79,IT,HTML:Beginner;SQL:Advanced;Java:Advanced;JavaScript:Beginner;CSS:Intermediate,1
+5.55,91.73,0,0,0,0,83.35,45.92,88.1,87.64,CSE,JavaScript:Intermediate;Python:Advanced;Machine Learning:Intermediate,0
+5.26,86.47,0,0,6,6,41.67,59.4,44.07,72.51,CSE,Python:Beginner;React:Intermediate;CSS:Advanced;HTML:Beginner;SQL:Beginner,1
+9.84,85.32,0,1,6,1,78.4,36.81,88.55,77.23,CIVIL,React:Beginner;JavaScript:Advanced;HTML:Intermediate;Data Science:Advanced;CSS:Advanced,1
+6.54,87.33,0,1,1,7,49.69,97.27,79.24,41.08,MECH,CSS:Advanced;Machine Learning:Advanced,1
+6.52,93.53,1,0,5,4,70.38,32.29,55.54,42.99,IT,React:Intermediate;HTML:Beginner;SQL:Intermediate,1
+8.29,55.94,0,0,2,6,86.34,52.37,73.3,73.57,ECE,JavaScript:Intermediate;C++:Intermediate;CSS:Intermediate;Python:Advanced,1
+8.24,83.88,0,4,5,4,52.82,34.01,72.19,41.83,CIVIL,Data Science:Intermediate;CSS:Intermediate;Machine Learning:Intermediate;Java:Beginner;JavaScript:Intermediate,1
+6.64,64.81,1,2,0,7,48.81,56.56,51.58,93.93,IT,Java:Intermediate;CSS:Intermediate;React:Intermediate;Data Science:Intermediate,1
+7.9,90.3,2,2,2,7,87.73,44.9,77.47,42.77,IT,JavaScript:Beginner;React:Advanced,1
+9.49,82.32,1,1,3,3,49.23,97.16,88.46,49.91,IT,HTML:Advanced;SQL:Beginner;React:Intermediate;Python:Intermediate,1
+6.05,79.21,0,1,2,8,66.4,81.09,44.19,81.93,CSE,Data Science:Beginner;Machine Learning:Beginner;Python:Intermediate;C++:Beginner;Java:Intermediate,1
+5.63,69.09,0,0,0,4,82.19,91.51,84.0,72.86,CSE,Java:Advanced;SQL:Intermediate;HTML:Advanced,0
+5.4,79.81,4,0,0,1,37.31,65.53,77.27,65.89,ECE,Python:Advanced;Data Science:Advanced;Machine Learning:Intermediate,0
+6.5,94.03,0,0,4,8,55.07,60.8,98.52,96.74,EEE,SQL:Intermediate;Machine Learning:Beginner,1
+8.63,86.52,0,1,3,7,77.2,50.52,41.76,68.6,MECH,SQL:Intermediate;HTML:Advanced,1
+7.08,55.41,1,1,5,1,77.15,79.1,99.37,84.3,MECH,CSS:Intermediate;Machine Learning:Intermediate,1
+8.5,72.45,1,0,3,8,75.79,99.33,83.07,45.12,EEE,Python:Intermediate;SQL:Beginner;C++:Intermediate,1
+9.31,65.97,5,1,6,8,58.58,54.21,87.8,40.27,IT,JavaScript:Beginner;Python:Intermediate;HTML:Beginner,1
+9.79,64.88,0,0,2,3,39.28,37.07,49.72,77.21,CIVIL,HTML:Advanced;Data Science:Intermediate;Java:Intermediate;CSS:Beginner;SQL:Beginner,1
+9.31,61.69,0,0,6,4,83.43,55.86,97.96,61.24,CIVIL,HTML:Intermediate;Data Science:Advanced,1
+6.36,62.09,0,3,4,8,41.65,67.98,70.71,56.26,CIVIL,Data Science:Intermediate;JavaScript:Advanced;C++:Intermediate;Python:Beginner,1
+5.14,65.38,2,0,0,6,53.71,77.43,49.06,58.24,CIVIL,JavaScript:Beginner;Java:Intermediate,0
+8.88,64.06,1,1,3,0,35.5,65.98,52.7,65.96,CIVIL,C++:Intermediate;Machine Learning:Advanced,1
+9.52,89.95,4,2,1,0,53.17,67.95,94.4,75.09,IT,SQL:Beginner;JavaScript:Beginner;Machine Learning:Beginner,1
+7.41,95.37,0,2,1,0,58.54,89.93,41.63,87.13,IT,HTML:Advanced;C++:Beginner;Python:Beginner;CSS:Advanced;Machine Learning:Intermediate,1
+6.32,99.62,0,1,1,1,76.07,67.2,54.45,91.38,ECE,JavaScript:Beginner;Machine Learning:Beginner;Java:Advanced;C++:Intermediate;Python:Advanced,1
+6.35,58.84,0,2,6,1,83.96,72.85,39.84,51.37,MECH,React:Advanced;C++:Beginner;CSS:Intermediate;SQL:Intermediate;Machine Learning:Beginner,1
+7.95,63.61,1,1,4,0,40.88,91.44,43.52,99.28,EEE,Data Science:Intermediate;Python:Advanced,1
+6.12,67.77,0,0,1,7,87.67,55.11,68.08,57.62,CIVIL,HTML:Beginner;JavaScript:Intermediate;React:Intermediate;SQL:Beginner;C++:Beginner,1
+6.24,87.0,0,0,0,1,79.46,39.31,49.18,97.56,MECH,JavaScript:Advanced;Java:Beginner,0
+8.79,86.08,1,1,6,0,41.05,45.51,79.97,58.37,MECH,CSS:Advanced;Machine Learning:Intermediate;SQL:Intermediate;JavaScript:Intermediate,1
+9.61,84.62,3,1,0,5,35.1,95.76,85.36,46.87,CSE,HTML:Intermediate;React:Beginner;Python:Beginner,1
+7.03,74.25,0,1,0,2,98.81,63.42,95.83,40.41,EEE,CSS:Intermediate;React:Intermediate;SQL:Beginner,1
+8.36,64.77,0,2,2,0,48.77,43.3,83.2,84.81,EEE,Data Science:Advanced;JavaScript:Intermediate;HTML:Advanced,1
+5.3,97.68,3,2,5,6,71.13,33.28,57.39,78.6,EEE,HTML:Intermediate;Data Science:Advanced;C++:Intermediate;CSS:Advanced,0
+6.44,80.8,1,2,4,6,60.64,88.2,63.82,48.06,EEE,React:Advanced;SQL:Beginner,1
+9.38,74.0,0,1,1,0,39.06,54.35,47.79,49.68,ECE,Machine Learning:Advanced;HTML:Beginner;JavaScript:Intermediate,1
+7.08,60.58,0,1,3,0,67.05,38.63,83.84,90.08,ECE,React:Beginner;Data Science:Beginner,1
+9.9,81.35,0,2,4,1,61.42,94.31,58.45,72.62,CSE,HTML:Beginner;React:Advanced;Python:Intermediate,1
+7.03,77.14,5,0,1,0,94.69,59.02,56.17,56.44,EEE,Java:Beginner;Data Science:Intermediate;SQL:Advanced;React:Advanced;HTML:Advanced,0
+9.24,91.29,1,0,4,2,64.0,42.54,96.67,79.56,IT,SQL:Beginner;Python:Beginner;JavaScript:Beginner;HTML:Intermediate;CSS:Intermediate,1
+7.9,70.25,1,1,3,4,40.77,59.33,35.14,96.22,CIVIL,Data Science:Advanced;HTML:Beginner,1
+6.19,77.8,0,1,4,1,61.9,62.37,52.8,90.2,IT,Data Science:Intermediate;Java:Advanced;JavaScript:Beginner,1
+5.83,88.92,1,0,6,2,68.0,77.0,70.68,61.39,CIVIL,Python:Beginner;Machine Learning:Advanced;SQL:Advanced,1
+6.94,66.85,0,1,4,8,82.01,61.46,39.44,73.67,EEE,Java:Intermediate;HTML:Intermediate,1
+7.38,94.1,0,0,5,7,40.12,73.82,96.93,53.89,IT,C++:Intermediate;Machine Learning:Beginner;SQL:Beginner,1
+7.15,94.64,5,1,5,8,92.52,47.87,71.14,87.47,MECH,C++:Advanced;JavaScript:Intermediate;CSS:Beginner;Machine Learning:Intermediate;Python:Beginner,0
+7.3,84.29,1,1,5,0,52.82,75.55,50.1,94.23,EEE,Java:Intermediate;Machine Learning:Beginner;SQL:Beginner,1
+9.62,60.53,1,0,5,0,69.21,33.44,70.09,58.97,CIVIL,SQL:Beginner;Python:Beginner;Data Science:Intermediate;React:Beginner,1
+9.01,96.77,3,0,4,1,92.86,94.07,83.0,55.7,CIVIL,C++:Advanced;Machine Learning:Beginner;CSS:Beginner;JavaScript:Intermediate,1
+6.26,63.4,1,1,3,5,64.22,87.1,83.44,82.44,CIVIL,Data Science:Advanced;C++:Advanced;Python:Intermediate;HTML:Intermediate,1
+6.99,98.4,3,2,3,3,62.93,57.18,43.0,54.1,ECE,React:Advanced;Machine Learning:Intermediate;CSS:Intermediate;JavaScript:Advanced;Data Science:Advanced,1
+8.01,91.43,0,1,3,6,49.85,75.57,96.0,58.22,IT,JavaScript:Intermediate;C++:Advanced,1
+7.39,57.23,0,0,6,1,48.79,39.01,68.11,51.7,ECE,Python:Advanced;C++:Advanced;Java:Beginner;CSS:Intermediate;JavaScript:Intermediate,1
+7.89,86.97,1,0,0,0,90.15,75.93,94.98,93.62,CSE,Machine Learning:Advanced;Data Science:Advanced;HTML:Intermediate,1
+8.31,87.41,0,2,6,4,74.06,83.7,72.93,66.88,CIVIL,React:Intermediate;Python:Advanced;HTML:Advanced;Java:Beginner,1
+5.47,68.4,1,1,3,3,44.25,70.85,82.07,45.34,CIVIL,JavaScript:Intermediate;Machine Learning:Intermediate,1
+8.23,59.32,0,2,5,4,63.65,37.79,46.96,82.23,MECH,Machine Learning:Advanced;JavaScript:Intermediate;Data Science:Intermediate,1
+7.26,79.9,3,3,4,2,60.84,95.89,99.91,51.69,CIVIL,Python:Intermediate;JavaScript:Advanced;SQL:Intermediate,1
+5.85,80.96,2,1,0,7,38.45,44.55,61.66,91.36,MECH,Data Science:Advanced;SQL:Advanced;Python:Advanced;HTML:Intermediate;React:Beginner,0
+8.67,75.77,2,2,4,6,47.37,70.76,75.82,90.37,CSE,Java:Intermediate;JavaScript:Beginner;Data Science:Beginner;C++:Intermediate;SQL:Intermediate,1
+5.62,92.12,0,0,4,6,44.22,93.85,36.56,65.63,IT,React:Advanced;JavaScript:Advanced;HTML:Beginner;SQL:Beginner,0
+9.11,65.54,0,0,6,3,47.85,50.65,38.98,66.97,MECH,Python:Intermediate;Java:Advanced;JavaScript:Advanced,1
+5.56,98.96,1,0,1,3,49.33,72.26,83.86,95.67,ECE,C++:Advanced;Python:Beginner;SQL:Advanced,0
+5.51,75.88,1,2,4,2,51.97,88.9,45.45,68.03,ECE,Java:Beginner;JavaScript:Intermediate,1
+8.16,91.57,1,2,1,0,70.85,68.04,99.92,68.33,IT,HTML:Intermediate;JavaScript:Intermediate;React:Intermediate;Java:Intermediate,1
+7.69,70.56,0,2,6,7,92.18,50.32,91.23,45.58,ECE,React:Intermediate;CSS:Intermediate;SQL:Intermediate;C++:Advanced;Machine Learning:Beginner,1
+8.98,64.2,1,1,3,4,45.67,43.83,62.56,76.35,ECE,Data Science:Advanced;CSS:Intermediate;JavaScript:Advanced;C++:Intermediate,1
+7.24,64.51,1,0,2,7,75.9,33.25,36.38,57.29,CSE,React:Intermediate;Java:Advanced,0
+6.68,70.03,2,1,1,0,81.85,83.19,99.9,81.08,IT,Data Science:Advanced;SQL:Advanced;HTML:Intermediate,1
+7.19,86.35,0,0,6,1,36.47,54.02,42.11,88.0,CIVIL,Machine Learning:Intermediate;C++:Intermediate;Data Science:Intermediate,1
+9.7,96.5,0,1,0,2,97.93,35.23,72.4,91.19,MECH,HTML:Intermediate;Python:Advanced;Java:Beginner;React:Beginner,1
+9.55,70.26,1,2,5,7,43.53,50.54,81.24,97.59,CIVIL,CSS:Intermediate;C++:Beginner;JavaScript:Intermediate;Machine Learning:Beginner,1
+7.38,82.88,0,2,0,0,76.72,75.56,94.17,83.56,ECE,Data Science:Intermediate;Java:Advanced;C++:Intermediate,1
+6.14,75.49,3,1,4,5,98.49,89.69,55.53,60.78,MECH,React:Intermediate;CSS:Beginner;Data Science:Intermediate,0
+7.19,67.79,0,2,0,5,98.52,81.27,88.58,92.44,MECH,Data Science:Beginner;JavaScript:Intermediate;Java:Advanced;Machine Learning:Beginner,1
+9.2,77.46,1,3,0,4,65.2,86.31,35.67,62.45,CIVIL,Machine Learning:Beginner;SQL:Intermediate;Java:Intermediate;React:Intermediate;C++:Advanced,1
+6.62,55.88,3,2,6,4,50.56,46.86,71.88,44.73,CIVIL,Java:Intermediate;Machine Learning:Intermediate;C++:Beginner;Data Science:Advanced;SQL:Intermediate,0
+8.34,67.63,0,1,3,6,70.59,40.31,74.92,84.42,CIVIL,SQL:Advanced;HTML:Intermediate;Data Science:Beginner,1
+8.63,76.69,1,1,1,8,92.98,72.9,35.76,96.06,MECH,CSS:Intermediate;C++:Intermediate;Java:Beginner;HTML:Intermediate;JavaScript:Intermediate,1
+8.35,93.19,2,2,3,3,35.28,34.72,43.99,87.63,IT,Python:Beginner;Machine Learning:Advanced,1
+9.72,92.01,3,1,4,2,41.13,62.23,45.15,55.9,MECH,JavaScript:Beginner;React:Intermediate;Machine Learning:Advanced,1
+7.08,66.28,0,1,3,3,44.35,96.19,90.88,82.38,ECE,Machine Learning:Intermediate;HTML:Beginner;CSS:Intermediate,1
+5.64,64.82,1,2,2,6,93.09,74.36,58.14,85.48,CIVIL,CSS:Advanced;Data Science:Beginner;HTML:Beginner,1
+9.57,60.0,1,0,3,7,56.42,36.89,50.22,62.33,MECH,Machine Learning:Beginner;Java:Advanced;SQL:Intermediate;C++:Advanced;HTML:Advanced,1
+8.58,91.96,0,3,4,0,89.7,76.36,96.16,81.44,CIVIL,React:Intermediate;Machine Learning:Advanced;HTML:Intermediate,1
+6.34,67.21,0,1,2,5,93.97,69.62,57.65,58.38,ECE,React:Beginner;Data Science:Intermediate;HTML:Advanced;SQL:Advanced;CSS:Intermediate,1
+6.69,93.24,0,1,5,7,77.36,48.28,51.6,76.1,IT,JavaScript:Intermediate;C++:Beginner;CSS:Intermediate;Python:Beginner;Machine Learning:Beginner,1
+6.01,60.65,1,1,5,8,57.0,36.32,58.08,43.13,EEE,SQL:Intermediate;Data Science:Beginner,0
+8.53,84.93,0,0,2,7,65.18,48.22,98.26,73.72,ECE,C++:Advanced;HTML:Intermediate;Data Science:Intermediate;Machine Learning:Intermediate;React:Advanced,1
+7.6,80.9,0,1,1,3,79.46,85.14,66.8,59.53,ECE,Machine Learning:Intermediate;HTML:Intermediate;JavaScript:Advanced;React:Beginner;C++:Intermediate,1
+7.29,82.25,0,3,3,0,94.65,34.7,57.15,46.47,CSE,JavaScript:Beginner;Data Science:Intermediate,1
+7.09,80.21,0,2,0,2,58.25,74.45,68.28,51.67,CIVIL,Data Science:Intermediate;C++:Advanced;HTML:Intermediate;Machine Learning:Advanced;CSS:Intermediate,1
+9.7,67.9,1,1,3,3,78.47,31.83,86.01,63.6,MECH,React:Intermediate;CSS:Advanced;JavaScript:Advanced,1
+7.27,84.82,1,1,0,0,86.14,47.05,43.19,73.87,CSE,Data Science:Intermediate;JavaScript:Beginner;Machine Learning:Advanced,0
+7.72,89.9,0,2,2,0,66.41,75.79,79.79,43.94,EEE,Java:Beginner;CSS:Intermediate;C++:Advanced,1
+7.05,88.78,1,4,6,4,42.9,56.91,76.47,77.64,CIVIL,Python:Intermediate;C++:Advanced;JavaScript:Intermediate,1
+8.33,60.99,1,0,5,3,71.95,96.36,82.4,87.05,ECE,Machine Learning:Beginner;HTML:Beginner;SQL:Beginner;CSS:Intermediate;C++:Intermediate,1
+6.94,96.31,3,0,5,5,41.71,97.79,76.18,56.41,CIVIL,Data Science:Intermediate;Machine Learning:Intermediate;C++:Intermediate;JavaScript:Advanced,0
+7.54,60.46,0,0,6,7,36.71,68.78,58.98,88.22,MECH,Data Science:Intermediate;Java:Advanced;Machine Learning:Intermediate,1
+8.51,56.48,2,1,0,3,51.73,79.11,91.61,68.28,CSE,C++:Intermediate;Python:Intermediate;HTML:Advanced,1
+8.62,97.48,4,0,5,3,90.44,90.95,82.52,73.84,IT,Java:Advanced;Python:Intermediate;JavaScript:Beginner;React:Intermediate,1
+7.19,94.27,1,1,6,2,50.09,98.15,87.28,77.65,ECE,Machine Learning:Intermediate;React:Beginner;Data Science:Advanced;JavaScript:Advanced;HTML:Advanced,1
+5.63,97.45,0,2,6,5,64.55,97.44,68.93,73.54,IT,Python:Advanced;React:Advanced;Java:Intermediate;Machine Learning:Advanced;Data Science:Advanced,1
+8.87,96.42,3,1,0,2,68.71,69.26,99.88,68.7,EEE,C++:Intermediate;CSS:Advanced;SQL:Intermediate;React:Intermediate,1
+5.85,92.21,0,1,5,8,63.07,77.99,37.26,62.79,EEE,React:Beginner;HTML:Beginner;Machine Learning:Beginner,1
+7.63,73.01,2,0,2,5,51.98,59.18,36.03,54.7,IT,Python:Advanced;HTML:Advanced;CSS:Intermediate;Machine Learning:Intermediate;C++:Intermediate,0
+6.34,71.69,0,0,6,8,86.96,82.25,36.32,74.03,CSE,React:Advanced;Data Science:Intermediate;JavaScript:Intermediate,1
+7.16,90.39,0,0,3,0,70.63,48.38,60.9,66.07,CIVIL,C++:Intermediate;CSS:Intermediate;JavaScript:Beginner,1
+6.72,62.22,0,1,5,5,44.32,95.31,96.26,93.65,MECH,Java:Beginner;HTML:Beginner;SQL:Intermediate,1
+7.31,70.46,0,0,0,0,51.29,79.64,43.87,80.22,EEE,CSS:Beginner;Java:Advanced;Machine Learning:Beginner;React:Advanced;SQL:Advanced,0
+8.09,65.17,0,1,5,4,41.91,99.41,71.82,78.63,ECE,HTML:Intermediate;Data Science:Intermediate;C++:Intermediate;React:Intermediate,1
+7.72,67.18,2,0,0,3,35.04,91.41,72.25,51.4,CIVIL,SQL:Intermediate;CSS:Advanced,0
+7.67,71.17,0,1,3,7,41.41,98.69,65.52,90.38,IT,SQL:Advanced;HTML:Intermediate;Python:Beginner;React:Intermediate,1
+7.31,68.06,1,0,4,1,68.18,58.52,45.47,85.37,CIVIL,Data Science:Beginner;CSS:Advanced;Python:Beginner,0
+7.93,58.72,0,3,0,7,85.94,67.73,59.15,87.25,CIVIL,C++:Intermediate;SQL:Intermediate,1
+7.33,92.08,0,0,5,0,53.82,70.82,53.55,66.45,CIVIL,HTML:Intermediate;Java:Intermediate;JavaScript:Beginner;Python:Beginner;SQL:Intermediate,1
+8.19,88.71,2,1,0,4,70.16,46.38,49.45,51.95,CSE,Java:Intermediate;React:Intermediate;CSS:Beginner;Machine Learning:Intermediate;C++:Advanced,0
+9.06,63.01,0,3,1,6,46.6,64.44,44.35,86.12,IT,CSS:Beginner;React:Beginner,1
+5.66,56.73,5,3,3,0,75.07,36.37,38.31,64.44,ECE,JavaScript:Intermediate;SQL:Intermediate;HTML:Intermediate,0
+7.37,56.38,3,0,1,7,92.14,64.43,97.29,75.31,EEE,JavaScript:Intermediate;React:Intermediate;Data Science:Intermediate;Machine Learning:Advanced;Java:Beginner,0
+5.31,59.66,3,0,5,1,67.8,42.08,51.1,66.27,EEE,SQL:Intermediate;Data Science:Advanced;React:Intermediate,0
+8.41,78.48,0,0,3,3,81.56,98.71,84.56,57.44,ECE,C++:Beginner;Python:Beginner;CSS:Intermediate,1
+7.61,86.03,0,4,6,5,36.94,89.75,86.52,65.94,MECH,JavaScript:Intermediate;C++:Intermediate;Data Science:Intermediate;React:Advanced;SQL:Intermediate,1
+9.17,59.15,1,4,3,5,87.91,69.39,39.31,69.28,EEE,SQL:Intermediate;JavaScript:Intermediate;Python:Intermediate,1
+9.69,86.83,1,1,4,1,35.94,54.5,66.9,54.82,ECE,HTML:Intermediate;React:Advanced;Machine Learning:Intermediate;JavaScript:Advanced;Java:Advanced,1
+8.28,70.83,1,0,5,2,53.09,83.38,54.69,63.64,CIVIL,HTML:Advanced;CSS:Advanced;C++:Intermediate;React:Beginner;SQL:Intermediate,1
+5.85,59.18,0,0,6,5,56.72,71.43,64.1,53.65,IT,Data Science:Advanced;HTML:Beginner;SQL:Advanced;C++:Intermediate,1
+6.34,79.37,0,2,2,8,52.67,92.93,90.55,89.95,IT,JavaScript:Intermediate;Python:Intermediate;Machine Learning:Advanced;SQL:Beginner;React:Beginner,1
+6.08,98.77,0,1,4,1,40.85,90.39,64.02,89.52,EEE,Data Science:Beginner;Machine Learning:Intermediate;Java:Beginner;SQL:Intermediate,1
+6.13,59.08,1,1,0,8,73.69,54.35,57.78,52.68,ECE,HTML:Beginner;Data Science:Advanced;C++:Intermediate;Machine Learning:Beginner,0
+5.8,67.9,0,2,5,4,48.26,67.88,58.31,67.16,MECH,Machine Learning:Intermediate;HTML:Advanced;JavaScript:Intermediate,1
+6.51,69.12,1,0,2,2,89.93,59.12,81.48,64.07,CSE,Machine Learning:Intermediate;SQL:Advanced;Data Science:Beginner,0
+7.96,68.77,2,1,2,2,72.43,81.56,89.22,76.16,EEE,React:Advanced;SQL:Intermediate,1
+5.59,89.37,4,0,3,2,83.7,51.67,96.3,83.46,MECH,SQL:Advanced;Data Science:Intermediate;JavaScript:Intermediate,0
+8.72,80.75,1,1,5,7,52.4,95.23,95.39,46.89,CSE,Python:Beginner;SQL:Intermediate;Data Science:Intermediate;Java:Intermediate;HTML:Intermediate,1
+5.59,99.54,3,2,3,0,73.2,34.76,53.09,74.31,MECH,CSS:Beginner;Python:Beginner,0
+5.35,86.33,1,1,5,6,46.09,56.23,80.76,51.88,IT,CSS:Beginner;JavaScript:Beginner,0
+8.54,79.93,1,2,6,2,36.32,68.51,76.91,41.39,CSE,React:Intermediate;C++:Intermediate,1
+6.64,66.05,0,0,5,4,45.99,50.46,51.71,49.71,EEE,C++:Advanced;SQL:Beginner;Java:Advanced,1
+8.17,67.5,0,1,3,7,80.18,47.54,42.82,93.99,CIVIL,C++:Intermediate;Python:Intermediate;SQL:Intermediate;HTML:Beginner,1
+9.37,98.96,1,0,5,0,78.89,94.09,43.98,57.3,CSE,React:Beginner;C++:Intermediate,1
+6.81,58.63,1,0,2,0,60.75,60.41,94.25,78.96,EEE,HTML:Beginner;CSS:Beginner,0
+7.32,73.72,0,2,1,4,71.69,81.65,41.27,42.34,IT,CSS:Intermediate;HTML:Beginner,1
+5.34,58.4,0,1,0,8,45.28,65.95,90.35,74.44,EEE,Java:Intermediate;HTML:Advanced;React:Advanced,0
+6.81,86.65,3,1,4,1,53.49,41.79,55.89,40.34,CSE,Python:Intermediate;Java:Beginner;CSS:Beginner,0
+5.61,94.01,2,1,3,4,54.56,95.54,84.18,57.85,IT,SQL:Advanced;HTML:Advanced;Python:Intermediate;C++:Intermediate;CSS:Advanced,1
+8.04,94.01,5,0,3,1,69.74,43.18,42.06,74.17,EEE,Java:Intermediate;C++:Beginner;Data Science:Intermediate;SQL:Intermediate,0
+5.95,92.38,0,2,4,4,38.96,45.93,73.07,74.88,EEE,Machine Learning:Intermediate;Python:Intermediate,1
+8.74,65.62,0,0,1,3,98.05,60.76,51.53,75.37,EEE,Java:Intermediate;SQL:Advanced;HTML:Advanced;JavaScript:Advanced,1
+8.22,76.7,0,0,3,5,77.33,64.31,74.44,98.12,CSE,C++:Advanced;Python:Intermediate;React:Beginner;Java:Advanced;CSS:Intermediate,1
+8.19,98.97,0,0,6,6,65.61,92.64,52.23,78.51,EEE,SQL:Beginner;HTML:Beginner;Data Science:Intermediate,1
+7.65,81.39,0,1,3,3,79.75,49.29,65.99,63.44,IT,JavaScript:Intermediate;CSS:Intermediate;C++:Advanced;Python:Intermediate;Java:Intermediate,1
+5.77,85.49,1,0,6,1,46.69,52.17,37.61,97.35,CIVIL,HTML:Beginner;Data Science:Intermediate;React:Intermediate;SQL:Advanced,0
+8.93,98.48,0,0,2,1,53.91,37.8,57.12,75.53,IT,Data Science:Beginner;SQL:Intermediate,1
+8.7,95.35,3,0,4,2,80.51,71.62,72.26,72.8,CSE,HTML:Advanced;CSS:Beginner,1
+8.03,59.69,0,0,2,1,84.71,91.75,72.97,44.83,ECE,SQL:Intermediate;React:Beginner;Data Science:Intermediate;JavaScript:Intermediate,1
+8.62,77.33,0,1,2,3,94.04,49.25,63.99,48.92,MECH,React:Advanced;CSS:Intermediate;HTML:Beginner,1
+5.84,68.73,0,2,6,5,82.91,35.61,73.06,50.13,IT,C++:Advanced;SQL:Intermediate;Python:Intermediate,1
+7.09,76.07,2,0,5,6,89.04,88.91,69.03,96.28,CSE,React:Intermediate;Python:Advanced;JavaScript:Intermediate,1
+6.29,98.04,2,1,5,1,97.36,85.51,68.45,48.48,EEE,React:Beginner;Machine Learning:Advanced;Java:Advanced,1
+7.0,93.57,3,0,2,8,89.91,96.64,59.29,80.93,MECH,React:Intermediate;Python:Intermediate;Machine Learning:Beginner;SQL:Beginner;Java:Intermediate,1
+5.91,89.29,0,3,3,7,55.19,39.4,55.54,44.04,CSE,Java:Beginner;C++:Advanced,1
+9.31,62.39,0,1,6,2,73.92,67.81,89.08,49.57,MECH,JavaScript:Advanced;HTML:Advanced;Java:Advanced,1
+7.34,81.99,0,1,1,2,69.1,92.25,94.37,90.31,IT,Machine Learning:Intermediate;SQL:Advanced;React:Beginner;C++:Advanced,1
+8.77,74.35,1,1,2,5,39.53,55.97,83.01,43.67,ECE,Machine Learning:Intermediate;SQL:Advanced;React:Beginner,1
+8.18,82.94,1,1,5,2,75.84,93.24,77.01,58.54,EEE,Data Science:Intermediate;SQL:Beginner,1
+9.18,85.48,0,1,4,4,98.72,69.6,62.34,84.78,EEE,HTML:Advanced;Python:Intermediate;SQL:Intermediate;React:Beginner,1
+6.09,68.72,3,1,6,0,95.8,92.47,90.14,43.45,CSE,SQL:Intermediate;React:Intermediate;Data Science:Intermediate;Python:Beginner;HTML:Intermediate,0
+9.15,89.91,0,0,5,5,71.79,90.48,60.78,49.52,EEE,Data Science:Advanced;Machine Learning:Intermediate;React:Intermediate;CSS:Advanced,1
+5.74,95.19,0,3,2,2,60.54,73.16,89.77,75.62,MECH,Data Science:Intermediate;React:Intermediate;CSS:Advanced;HTML:Intermediate;Python:Advanced,1
+5.77,95.13,3,0,6,8,73.27,63.06,54.25,48.62,IT,Machine Learning:Beginner;HTML:Advanced;Data Science:Advanced,0
+6.47,79.51,0,1,3,2,66.85,78.87,84.53,52.56,EEE,Java:Intermediate;C++:Intermediate;SQL:Beginner;Machine Learning:Advanced,1
+5.38,76.7,0,1,5,2,85.21,33.07,46.87,60.4,CIVIL,JavaScript:Beginner;CSS:Intermediate;Java:Advanced;Python:Intermediate;Machine Learning:Intermediate,1
+6.96,96.51,0,1,3,2,97.48,57.51,77.44,91.77,CSE,C++:Advanced;SQL:Beginner,1
+5.78,70.16,0,0,3,0,35.27,38.92,37.43,53.47,ECE,SQL:Intermediate;HTML:Intermediate,0
+7.0,58.54,3,2,1,5,85.64,35.35,76.16,71.84,IT,SQL:Beginner;C++:Beginner;JavaScript:Intermediate;Python:Advanced,0
+5.22,97.2,0,0,0,7,47.46,32.23,76.71,63.32,EEE,Python:Intermediate;SQL:Beginner;JavaScript:Advanced;React:Intermediate,0
+6.91,61.87,0,1,3,3,93.99,60.92,48.38,80.6,EEE,Data Science:Advanced;React:Beginner;SQL:Beginner,1
+9.58,84.78,3,2,5,1,86.28,90.32,98.57,86.67,IT,C++:Advanced;HTML:Advanced;CSS:Advanced;SQL:Beginner,1
+8.33,74.26,0,3,0,2,79.15,89.72,73.61,98.17,MECH,CSS:Intermediate;JavaScript:Beginner,1
+9.81,88.8,0,1,0,5,95.04,46.47,70.36,66.85,EEE,Machine Learning:Advanced;C++:Intermediate;Python:Intermediate,1
+7.94,99.48,0,1,0,4,50.37,59.99,50.83,44.76,IT,CSS:Intermediate;React:Intermediate;JavaScript:Beginner;Java:Intermediate,1
+7.06,69.59,0,2,0,0,48.17,82.65,73.09,69.58,MECH,Java:Intermediate;React:Beginner;Python:Beginner;C++:Intermediate;JavaScript:Advanced,1
+5.29,63.2,0,1,4,5,42.0,90.69,84.87,85.67,MECH,CSS:Beginner;Java:Intermediate;Python:Intermediate;SQL:Intermediate;React:Intermediate,1
+7.1,96.56,1,0,6,4,42.18,96.54,77.24,62.79,CSE,SQL:Beginner;HTML:Beginner;JavaScript:Intermediate;React:Intermediate,1
+8.97,81.31,0,0,0,7,79.75,40.85,85.1,54.92,EEE,Data Science:Advanced;SQL:Advanced,1
+5.24,91.35,0,2,1,3,40.64,53.13,68.36,78.09,CIVIL,Data Science:Intermediate;Python:Intermediate;JavaScript:Intermediate;C++:Advanced;React:Intermediate,0
+5.05,59.86,2,0,1,4,36.8,92.68,90.24,72.05,CSE,SQL:Beginner;Python:Beginner,0
+8.45,85.0,1,0,6,8,65.02,87.63,90.32,87.09,CSE,Data Science:Intermediate;CSS:Beginner;C++:Advanced;SQL:Beginner,1
+6.01,60.25,3,3,5,8,84.22,68.75,56.52,99.09,ECE,SQL:Advanced;JavaScript:Beginner;C++:Advanced;React:Intermediate,1
+8.87,82.5,2,0,3,7,35.17,69.97,63.61,49.73,ECE,Data Science:Intermediate;CSS:Beginner;Machine Learning:Intermediate,1
+9.2,94.44,0,0,1,4,82.14,69.13,94.32,96.82,ECE,JavaScript:Beginner;SQL:Advanced,1
+7.67,93.97,2,0,0,0,79.97,62.93,55.89,86.64,MECH,CSS:Advanced;Python:Intermediate,0
+5.6,72.52,1,0,5,7,37.77,93.49,97.58,68.07,CIVIL,React:Advanced;Python:Intermediate;C++:Intermediate;CSS:Intermediate;Data Science:Intermediate,1
+6.04,72.51,4,3,1,0,83.41,68.47,42.94,68.87,ECE,SQL:Advanced;Python:Beginner;JavaScript:Intermediate,0
+8.54,85.49,0,1,4,8,69.97,86.17,95.26,49.88,CIVIL,Java:Intermediate;Python:Beginner;Machine Learning:Intermediate,1
+9.58,66.82,0,0,2,3,62.65,83.24,45.39,99.69,MECH,Java:Intermediate;C++:Intermediate,1
+6.9,76.22,0,2,0,1,52.8,72.95,87.94,97.54,CIVIL,Machine Learning:Intermediate;C++:Beginner,1
+8.18,73.86,0,1,3,2,57.66,85.13,98.04,95.43,CSE,JavaScript:Intermediate;Java:Intermediate;Python:Intermediate,1
+7.69,89.71,2,0,2,3,61.7,79.65,43.17,70.88,ECE,SQL:Beginner;Python:Beginner;HTML:Intermediate;JavaScript:Intermediate,1
+9.98,63.76,2,0,1,8,44.61,46.81,52.88,60.26,CSE,React:Intermediate;Python:Advanced,0
+8.07,87.37,1,1,4,8,67.01,67.94,90.71,74.48,EEE,C++:Beginner;Data Science:Advanced;SQL:Beginner;React:Intermediate;HTML:Intermediate,1
+8.15,92.94,3,2,6,7,91.4,92.86,93.8,46.38,CIVIL,JavaScript:Beginner;HTML:Intermediate;Python:Beginner,1
+8.19,87.77,0,0,0,0,53.32,49.04,39.15,64.34,MECH,Java:Intermediate;JavaScript:Intermediate;SQL:Beginner;Data Science:Intermediate,0
+6.31,73.32,0,0,2,5,96.56,86.21,97.19,92.57,MECH,CSS:Beginner;HTML:Intermediate;Data Science:Advanced;Machine Learning:Intermediate,1
+5.13,78.62,2,2,3,3,72.55,81.95,97.2,59.64,EEE,React:Intermediate;Python:Intermediate;SQL:Intermediate;Java:Intermediate;CSS:Intermediate,1
+9.19,69.14,0,1,1,6,58.46,46.13,69.64,77.9,EEE,JavaScript:Intermediate;React:Intermediate;HTML:Beginner,1
+9.96,99.27,0,2,0,5,97.57,60.45,80.2,59.97,CSE,React:Intermediate;HTML:Beginner;JavaScript:Beginner,1
+5.81,94.52,2,0,5,3,62.8,92.2,42.99,53.86,ECE,React:Intermediate;C++:Intermediate;Python:Advanced;JavaScript:Intermediate,0
+7.0,83.27,0,0,1,3,68.56,97.88,88.99,85.79,MECH,SQL:Beginner;CSS:Beginner;Machine Learning:Intermediate;HTML:Intermediate;Data Science:Beginner,1
+8.4,93.6,2,0,3,8,99.59,72.87,74.79,66.1,CIVIL,CSS:Beginner;Machine Learning:Advanced,1
+7.63,66.48,0,0,3,4,91.62,43.02,61.62,50.0,CSE,Java:Beginner;Python:Intermediate;C++:Intermediate,1
+8.56,73.88,0,2,3,4,75.72,38.23,43.55,52.17,MECH,Python:Intermediate;CSS:Advanced;Machine Learning:Intermediate;HTML:Intermediate,1
+9.35,81.95,2,3,2,3,72.33,46.07,80.26,53.88,CIVIL,React:Intermediate;Machine Learning:Intermediate;Data Science:Beginner;SQL:Advanced,1
+7.45,76.6,0,0,1,6,73.41,76.51,47.8,84.76,CSE,JavaScript:Beginner;C++:Intermediate;Machine Learning:Intermediate;Java:Intermediate;React:Advanced,1
+5.21,94.23,0,1,0,8,73.17,39.11,66.04,64.37,MECH,HTML:Intermediate;React:Intermediate,0
+6.57,57.26,0,2,4,2,38.7,65.55,90.34,44.11,CSE,HTML:Intermediate;Java:Beginner;JavaScript:Beginner,1
+8.59,57.74,1,0,2,0,79.1,90.02,57.97,83.1,MECH,SQL:Intermediate;Java:Beginner;Machine Learning:Beginner,1
+9.05,94.42,0,3,5,5,37.95,89.32,46.53,40.56,MECH,C++:Beginner;CSS:Advanced;Python:Advanced,1
+8.82,91.96,1,2,1,7,68.73,60.96,53.08,99.82,EEE,Java:Intermediate;CSS:Beginner;SQL:Beginner;JavaScript:Intermediate;C++:Intermediate,1
+5.42,87.17,1,2,6,3,80.7,46.46,35.19,99.63,CSE,Machine Learning:Beginner;CSS:Intermediate;C++:Advanced;Python:Advanced,1
+9.65,64.12,3,1,3,8,95.27,62.5,48.32,99.77,IT,Java:Beginner;C++:Beginner,1
+9.32,83.87,0,1,2,5,96.72,64.08,50.36,98.21,EEE,Data Science:Advanced;Machine Learning:Advanced,1
+9.73,59.82,0,3,1,0,49.42,79.72,53.55,54.98,CSE,Data Science:Advanced;SQL:Intermediate,1
+7.99,81.37,2,0,3,4,99.95,45.25,76.09,48.73,ECE,Java:Advanced;CSS:Intermediate;React:Beginner;Python:Intermediate,1
+8.08,66.17,3,0,2,5,47.34,41.15,99.74,68.01,ECE,Python:Advanced;Java:Beginner;HTML:Intermediate;React:Beginner;JavaScript:Intermediate,0
+8.09,62.12,1,1,2,3,98.45,76.47,44.53,66.69,CSE,HTML:Intermediate;CSS:Advanced;Data Science:Intermediate,1
+5.27,75.93,0,1,3,1,73.89,54.83,68.32,68.63,EEE,SQL:Beginner;Data Science:Advanced,0
+7.71,83.84,2,1,0,4,60.02,54.62,69.95,89.42,CIVIL,Machine Learning:Intermediate;Data Science:Beginner;C++:Beginner;React:Intermediate;CSS:Beginner,0
+5.89,89.78,1,2,6,7,79.27,91.74,76.79,99.19,ECE,C++:Intermediate;CSS:Intermediate;Java:Beginner;JavaScript:Beginner,1
+6.12,94.56,1,0,0,4,99.28,93.87,89.14,82.57,MECH,HTML:Intermediate;Data Science:Intermediate;JavaScript:Beginner;Java:Beginner;CSS:Beginner,1
+5.64,68.32,0,3,4,0,40.91,80.24,97.24,79.72,IT,Python:Advanced;SQL:Intermediate;Data Science:Advanced;JavaScript:Beginner,1
+7.12,96.74,1,3,5,5,88.06,69.24,78.54,58.96,EEE,Java:Beginner;HTML:Intermediate,1
+8.87,83.06,0,0,4,2,77.88,95.6,63.07,96.59,CSE,HTML:Advanced;C++:Intermediate;React:Advanced,1
+8.17,64.41,4,1,2,6,50.16,42.95,94.88,68.45,IT,SQL:Intermediate;C++:Advanced;Python:Intermediate,0
+9.73,72.49,0,4,4,2,94.85,63.61,73.79,87.7,CIVIL,Java:Advanced;Data Science:Intermediate;Python:Advanced,1
+6.46,90.65,0,0,1,5,55.41,54.13,64.35,99.32,IT,Python:Beginner;HTML:Beginner,0
+9.52,58.98,1,0,3,0,67.13,68.63,51.13,69.25,CIVIL,SQL:Beginner;HTML:Advanced;Data Science:Intermediate,1
+5.78,65.43,2,0,3,1,67.24,62.16,88.01,50.57,MECH,C++:Advanced;React:Advanced;Python:Intermediate;Data Science:Beginner;Java:Beginner,0
+6.3,64.03,0,1,0,5,64.36,36.58,51.75,92.76,CSE,SQL:Beginner;Java:Advanced,0
+9.02,57.28,1,1,1,6,40.44,58.05,35.48,65.12,ECE,CSS:Intermediate;Machine Learning:Intermediate;HTML:Intermediate;C++:Intermediate,1
+9.85,58.37,2,0,4,6,77.24,89.62,90.4,91.56,EEE,CSS:Beginner;Machine Learning:Intermediate;Python:Advanced;React:Advanced,1
+6.44,71.54,0,0,5,2,55.47,97.1,72.61,98.24,EEE,HTML:Beginner;Machine Learning:Advanced;SQL:Beginner;Data Science:Intermediate,1
+5.58,69.83,0,0,4,6,89.26,62.41,80.77,73.13,IT,Python:Intermediate;JavaScript:Beginner;Java:Beginner;Machine Learning:Beginner;C++:Advanced,1
+8.79,81.0,0,2,3,3,63.79,96.1,47.96,66.63,ECE,Machine Learning:Intermediate;JavaScript:Beginner;HTML:Intermediate;C++:Intermediate,1
+6.09,71.17,2,1,1,3,53.84,68.02,95.72,98.37,CIVIL,C++:Beginner;React:Intermediate;HTML:Advanced,0
+8.86,80.55,0,2,0,4,68.81,31.56,80.73,91.25,CIVIL,Python:Intermediate;CSS:Beginner,1
+9.35,76.0,2,0,1,3,71.08,47.61,99.04,97.44,ECE,Machine Learning:Beginner;C++:Advanced;CSS:Intermediate;JavaScript:Beginner;SQL:Advanced,1
+6.96,84.69,2,0,4,3,55.93,80.25,35.51,69.85,IT,C++:Beginner;CSS:Beginner;Machine Learning:Beginner;Java:Advanced;SQL:Intermediate,0
+9.35,85.07,0,1,4,8,70.51,75.24,36.59,45.28,ECE,Machine Learning:Beginner;JavaScript:Advanced;Java:Beginner;Python:Beginner,1
+8.21,95.03,2,1,3,4,51.49,60.47,73.24,66.79,CIVIL,HTML:Beginner;JavaScript:Advanced;Data Science:Beginner;CSS:Beginner;SQL:Intermediate,1
+8.9,64.64,0,0,1,4,77.35,65.93,91.2,98.03,CIVIL,CSS:Intermediate;C++:Intermediate,1
+9.82,87.72,1,0,1,3,84.42,91.67,75.69,69.34,ECE,CSS:Beginner;Java:Intermediate,1
+9.84,66.33,2,0,0,7,57.37,81.3,75.29,89.06,CSE,Python:Intermediate;Java:Intermediate;SQL:Advanced;React:Intermediate;C++:Intermediate,1
+9.64,92.53,3,1,6,4,82.49,84.77,74.64,61.1,CSE,SQL:Beginner;Java:Advanced;HTML:Intermediate;JavaScript:Intermediate;Data Science:Beginner,1
+7.56,86.48,0,1,2,1,97.34,64.51,78.4,63.47,CIVIL,CSS:Advanced;HTML:Beginner,1
+7.5,75.42,3,1,1,6,68.96,85.69,43.86,87.8,IT,Java:Beginner;HTML:Intermediate;React:Advanced;Python:Beginner;JavaScript:Intermediate,0
+6.27,94.3,4,1,0,2,38.91,45.68,68.61,56.15,EEE,Python:Beginner;Machine Learning:Beginner,0
+8.59,56.86,2,0,0,6,56.81,33.29,51.48,51.82,CIVIL,SQL:Advanced;JavaScript:Intermediate,0
+5.56,84.07,1,0,6,2,96.34,69.66,98.92,71.02,MECH,Data Science:Advanced;Machine Learning:Beginner,1
+6.02,83.33,0,1,5,3,81.44,69.45,77.11,70.69,IT,C++:Advanced;SQL:Beginner;HTML:Beginner;JavaScript:Intermediate;Python:Intermediate,1
+5.55,79.95,0,1,4,1,93.45,76.71,43.56,80.09,CIVIL,Data Science:Beginner;JavaScript:Intermediate;Machine Learning:Intermediate,1
+7.28,71.3,1,0,0,8,69.16,54.1,41.06,96.14,ECE,HTML:Intermediate;Python:Intermediate;JavaScript:Intermediate;SQL:Intermediate,1
+6.2,98.52,0,0,1,2,42.52,56.47,87.42,91.44,CIVIL,React:Beginner;SQL:Beginner;Machine Learning:Beginner;HTML:Intermediate;C++:Advanced,0
+8.87,93.56,3,1,0,4,79.58,80.98,36.35,98.72,IT,SQL:Beginner;CSS:Intermediate;Python:Advanced,1
+8.72,81.27,2,1,4,7,47.57,62.17,47.34,83.91,ECE,React:Intermediate;CSS:Advanced;Data Science:Intermediate;Machine Learning:Beginner,1
+8.34,70.41,1,0,2,6,76.75,97.53,43.2,53.63,EEE,Java:Intermediate;Machine Learning:Beginner,1
+7.66,72.55,1,0,5,5,54.48,85.6,79.17,95.11,EEE,Java:Beginner;Python:Beginner;HTML:Intermediate;CSS:Intermediate,1
+7.62,65.13,0,2,4,5,96.91,59.59,59.64,62.4,CSE,JavaScript:Beginner;Machine Learning:Beginner;Java:Beginner;C++:Intermediate,1
+8.99,95.28,1,1,1,4,45.5,49.61,58.62,45.35,IT,React:Intermediate;CSS:Beginner;Data Science:Beginner;HTML:Intermediate;JavaScript:Beginner,1
+7.54,96.03,0,1,5,1,75.59,58.3,76.48,57.53,CIVIL,Machine Learning:Intermediate;SQL:Beginner;Data Science:Intermediate;Java:Beginner,1
+9.87,71.81,1,1,4,4,96.56,95.47,49.11,84.43,EEE,HTML:Intermediate;CSS:Beginner;Java:Advanced,1
+5.24,96.94,0,1,6,8,82.11,90.73,89.96,64.71,MECH,Data Science:Advanced;CSS:Advanced;SQL:Intermediate;C++:Beginner;Python:Advanced,1
+7.95,68.84,1,0,3,4,82.57,55.58,41.31,88.7,CIVIL,Data Science:Beginner;Python:Advanced;SQL:Beginner;CSS:Intermediate;JavaScript:Intermediate,1
+7.41,83.56,2,1,0,1,78.02,34.31,35.1,53.83,ECE,CSS:Intermediate;Machine Learning:Advanced;C++:Intermediate,0
+7.4,71.7,3,1,4,1,53.53,83.42,52.73,94.32,IT,Java:Intermediate;JavaScript:Intermediate;CSS:Intermediate;C++:Intermediate;Python:Beginner,0
+5.16,62.91,0,1,4,0,48.48,89.95,46.65,41.78,IT,Data Science:Beginner;Machine Learning:Intermediate;Python:Intermediate;CSS:Beginner;C++:Intermediate,0
+8.05,68.43,0,0,2,5,91.0,48.28,81.22,93.54,ECE,C++:Advanced;Machine Learning:Advanced;JavaScript:Advanced,1
+8.31,98.19,1,0,5,0,55.5,92.22,84.08,98.59,CSE,Data Science:Beginner;HTML:Intermediate;JavaScript:Intermediate,1
+5.21,58.53,1,0,6,2,89.22,48.05,94.2,94.85,CSE,HTML:Intermediate;Machine Learning:Intermediate,0
+6.54,71.73,0,2,3,2,73.69,90.69,76.66,73.98,EEE,Data Science:Intermediate;Java:Beginner;C++:Beginner;Machine Learning:Intermediate,1
+7.53,61.68,1,2,1,2,91.97,31.09,42.85,55.8,MECH,Java:Beginner;C++:Beginner;Python:Beginner;HTML:Intermediate;JavaScript:Intermediate,1
+5.6,58.72,1,1,4,3,36.5,70.11,72.22,56.42,CIVIL,Data Science:Intermediate;C++:Advanced,0
+6.17,79.89,1,1,6,4,90.48,67.22,37.92,71.6,IT,React:Advanced;Java:Intermediate;SQL:Beginner;Data Science:Intermediate,1
+7.32,85.09,0,0,1,2,75.9,61.52,77.1,99.45,MECH,Machine Learning:Beginner;Data Science:Advanced;SQL:Intermediate;React:Intermediate;Java:Intermediate,1
+6.81,76.31,4,2,6,5,91.34,59.19,84.87,58.03,MECH,JavaScript:Intermediate;CSS:Beginner;C++:Beginner,1
+8.51,97.3,4,0,5,7,94.14,93.72,89.57,59.36,MECH,SQL:Intermediate;Python:Intermediate;HTML:Beginner,1
+5.26,94.75,0,0,2,1,52.14,78.15,86.46,62.77,CIVIL,C++:Beginner;CSS:Advanced;Java:Advanced,1
+7.75,83.3,1,1,2,0,76.84,52.68,84.17,42.36,MECH,C++:Beginner;CSS:Beginner,1
+9.11,58.39,2,0,3,8,90.9,30.39,76.21,97.23,ECE,Java:Beginner;SQL:Intermediate;Python:Beginner,1
+7.82,96.75,0,0,3,6,59.24,72.93,46.56,79.86,MECH,C++:Beginner;CSS:Intermediate;HTML:Beginner;SQL:Advanced;Java:Intermediate,1
+5.89,99.2,0,3,3,0,78.79,53.8,53.83,78.34,ECE,JavaScript:Advanced;Data Science:Advanced;Machine Learning:Beginner,1
+7.47,80.15,0,0,4,5,63.87,84.99,35.89,88.11,EEE,HTML:Intermediate;React:Intermediate;C++:Beginner,1
+8.11,84.28,0,1,2,8,65.21,74.07,94.45,41.93,CIVIL,Java:Intermediate;CSS:Advanced;Machine Learning:Intermediate,1
+8.15,63.91,0,1,2,3,37.55,58.47,37.26,44.61,CSE,SQL:Advanced;HTML:Advanced;Java:Intermediate;JavaScript:Intermediate;React:Beginner,1
+7.69,69.86,1,0,0,8,73.21,83.35,73.94,60.8,CSE,React:Intermediate;HTML:Beginner,1
+7.18,83.85,4,0,0,8,64.09,46.53,72.64,72.28,ECE,CSS:Beginner;Data Science:Beginner;Python:Intermediate,0
+5.63,73.23,1,4,1,0,87.77,59.73,90.43,60.87,CIVIL,Data Science:Intermediate;HTML:Beginner,1
+8.04,61.37,1,1,1,6,66.88,96.98,76.05,60.31,ECE,Data Science:Intermediate;Java:Intermediate;C++:Intermediate;React:Beginner;CSS:Intermediate,1
+7.8,67.28,2,1,3,5,92.1,74.92,51.82,92.65,IT,SQL:Intermediate;React:Intermediate;Python:Intermediate;HTML:Beginner;JavaScript:Intermediate,1
+6.33,57.68,0,0,1,8,48.46,57.24,47.71,70.49,EEE,CSS:Intermediate;Data Science:Advanced;Python:Intermediate;SQL:Intermediate,0
+7.14,85.38,3,1,3,7,69.98,78.76,68.11,94.1,MECH,CSS:Intermediate;React:Intermediate;Data Science:Intermediate;HTML:Advanced;C++:Advanced,1
+7.4,70.0,1,0,1,0,35.83,65.05,82.15,69.49,EEE,SQL:Advanced;HTML:Beginner;CSS:Advanced;C++:Advanced;Data Science:Beginner,0
+5.46,57.48,1,1,1,4,47.72,35.85,90.21,80.62,CSE,JavaScript:Intermediate;CSS:Beginner;SQL:Intermediate;React:Intermediate;HTML:Intermediate,0
+8.09,58.79,3,1,1,3,82.94,61.02,43.22,71.6,IT,Python:Advanced;SQL:Intermediate,0
+5.39,59.33,3,1,4,1,41.6,92.79,68.49,51.8,EEE,Python:Beginner;JavaScript:Advanced,0
+5.55,63.44,0,0,5,8,97.75,97.2,41.66,84.19,IT,CSS:Beginner;HTML:Advanced;Data Science:Intermediate,1
+6.87,80.82,0,4,1,6,65.2,30.75,53.02,47.07,ECE,Java:Intermediate;JavaScript:Advanced;HTML:Intermediate,1
+9.68,68.63,0,1,0,8,78.62,59.97,79.23,46.87,ECE,HTML:Intermediate;Data Science:Beginner;Java:Beginner;CSS:Intermediate,1
+5.23,60.52,1,1,0,6,43.38,90.25,95.73,58.39,EEE,C++:Advanced;JavaScript:Beginner;HTML:Intermediate;CSS:Advanced;SQL:Advanced,0
+8.82,60.03,0,1,3,0,47.76,32.3,77.89,75.59,EEE,React:Beginner;Python:Intermediate,1
+8.97,85.4,0,0,1,1,55.94,67.65,87.68,71.52,IT,React:Advanced;Python:Beginner,1
+9.28,97.92,2,0,1,2,74.86,63.58,84.29,70.36,IT,SQL:Intermediate;CSS:Intermediate,1
+5.11,99.16,0,1,6,2,95.54,72.2,90.35,61.75,CSE,SQL:Intermediate;Data Science:Intermediate;Java:Beginner;CSS:Beginner,1
+9.16,80.71,0,1,6,2,49.66,35.75,41.16,64.23,MECH,JavaScript:Beginner;Data Science:Intermediate,1
+9.09,78.26,0,1,3,3,94.25,35.87,53.59,49.13,ECE,Python:Advanced;Data Science:Beginner;Machine Learning:Advanced,1
+8.3,56.14,1,1,0,3,70.26,76.04,42.83,43.75,CSE,React:Intermediate;SQL:Intermediate,1
+9.18,55.73,3,0,3,0,99.47,59.95,99.72,94.56,CIVIL,C++:Intermediate;React:Beginner;Java:Intermediate;SQL:Intermediate,0
+5.15,91.7,0,1,5,6,47.7,72.45,69.35,85.95,ECE,React:Intermediate;C++:Beginner;CSS:Intermediate;Java:Intermediate,1
+7.61,86.76,1,3,1,8,98.65,53.12,87.5,90.37,CSE,CSS:Beginner;SQL:Advanced;C++:Intermediate;Java:Intermediate;React:Advanced,1
+7.49,80.62,1,0,5,8,93.38,81.9,58.63,41.97,CIVIL,SQL:Beginner;Machine Learning:Intermediate,1
+6.13,60.04,0,1,4,8,42.22,73.09,98.44,49.28,IT,React:Intermediate;CSS:Intermediate;Machine Learning:Advanced;HTML:Beginner;Python:Advanced,1
+5.12,98.68,0,3,6,5,72.98,54.55,59.85,47.88,CSE,SQL:Intermediate;Machine Learning:Advanced,1
+9.77,63.3,0,0,4,0,88.69,37.16,68.58,77.74,MECH,SQL:Intermediate;Java:Intermediate,1
+6.01,68.52,2,1,2,0,68.16,30.85,69.1,55.95,MECH,React:Intermediate;C++:Beginner,0
+5.67,85.81,0,0,5,4,40.41,57.92,36.17,74.61,CSE,Machine Learning:Advanced;Python:Beginner;CSS:Beginner;Data Science:Intermediate,1
+9.81,59.99,0,2,2,3,58.28,81.74,42.22,94.1,IT,Data Science:Beginner;JavaScript:Beginner;SQL:Intermediate;C++:Advanced;Java:Beginner,1
+9.04,67.24,0,1,4,1,67.25,65.75,38.6,91.56,IT,C++:Intermediate;React:Beginner;Java:Intermediate;Machine Learning:Beginner,1
+8.13,57.96,1,1,2,6,61.11,73.21,61.72,91.87,CIVIL,CSS:Intermediate;HTML:Intermediate,1
+6.09,66.05,0,1,4,8,57.29,67.46,54.37,96.53,EEE,HTML:Beginner;CSS:Advanced;Python:Beginner;React:Advanced;JavaScript:Intermediate,1
+6.27,90.91,0,3,6,1,73.4,81.52,97.99,58.15,MECH,CSS:Intermediate;Python:Intermediate;HTML:Advanced;JavaScript:Advanced;SQL:Advanced,1
+7.28,81.74,0,1,6,4,50.29,73.64,70.22,87.0,CSE,C++:Advanced;Python:Advanced;SQL:Intermediate,1
+7.51,86.31,0,0,2,0,90.71,39.85,97.96,49.48,MECH,Machine Learning:Intermediate;Python:Advanced;JavaScript:Intermediate;CSS:Intermediate,1
+8.28,67.55,2,0,6,0,42.7,58.1,55.21,84.64,MECH,Python:Intermediate;JavaScript:Intermediate;CSS:Intermediate;Java:Beginner;Data Science:Beginner,0
+8.82,89.42,1,1,5,7,36.93,57.35,47.14,43.67,CSE,C++:Intermediate;Python:Advanced;CSS:Intermediate;Java:Intermediate;React:Intermediate,1
+8.35,88.08,0,0,5,1,59.87,32.71,65.59,51.97,EEE,React:Intermediate;JavaScript:Intermediate;Machine Learning:Beginner;Python:Beginner,1
+6.4,55.46,0,1,4,0,81.61,76.75,74.08,99.27,CSE,CSS:Intermediate;SQL:Intermediate;JavaScript:Intermediate,1
+5.48,65.95,0,2,0,0,86.9,45.13,65.0,51.37,CSE,C++:Intermediate;Data Science:Intermediate;Java:Beginner;Python:Intermediate;CSS:Advanced,1
+5.68,67.66,2,1,1,1,49.16,65.24,89.05,87.71,MECH,HTML:Advanced;CSS:Beginner,0
+5.56,78.43,4,2,0,1,55.45,60.29,93.06,87.24,MECH,Java:Beginner;SQL:Intermediate;CSS:Advanced;JavaScript:Intermediate,0
+8.54,89.14,0,3,3,4,56.13,90.76,41.77,99.84,CSE,Machine Learning:Advanced;CSS:Advanced;Python:Intermediate;HTML:Advanced,1
+6.11,79.39,0,2,2,2,47.38,58.52,95.63,84.45,CSE,JavaScript:Beginner;React:Beginner;CSS:Beginner,1
+6.3,69.94,0,0,3,7,90.27,44.37,87.19,53.23,CIVIL,Machine Learning:Intermediate;C++:Beginner,1
+9.07,87.44,2,1,6,6,47.74,86.0,83.01,68.38,CSE,HTML:Advanced;CSS:Advanced;C++:Intermediate,1
+6.28,63.81,3,1,5,4,64.36,61.19,97.9,80.31,EEE,C++:Intermediate;Java:Beginner;Python:Advanced,0
+5.51,84.29,1,0,4,5,73.21,37.56,35.8,82.8,MECH,Data Science:Intermediate;C++:Intermediate;React:Intermediate,0
+7.21,64.25,0,0,6,6,45.94,58.28,49.17,61.2,ECE,React:Intermediate;JavaScript:Intermediate;HTML:Beginner,1
+6.54,64.23,5,1,0,2,81.26,36.51,94.88,93.84,MECH,SQL:Intermediate;CSS:Intermediate;Java:Intermediate;React:Intermediate;Python:Beginner,0
+7.57,99.19,3,0,2,2,38.38,46.72,54.93,66.94,EEE,Python:Beginner;React:Intermediate;CSS:Beginner;SQL:Advanced,0
+6.69,61.33,0,1,0,1,51.34,99.41,39.24,77.01,IT,Machine Learning:Beginner;React:Advanced;Data Science:Intermediate,0
+9.29,72.91,0,2,4,4,86.71,72.25,67.53,49.6,CIVIL,Machine Learning:Advanced;Data Science:Advanced;C++:Beginner,1
+8.96,82.0,0,2,1,7,82.2,57.45,96.31,80.22,EEE,React:Intermediate;Python:Beginner,1
+6.29,55.25,2,0,4,1,68.78,56.25,48.35,88.26,EEE,Java:Intermediate;C++:Beginner;HTML:Intermediate;SQL:Intermediate,0
+7.67,90.89,0,2,3,1,89.39,60.22,86.95,90.97,ECE,C++:Advanced;JavaScript:Intermediate;SQL:Intermediate,1
+7.74,98.51,0,0,0,1,44.16,33.43,49.11,65.33,MECH,HTML:Advanced;React:Advanced,0
+6.67,87.79,0,1,6,3,39.83,88.75,76.68,62.68,EEE,Java:Intermediate;C++:Advanced;CSS:Advanced;React:Advanced,1
+8.37,55.9,2,0,1,1,35.68,97.1,69.62,91.17,EEE,C++:Beginner;SQL:Intermediate;Machine Learning:Intermediate;Python:Intermediate,0
+8.9,85.6,0,0,3,6,60.85,33.22,41.51,97.38,MECH,Java:Intermediate;Machine Learning:Intermediate;Python:Intermediate;JavaScript:Advanced;React:Intermediate,1
+7.86,63.97,0,2,1,0,56.67,64.18,69.73,53.33,CSE,HTML:Intermediate;Java:Beginner;Machine Learning:Intermediate,1
+8.8,94.81,0,2,2,2,57.5,97.75,67.2,95.95,CSE,SQL:Intermediate;React:Advanced;C++:Advanced;HTML:Advanced,1
+5.19,99.85,2,3,1,0,54.56,91.21,85.81,41.95,IT,SQL:Intermediate;React:Intermediate,0
+8.17,93.07,0,0,1,4,79.65,46.53,50.5,49.0,CSE,React:Intermediate;CSS:Intermediate;Machine Learning:Intermediate,1
+8.98,88.19,0,1,3,6,37.96,54.48,87.39,52.74,CIVIL,React:Intermediate;Data Science:Intermediate;Java:Intermediate,1
+6.2,81.09,3,0,4,5,52.85,55.76,39.19,72.35,IT,Machine Learning:Beginner;Data Science:Beginner;JavaScript:Advanced;Python:Intermediate,0
+9.12,77.71,0,1,2,3,61.93,47.59,68.5,80.29,MECH,Python:Intermediate;Machine Learning:Beginner;C++:Advanced,1
+9.89,64.6,0,0,6,6,52.54,74.5,40.43,44.16,EEE,React:Advanced;CSS:Intermediate,1
+6.14,64.77,1,1,5,8,40.25,37.63,36.01,42.56,CIVIL,C++:Advanced;React:Intermediate;Data Science:Intermediate;JavaScript:Advanced;CSS:Advanced,0
+9.58,58.55,1,1,4,6,71.94,44.63,50.73,77.12,CIVIL,SQL:Intermediate;Machine Learning:Advanced,1
+8.51,91.62,1,1,5,8,69.03,36.46,95.62,70.7,CSE,Java:Intermediate;SQL:Beginner;C++:Intermediate,1
+8.43,87.07,1,0,3,8,46.27,80.72,91.95,78.32,IT,C++:Intermediate;CSS:Intermediate;SQL:Advanced;Java:Intermediate,1
+5.29,61.78,0,1,3,1,91.64,96.06,42.88,75.06,ECE,C++:Intermediate;JavaScript:Beginner;SQL:Beginner;React:Beginner,1
+6.19,81.11,1,1,6,6,81.69,32.79,77.06,66.41,EEE,HTML:Intermediate;Data Science:Beginner,1
+9.92,59.43,0,0,6,1,51.16,43.31,64.16,65.31,ECE,JavaScript:Beginner;Java:Intermediate;CSS:Intermediate;HTML:Beginner;React:Beginner,1
+9.09,62.16,0,2,0,7,80.41,38.6,90.98,48.32,CIVIL,React:Advanced;Data Science:Beginner,1
+9.12,95.22,4,1,5,2,89.18,84.98,98.68,56.72,ECE,React:Beginner;CSS:Intermediate;Python:Intermediate;Data Science:Intermediate;Java:Intermediate,1
+9.67,90.13,1,1,2,5,47.94,32.94,64.44,40.22,ECE,SQL:Intermediate;Data Science:Advanced,1
+8.74,62.9,0,1,2,8,67.62,49.08,45.7,94.84,EEE,SQL:Beginner;Java:Advanced;CSS:Advanced;Python:Intermediate,1
+9.85,59.07,1,0,5,3,40.59,53.4,60.08,62.53,MECH,Data Science:Beginner;C++:Beginner;SQL:Intermediate;Machine Learning:Intermediate;Python:Beginner,1
+8.23,91.66,2,1,0,7,39.32,88.46,45.6,52.6,CIVIL,Python:Intermediate;C++:Beginner,1
+5.76,73.76,1,3,5,1,36.49,98.02,94.65,84.89,CIVIL,Data Science:Intermediate;Java:Intermediate;Python:Beginner;CSS:Beginner;SQL:Advanced,1
+9.45,95.19,0,3,4,1,41.08,47.52,73.89,84.79,IT,CSS:Intermediate;React:Intermediate,1
+7.14,66.86,0,0,6,5,52.52,96.25,69.33,52.62,ECE,SQL:Intermediate;C++:Beginner,1
+9.9,78.28,0,0,4,7,88.73,56.98,58.16,84.15,MECH,JavaScript:Beginner;C++:Advanced;HTML:Intermediate,1
+7.71,55.78,0,1,4,4,87.62,38.72,51.0,64.38,IT,Data Science:Beginner;C++:Beginner;Machine Learning:Intermediate;Java:Intermediate;CSS:Intermediate,1
+6.15,87.46,0,2,6,2,47.45,81.7,52.97,75.38,MECH,Java:Intermediate;JavaScript:Intermediate;React:Intermediate;Data Science:Beginner,1
+5.26,58.73,0,0,4,1,42.21,94.9,42.97,48.51,ECE,Java:Advanced;Data Science:Advanced;CSS:Beginner,0
+5.69,87.36,0,0,1,4,73.79,38.92,87.51,64.0,MECH,CSS:Intermediate;Python:Advanced;Java:Intermediate;JavaScript:Advanced;C++:Beginner,0
+5.68,99.11,0,0,3,3,62.44,95.35,68.09,46.15,CIVIL,React:Advanced;CSS:Beginner;Java:Intermediate;Data Science:Beginner,0
+6.15,87.28,0,0,5,1,82.08,98.99,60.84,84.84,IT,SQL:Beginner;C++:Advanced;Python:Intermediate;Machine Learning:Beginner,1
+6.56,70.45,3,0,3,4,85.17,78.07,79.5,89.46,EEE,JavaScript:Beginner;Java:Intermediate;Machine Learning:Intermediate;Python:Beginner,0
+6.7,55.59,1,1,5,0,67.07,41.96,84.03,41.38,CIVIL,C++:Advanced;Data Science:Intermediate;Machine Learning:Beginner;Java:Beginner,1
+5.19,84.39,0,4,3,7,42.72,74.98,55.85,64.48,CIVIL,CSS:Intermediate;C++:Advanced,1
+6.05,60.78,0,0,2,7,51.63,80.7,54.94,47.78,CSE,SQL:Beginner;Java:Intermediate;Python:Beginner;HTML:Intermediate;CSS:Beginner,0
+8.27,98.39,0,1,5,6,41.42,80.32,47.68,59.79,IT,SQL:Beginner;C++:Intermediate;JavaScript:Advanced;Data Science:Advanced,1
+5.02,80.3,0,1,2,8,99.53,37.7,37.5,47.96,CIVIL,React:Beginner;SQL:Beginner,1
+8.91,96.4,0,2,1,5,36.9,40.19,83.5,56.64,MECH,SQL:Intermediate;C++:Beginner;JavaScript:Intermediate;React:Beginner,1
+6.01,84.4,0,4,4,4,72.59,99.98,40.95,98.0,CIVIL,HTML:Advanced;SQL:Beginner;Java:Beginner;CSS:Intermediate,1
+6.52,71.85,0,0,1,2,85.95,59.52,95.89,58.31,ECE,C++:Beginner;CSS:Intermediate;Python:Advanced,1
+7.45,57.98,0,2,3,5,42.74,32.1,62.78,42.45,CSE,Machine Learning:Intermediate;JavaScript:Intermediate;React:Beginner;Data Science:Beginner;CSS:Beginner,1
+5.9,65.99,1,0,5,0,95.8,68.72,45.52,65.08,MECH,Data Science:Intermediate;Python:Intermediate;Machine Learning:Intermediate,1
+9.6,81.6,2,3,1,6,52.8,91.86,38.32,62.96,IT,HTML:Intermediate;CSS:Advanced;Data Science:Advanced;Machine Learning:Intermediate;C++:Intermediate,1
+6.73,77.51,3,2,2,1,43.42,93.71,80.41,40.29,CSE,React:Intermediate;Machine Learning:Intermediate;JavaScript:Beginner;HTML:Intermediate;SQL:Intermediate,0
+7.76,60.15,2,3,2,7,61.84,87.43,80.75,84.47,CSE,JavaScript:Advanced;Machine Learning:Beginner;React:Advanced;C++:Advanced,1
+6.58,68.86,1,2,0,6,38.59,58.62,76.98,48.4,EEE,Python:Intermediate;JavaScript:Beginner;Machine Learning:Intermediate;SQL:Intermediate,1
+8.69,98.36,0,0,3,8,77.69,43.01,79.64,60.78,CIVIL,SQL:Beginner;JavaScript:Advanced;Data Science:Beginner;C++:Advanced,1
+8.38,70.3,1,0,6,0,78.46,62.89,55.0,87.53,ECE,JavaScript:Intermediate;Java:Intermediate,1
+6.28,88.64,0,0,3,6,60.76,64.05,38.12,71.7,MECH,Python:Advanced;HTML:Intermediate;Data Science:Intermediate;React:Beginner,1
+6.76,64.59,3,0,2,0,91.42,91.43,75.31,68.75,MECH,Data Science:Beginner;Python:Advanced,0
+8.67,59.1,1,1,0,8,80.97,80.88,98.39,76.72,IT,Machine Learning:Advanced;HTML:Intermediate;Python:Intermediate;Data Science:Beginner;Java:Advanced,1
+5.55,83.24,2,1,0,6,59.81,99.73,69.39,98.26,CSE,Machine Learning:Advanced;React:Intermediate,0
+5.83,70.82,0,4,0,4,71.17,64.35,50.26,95.27,IT,Data Science:Beginner;Java:Beginner;Machine Learning:Beginner;JavaScript:Advanced;CSS:Advanced,1
+8.79,72.6,1,0,5,3,80.57,68.36,41.33,59.41,MECH,React:Intermediate;CSS:Intermediate,1
+5.52,56.11,1,1,0,4,61.3,98.79,88.32,90.5,MECH,Data Science:Beginner;CSS:Beginner;Java:Beginner;JavaScript:Intermediate,0
+5.37,99.76,2,0,3,6,59.44,56.15,55.45,51.92,CSE,HTML:Advanced;C++:Advanced;CSS:Intermediate,0
+6.71,79.95,0,0,1,4,46.88,82.23,95.47,51.41,CIVIL,JavaScript:Beginner;Data Science:Beginner;React:Beginner,1
+6.71,65.68,3,2,5,8,43.87,33.23,50.19,62.46,CIVIL,Python:Intermediate;Java:Intermediate,0
+6.11,89.38,0,2,5,8,87.98,85.28,85.63,56.7,CSE,HTML:Beginner;React:Advanced;C++:Intermediate,1
+5.69,93.19,0,1,6,0,50.95,86.64,57.19,70.3,CSE,SQL:Intermediate;HTML:Beginner;Data Science:Advanced;CSS:Intermediate,1
+8.34,93.18,0,1,6,0,76.55,31.99,38.88,75.35,ECE,SQL:Intermediate;Java:Intermediate;CSS:Beginner;Machine Learning:Intermediate,1
+5.89,92.5,1,2,5,5,73.87,33.21,81.61,90.05,IT,React:Beginner;JavaScript:Advanced;HTML:Intermediate;C++:Intermediate;CSS:Advanced,1
+9.49,68.02,0,0,0,8,84.08,85.03,52.96,86.98,MECH,JavaScript:Intermediate;SQL:Advanced;React:Intermediate,1
+9.93,55.86,0,0,3,6,38.51,79.19,45.93,41.43,CIVIL,JavaScript:Advanced;SQL:Intermediate;React:Advanced;Machine Learning:Advanced,1
+6.06,69.09,1,2,6,5,96.1,56.52,72.87,79.42,IT,Java:Advanced;Data Science:Intermediate;JavaScript:Intermediate;React:Intermediate;HTML:Beginner,1
+7.91,62.13,0,1,4,8,50.45,34.91,54.52,74.51,EEE,JavaScript:Advanced;HTML:Beginner;CSS:Beginner;Data Science:Intermediate;Java:Intermediate,1
+8.91,81.1,3,0,5,0,71.36,43.85,46.87,57.89,CSE,SQL:Advanced;Machine Learning:Intermediate;CSS:Intermediate;C++:Beginner;HTML:Advanced,0
+9.97,77.27,0,1,3,5,44.51,66.29,55.17,72.32,ECE,CSS:Beginner;C++:Advanced;React:Intermediate,1
+8.74,96.68,0,2,4,4,68.6,60.5,45.72,84.21,EEE,Machine Learning:Beginner;CSS:Beginner;Python:Beginner,1
+8.1,75.43,2,0,4,2,69.91,67.15,84.82,76.16,CSE,Data Science:Intermediate;SQL:Intermediate;Java:Intermediate;JavaScript:Intermediate,1
+8.45,56.52,2,0,3,3,57.95,78.93,65.57,42.26,CIVIL,React:Beginner;HTML:Advanced;C++:Intermediate;JavaScript:Intermediate;Machine Learning:Intermediate,0
+7.41,76.15,0,1,5,4,91.82,92.49,73.99,57.05,ECE,CSS:Beginner;React:Intermediate;Java:Intermediate;JavaScript:Intermediate;HTML:Advanced,1
+9.42,86.07,2,2,2,6,96.49,97.27,58.89,64.48,EEE,Python:Beginner;HTML:Intermediate;CSS:Beginner;Machine Learning:Intermediate,1
+8.56,90.36,2,1,1,4,44.26,52.72,73.45,96.47,IT,React:Advanced;C++:Intermediate;SQL:Intermediate,1
+6.92,63.6,1,2,5,5,66.62,91.96,63.47,51.37,CSE,Python:Intermediate;JavaScript:Advanced;CSS:Intermediate,1
+8.6,85.42,0,0,4,7,45.32,94.06,43.07,91.63,ECE,Data Science:Intermediate;Python:Advanced,1
+7.02,62.43,0,0,4,8,36.75,57.58,71.69,41.63,CIVIL,C++:Intermediate;CSS:Beginner;Data Science:Intermediate;Python:Advanced;Machine Learning:Intermediate,1
+7.94,94.76,0,1,6,2,87.39,36.3,81.23,67.28,EEE,Machine Learning:Intermediate;Python:Beginner,1
+8.55,83.18,2,1,0,7,96.72,70.0,60.07,40.99,CIVIL,React:Intermediate;SQL:Intermediate;Machine Learning:Beginner;C++:Intermediate;HTML:Intermediate,1
+6.49,85.71,1,0,3,5,64.16,91.98,56.21,45.07,ECE,React:Intermediate;HTML:Intermediate;JavaScript:Beginner;Machine Learning:Beginner,0
+9.43,71.73,1,1,0,7,38.49,74.41,72.72,77.24,EEE,Machine Learning:Intermediate;Java:Intermediate;HTML:Advanced,1
+5.29,83.88,0,0,6,3,76.38,69.86,63.38,68.35,CIVIL,Machine Learning:Intermediate;C++:Beginner;React:Intermediate;HTML:Advanced,1
+8.36,59.76,0,1,0,7,73.18,38.93,79.54,45.27,ECE,CSS:Intermediate;SQL:Intermediate;C++:Intermediate;JavaScript:Intermediate,1
+8.14,75.03,1,0,4,8,40.03,87.3,91.22,72.45,CIVIL,CSS:Intermediate;JavaScript:Beginner,1
+9.29,63.63,2,0,5,6,37.3,66.37,80.13,89.49,EEE,C++:Beginner;HTML:Beginner;Python:Intermediate;Java:Advanced;SQL:Intermediate,1
+5.52,90.66,1,1,5,2,69.7,71.99,95.68,94.15,MECH,SQL:Intermediate;HTML:Intermediate;Machine Learning:Intermediate;CSS:Beginner,1
+9.65,72.78,1,4,5,3,77.12,43.91,73.37,81.11,EEE,Data Science:Advanced;Machine Learning:Advanced;React:Beginner;Python:Intermediate;JavaScript:Advanced,1
+8.13,58.03,0,3,2,1,40.04,83.65,78.76,59.8,ECE,Data Science:Intermediate;Java:Intermediate,1
+8.8,66.17,3,1,6,8,63.28,37.91,98.18,46.97,ECE,JavaScript:Beginner;Python:Intermediate;HTML:Intermediate,1
+6.23,90.08,0,1,1,1,59.34,78.28,51.6,81.34,ECE,HTML:Beginner;JavaScript:Advanced;Data Science:Intermediate,1
+9.72,56.67,1,0,3,2,62.24,32.15,37.13,64.08,MECH,React:Intermediate;CSS:Advanced;SQL:Advanced,0
+9.93,74.35,0,2,0,2,57.12,80.15,78.26,97.6,ECE,Machine Learning:Intermediate;SQL:Advanced,1
+9.52,72.68,0,2,5,1,80.77,92.43,96.27,99.21,CSE,Machine Learning:Advanced;SQL:Advanced;Java:Beginner;JavaScript:Intermediate;React:Beginner,1
+5.7,99.22,0,1,2,4,44.56,91.03,90.68,88.09,CSE,Machine Learning:Beginner;C++:Advanced;SQL:Beginner;React:Beginner,1
+8.49,82.56,1,0,5,1,75.33,53.5,95.6,70.88,CIVIL,Python:Intermediate;Java:Beginner;HTML:Intermediate;C++:Intermediate,1
+8.63,87.0,0,0,1,4,94.57,92.24,49.7,46.54,ECE,React:Advanced;Python:Intermediate,1
+6.55,69.86,1,2,6,1,38.29,71.2,78.32,47.46,ECE,Python:Intermediate;React:Intermediate,1
+6.96,89.76,1,1,2,0,66.38,50.68,94.84,45.15,CIVIL,SQL:Intermediate;React:Beginner;Data Science:Intermediate,1
+7.32,84.63,0,0,3,0,62.43,78.48,86.35,76.26,IT,React:Advanced;HTML:Intermediate,1
+8.37,66.94,0,2,5,7,53.37,43.9,91.93,97.05,CIVIL,Python:Intermediate;HTML:Intermediate;Java:Intermediate,1
+7.1,94.95,0,1,2,1,74.93,83.98,64.39,78.82,EEE,JavaScript:Intermediate;Machine Learning:Advanced;SQL:Intermediate;CSS:Advanced,1
+5.84,73.56,3,3,3,0,49.06,43.32,68.07,44.35,CSE,Data Science:Intermediate;SQL:Intermediate;Machine Learning:Advanced,0
+5.08,95.77,2,1,2,2,41.19,35.95,73.64,79.81,ECE,C++:Intermediate;React:Intermediate;HTML:Intermediate;Data Science:Intermediate,0
+9.3,97.8,1,1,3,8,60.8,77.51,37.73,83.33,IT,Java:Advanced;JavaScript:Beginner;Data Science:Advanced,1
+6.55,96.7,0,3,1,6,61.41,37.4,92.94,54.82,IT,Data Science:Intermediate;React:Beginner;C++:Beginner,1
+9.66,91.23,0,1,2,8,96.9,39.92,50.46,73.32,EEE,HTML:Advanced;Python:Advanced,1
+5.5,79.77,0,0,6,7,75.28,69.52,46.21,81.84,CSE,React:Intermediate;Machine Learning:Beginner;JavaScript:Beginner,1
+8.88,87.96,1,2,1,0,95.61,31.67,70.2,78.16,CIVIL,SQL:Advanced;Python:Intermediate,1
+5.79,87.43,3,1,1,8,70.6,37.05,94.05,64.43,EEE,C++:Beginner;CSS:Intermediate;Python:Beginner,0
+7.8,61.28,1,0,0,6,95.99,73.98,86.11,98.47,ECE,React:Beginner;HTML:Beginner,1
+6.75,55.85,2,0,0,2,63.55,70.47,74.07,45.04,MECH,Python:Beginner;React:Advanced;SQL:Intermediate,0
+5.77,81.59,0,0,6,3,53.16,54.71,97.51,42.53,ECE,Python:Intermediate;JavaScript:Intermediate,1
+5.32,61.5,0,0,2,3,97.55,93.67,66.79,90.07,CIVIL,SQL:Intermediate;HTML:Intermediate;CSS:Intermediate;JavaScript:Beginner;C++:Beginner,1
+5.66,81.61,1,1,6,6,54.31,81.96,78.36,81.84,ECE,SQL:Beginner;C++:Beginner,1
+8.99,82.32,1,1,2,4,47.68,70.27,94.22,59.72,ECE,CSS:Intermediate;SQL:Intermediate;Java:Advanced,1
+8.3,75.42,0,1,0,3,92.34,49.47,75.86,89.21,IT,C++:Beginner;Data Science:Intermediate,1
+5.53,90.41,0,0,6,7,59.79,87.55,37.0,49.38,IT,HTML:Advanced;Machine Learning:Beginner;React:Intermediate,1
+8.85,97.97,0,2,0,4,85.93,61.54,49.83,73.18,EEE,C++:Beginner;HTML:Beginner;Java:Beginner;Machine Learning:Beginner;React:Intermediate,1
+8.55,59.98,0,0,3,5,93.56,41.22,47.93,68.76,CIVIL,Java:Intermediate;HTML:Intermediate;CSS:Beginner;React:Advanced,1
+5.66,93.92,3,0,0,1,44.62,60.91,73.96,74.04,ECE,CSS:Beginner;Java:Advanced;React:Beginner;HTML:Advanced,0
+9.25,62.72,4,1,5,6,79.06,98.07,80.09,59.92,CIVIL,CSS:Intermediate;Java:Intermediate;SQL:Intermediate;Python:Intermediate,1
+7.49,99.56,0,0,1,5,73.43,46.55,36.38,41.07,MECH,CSS:Beginner;React:Advanced,0
+9.48,77.16,2,2,3,1,51.53,43.71,42.85,91.13,IT,JavaScript:Beginner;SQL:Intermediate;Java:Intermediate;HTML:Beginner;Data Science:Advanced,1
+5.82,64.18,0,1,3,5,49.82,54.2,73.27,63.15,MECH,CSS:Intermediate;Machine Learning:Advanced,1
+6.62,57.07,4,0,3,2,41.89,91.37,51.95,51.6,ECE,Data Science:Intermediate;React:Advanced;Java:Advanced,0
+9.96,70.42,5,2,3,2,55.56,80.1,85.63,69.25,CIVIL,SQL:Intermediate;Python:Beginner;Machine Learning:Advanced,1
+5.75,94.91,2,2,0,2,59.73,72.18,64.97,55.6,MECH,C++:Advanced;Data Science:Intermediate;SQL:Beginner;Java:Intermediate,0
+6.66,61.92,2,1,3,3,79.5,34.81,93.01,52.8,CIVIL,CSS:Advanced;React:Beginner;JavaScript:Intermediate;C++:Intermediate,0
+9.93,95.89,4,1,1,8,51.12,52.44,70.93,68.65,EEE,CSS:Beginner;Data Science:Beginner;C++:Beginner;Machine Learning:Beginner;JavaScript:Intermediate,1
+7.8,84.56,1,0,6,6,99.79,78.34,91.32,41.9,CSE,SQL:Beginner;Python:Beginner;Data Science:Beginner;CSS:Intermediate,1
+8.02,84.83,1,1,0,5,97.72,38.28,92.7,41.88,EEE,CSS:Intermediate;Python:Intermediate;HTML:Advanced,1
+7.1,69.23,5,2,0,0,71.63,66.1,54.88,90.96,ECE,Java:Beginner;SQL:Beginner;CSS:Advanced;HTML:Intermediate;Machine Learning:Advanced,0
+7.36,78.81,2,4,5,3,44.72,65.41,94.33,66.93,IT,CSS:Beginner;Java:Intermediate;Python:Advanced;JavaScript:Beginner,1
+8.78,87.55,2,0,5,8,68.97,89.94,87.86,54.84,CSE,CSS:Beginner;Data Science:Advanced;HTML:Intermediate,1
+8.71,94.27,4,0,4,8,51.12,47.93,83.06,81.38,CIVIL,JavaScript:Beginner;CSS:Intermediate;C++:Intermediate,0
+5.58,58.75,0,1,1,7,54.5,30.67,62.93,94.3,CIVIL,JavaScript:Intermediate;CSS:Intermediate;Python:Beginner;C++:Intermediate;Data Science:Intermediate,1
+5.01,71.36,0,1,6,3,85.82,45.79,49.73,65.61,MECH,Python:Advanced;CSS:Intermediate;HTML:Intermediate;Data Science:Intermediate,1
+8.13,73.61,1,3,6,4,61.42,82.67,37.79,59.23,EEE,JavaScript:Intermediate;SQL:Intermediate,1
+7.3,92.74,0,1,0,7,47.51,30.17,61.19,90.61,IT,SQL:Advanced;Java:Intermediate,1
+5.35,81.22,4,3,5,5,86.1,37.41,42.93,82.25,IT,C++:Intermediate;Java:Beginner,0
+8.99,92.6,0,0,6,8,65.22,36.37,72.79,87.8,IT,JavaScript:Advanced;Machine Learning:Beginner,1
+8.43,61.83,2,3,0,3,42.7,83.51,74.41,87.44,IT,CSS:Advanced;Data Science:Intermediate;React:Intermediate;HTML:Intermediate;Machine Learning:Intermediate,1
+6.55,61.47,1,0,4,2,48.5,95.95,73.57,45.03,EEE,Machine Learning:Beginner;JavaScript:Intermediate;Python:Intermediate;HTML:Beginner;Data Science:Intermediate,1
+8.14,75.31,2,0,1,1,43.45,36.02,38.06,71.85,MECH,JavaScript:Advanced;SQL:Intermediate,0
+5.42,95.55,3,3,4,8,46.02,56.65,44.02,58.07,EEE,Java:Beginner;C++:Beginner;HTML:Advanced,0
+9.66,96.89,5,2,0,6,54.1,43.66,44.31,71.2,MECH,C++:Advanced;CSS:Intermediate,0
+8.16,65.3,3,2,0,8,50.47,76.83,48.93,47.94,MECH,JavaScript:Beginner;CSS:Intermediate;HTML:Intermediate;Java:Intermediate;Python:Intermediate,1
+8.1,64.85,0,2,4,1,88.08,62.79,55.36,78.51,EEE,Python:Beginner;SQL:Beginner;HTML:Beginner,1
+9.33,98.55,0,0,5,2,64.22,94.67,50.68,43.17,EEE,CSS:Intermediate;Java:Beginner;HTML:Beginner,1
+9.57,83.79,0,2,2,1,59.11,71.31,85.59,60.88,ECE,C++:Beginner;JavaScript:Advanced;React:Intermediate;Machine Learning:Beginner;Python:Beginner,1
+6.71,93.23,2,0,2,7,80.98,60.48,82.7,97.93,ECE,CSS:Advanced;HTML:Beginner;React:Advanced;C++:Beginner;Java:Intermediate,1
+7.7,97.96,0,0,1,3,48.11,41.43,99.42,53.98,IT,Python:Advanced;C++:Intermediate;CSS:Intermediate;Data Science:Intermediate,1
+9.31,58.84,2,1,4,1,73.54,63.14,70.98,73.1,ECE,Data Science:Advanced;Python:Intermediate,1
+5.9,60.44,2,1,5,5,78.01,94.79,84.4,95.94,IT,Python:Intermediate;React:Intermediate;JavaScript:Intermediate,1
+8.62,90.68,0,2,5,1,73.69,51.03,82.5,74.58,CSE,SQL:Advanced;Data Science:Intermediate,1
+6.49,60.64,0,1,6,8,47.02,86.9,36.28,73.36,MECH,Java:Advanced;Machine Learning:Advanced;Data Science:Beginner;HTML:Intermediate;CSS:Beginner,1
+9.09,78.16,0,1,3,6,71.98,57.06,80.74,73.98,MECH,SQL:Advanced;HTML:Advanced;Python:Beginner;CSS:Beginner;Data Science:Intermediate,1
+6.24,71.62,3,1,1,3,97.45,46.16,37.5,64.19,EEE,React:Intermediate;Java:Advanced;C++:Advanced;CSS:Advanced;Data Science:Intermediate,0
+7.64,63.56,0,2,4,5,58.17,92.98,90.47,88.1,EEE,HTML:Beginner;Java:Beginner;Machine Learning:Beginner;CSS:Intermediate;React:Intermediate,1
+5.04,58.06,0,1,5,7,57.85,80.77,51.37,42.04,MECH,Python:Advanced;JavaScript:Intermediate,1
+8.63,92.69,1,1,6,2,64.03,63.9,56.61,85.77,EEE,SQL:Beginner;JavaScript:Advanced;Machine Learning:Beginner;React:Intermediate;CSS:Intermediate,1
+7.11,72.35,0,0,5,1,83.51,50.79,87.97,68.65,IT,HTML:Intermediate;React:Beginner,1
+6.22,84.3,1,2,3,5,89.37,75.09,38.61,59.54,EEE,CSS:Beginner;Java:Beginner;Data Science:Intermediate;C++:Intermediate;Machine Learning:Intermediate,1
+6.65,59.0,3,2,1,3,52.79,36.86,98.67,53.33,CSE,C++:Intermediate;Machine Learning:Intermediate,0
+7.07,56.97,1,0,6,6,92.92,50.73,73.42,78.23,EEE,Data Science:Advanced;SQL:Intermediate;JavaScript:Advanced;React:Intermediate,1
+7.27,99.69,1,3,2,4,53.12,65.89,92.43,85.51,CSE,React:Advanced;Python:Advanced;Java:Beginner,1
+9.64,84.13,1,0,3,6,97.47,73.85,81.86,74.06,CSE,HTML:Intermediate;SQL:Intermediate,1
+7.23,79.54,1,0,4,3,47.24,82.54,49.17,40.86,MECH,Python:Beginner;HTML:Advanced,0
+5.1,75.23,0,0,6,6,38.31,30.55,75.98,82.79,EEE,Data Science:Intermediate;Machine Learning:Intermediate;React:Intermediate;Python:Advanced;JavaScript:Advanced,1
+6.94,82.86,2,1,3,1,57.68,88.94,87.59,54.32,EEE,SQL:Beginner;Python:Intermediate;C++:Intermediate;CSS:Beginner,1
+9.75,75.67,0,0,6,7,99.47,65.22,94.77,76.66,CIVIL,Python:Intermediate;Data Science:Advanced;Java:Advanced;JavaScript:Beginner,1
+5.33,84.15,1,0,5,7,52.93,87.94,35.41,80.14,IT,Java:Beginner;Machine Learning:Intermediate;SQL:Beginner;Data Science:Intermediate,0
+7.44,97.99,0,4,5,1,87.41,88.81,65.27,63.28,CIVIL,SQL:Intermediate;Python:Intermediate;Machine Learning:Intermediate,1
+5.62,66.96,0,1,3,8,97.39,98.96,86.27,85.45,ECE,JavaScript:Advanced;React:Intermediate,1
+7.73,95.57,1,0,3,2,51.95,77.91,94.54,51.2,ECE,C++:Beginner;SQL:Advanced;HTML:Beginner;Java:Intermediate;React:Intermediate,1
+9.8,75.65,0,1,2,1,77.49,90.08,84.37,45.61,EEE,Machine Learning:Intermediate;CSS:Beginner;Python:Advanced;SQL:Intermediate;Data Science:Intermediate,1
+9.97,67.17,0,1,4,7,83.51,46.88,77.97,85.3,MECH,Machine Learning:Intermediate;Java:Advanced;Python:Beginner;HTML:Intermediate;Data Science:Beginner,1
+8.13,87.67,2,1,0,1,35.07,63.38,43.63,53.57,CIVIL,Python:Advanced;Data Science:Intermediate;SQL:Beginner;HTML:Beginner;Machine Learning:Intermediate,0
+6.06,55.99,1,0,5,0,59.39,74.82,85.13,77.39,MECH,Java:Beginner;Python:Beginner,0
+7.42,75.48,2,1,2,4,87.18,58.95,42.63,46.45,EEE,HTML:Intermediate;React:Intermediate;CSS:Intermediate;C++:Beginner;Data Science:Intermediate,0
+8.35,74.94,0,0,1,0,72.18,85.73,80.98,73.66,CSE,JavaScript:Intermediate;Machine Learning:Beginner,1
+7.61,93.8,0,1,3,4,35.94,59.97,91.72,54.87,EEE,Data Science:Intermediate;C++:Beginner;Python:Advanced,1
+9.17,99.25,0,0,5,3,44.45,50.78,97.7,91.45,EEE,HTML:Advanced;Machine Learning:Intermediate;JavaScript:Intermediate;CSS:Advanced;Java:Advanced,1
+8.55,75.8,1,1,2,2,56.32,56.23,44.44,84.18,CSE,Python:Intermediate;JavaScript:Advanced;C++:Beginner;Data Science:Intermediate;Java:Beginner,1
+9.03,63.79,0,3,2,7,44.03,98.63,61.06,68.16,ECE,Machine Learning:Intermediate;SQL:Intermediate;Python:Intermediate;Java:Intermediate;Data Science:Beginner,1
+6.16,75.34,5,2,1,4,92.02,77.37,76.07,58.89,ECE,HTML:Beginner;Data Science:Beginner;Python:Beginner;CSS:Intermediate,0
+8.69,95.64,0,1,3,4,64.89,80.61,67.26,40.38,CSE,HTML:Advanced;Data Science:Advanced;Machine Learning:Intermediate,1
+7.98,70.78,0,0,6,7,84.82,75.62,48.52,77.32,CSE,Python:Intermediate;React:Advanced,1
+8.94,77.85,1,1,4,0,78.03,91.35,75.17,75.83,IT,C++:Beginner;Data Science:Intermediate;CSS:Intermediate,1
+5.11,72.06,2,0,2,8,39.13,33.45,48.68,72.13,IT,JavaScript:Intermediate;React:Intermediate;C++:Beginner;CSS:Beginner;HTML:Advanced,0
+5.99,60.13,1,1,5,5,73.8,72.79,73.16,60.88,EEE,React:Intermediate;Java:Beginner;C++:Beginner,1
+5.15,94.04,1,0,1,1,93.35,54.75,35.82,72.57,CSE,JavaScript:Intermediate;Python:Beginner;React:Intermediate;C++:Advanced;SQL:Beginner,0
+6.07,84.88,0,0,1,6,70.95,73.89,90.82,44.26,CIVIL,Machine Learning:Intermediate;C++:Advanced;Java:Beginner,1
+6.5,88.55,0,0,1,3,85.53,70.47,50.87,77.42,ECE,React:Beginner;SQL:Beginner;CSS:Advanced,1
+9.44,97.79,1,1,6,2,95.85,98.44,86.56,91.05,IT,Machine Learning:Advanced;CSS:Advanced;Java:Advanced;C++:Intermediate;SQL:Intermediate,1
+6.81,58.18,0,3,4,0,76.87,57.84,62.85,94.84,MECH,Java:Intermediate;Machine Learning:Intermediate,1
+8.77,56.23,3,3,4,8,86.93,30.47,89.11,41.55,IT,Data Science:Beginner;HTML:Intermediate;CSS:Advanced;React:Intermediate,1
+8.68,66.08,0,2,2,1,42.31,58.95,58.74,51.43,ECE,React:Advanced;C++:Intermediate,1
+9.89,79.75,0,0,4,4,55.76,55.42,41.87,93.09,CIVIL,Machine Learning:Advanced;Data Science:Intermediate;HTML:Intermediate;Java:Advanced,1
+9.0,60.54,0,0,1,1,71.56,89.6,37.28,98.8,MECH,SQL:Advanced;Machine Learning:Intermediate;C++:Beginner;JavaScript:Beginner,1
+8.24,55.65,1,2,6,1,64.65,41.95,73.42,89.07,CSE,CSS:Beginner;JavaScript:Beginner,1
+8.8,88.11,0,1,1,4,58.46,33.81,75.7,74.01,ECE,Machine Learning:Beginner;Python:Advanced;React:Advanced,1
+5.78,65.03,0,0,4,4,72.04,58.35,88.06,82.25,IT,CSS:Beginner;Python:Intermediate;C++:Advanced;HTML:Advanced;Data Science:Intermediate,1
+8.85,85.57,2,2,5,4,89.74,71.87,40.03,75.92,CIVIL,Python:Intermediate;SQL:Advanced;Machine Learning:Beginner;Data Science:Advanced;C++:Advanced,1
+8.71,55.38,1,1,1,7,75.22,50.32,44.07,73.46,CSE,C++:Advanced;HTML:Intermediate;JavaScript:Intermediate;CSS:Beginner,1
+6.19,60.48,0,1,4,7,39.08,88.57,67.49,72.16,CIVIL,C++:Beginner;React:Intermediate;HTML:Intermediate,1
+7.74,87.24,0,0,1,8,39.23,48.07,60.04,55.55,CIVIL,React:Intermediate;C++:Advanced;Java:Intermediate,1
+6.34,61.95,1,0,5,3,62.78,85.05,67.46,94.62,MECH,React:Intermediate;SQL:Intermediate;Data Science:Intermediate;CSS:Advanced;Machine Learning:Intermediate,1
+9.41,75.4,0,1,2,7,64.98,41.96,84.92,76.27,IT,HTML:Intermediate;Java:Intermediate,1
+6.19,94.73,3,0,2,2,62.29,79.14,89.81,87.21,EEE,JavaScript:Beginner;C++:Advanced,0
+6.93,80.47,5,2,2,7,41.73,89.1,76.96,61.71,CIVIL,Data Science:Intermediate;JavaScript:Beginner;C++:Intermediate;HTML:Intermediate;Machine Learning:Intermediate,0
+9.48,75.81,2,3,0,8,54.46,80.75,55.51,72.15,IT,SQL:Advanced;Java:Intermediate;C++:Intermediate;CSS:Intermediate,1
+8.86,78.95,2,2,2,1,48.9,94.5,47.19,97.98,CIVIL,C++:Advanced;Python:Intermediate;JavaScript:Beginner;React:Intermediate,1
+8.34,78.56,0,3,4,8,86.12,65.53,36.32,92.4,CSE,SQL:Intermediate;React:Intermediate;Python:Intermediate;C++:Advanced;CSS:Intermediate,1
+9.03,96.1,3,2,0,2,87.4,37.49,39.84,62.4,IT,Java:Intermediate;Data Science:Intermediate;Python:Intermediate,1
+5.7,90.17,0,1,5,2,52.31,69.21,43.93,94.2,IT,JavaScript:Advanced;Data Science:Beginner;CSS:Intermediate;SQL:Intermediate;React:Beginner,1
+6.87,96.81,0,0,0,1,64.92,79.54,66.19,77.7,ECE,SQL:Intermediate;Python:Advanced,1
+9.31,93.67,1,2,3,6,83.4,82.89,91.85,58.05,CSE,JavaScript:Advanced;Machine Learning:Intermediate;React:Intermediate;CSS:Beginner;Java:Intermediate,1
+8.07,91.96,0,0,3,7,41.99,71.54,75.0,71.57,MECH,C++:Advanced;Java:Beginner;CSS:Advanced;React:Intermediate,1
+8.43,59.6,3,3,0,8,81.19,55.85,36.67,78.75,MECH,HTML:Intermediate;Machine Learning:Advanced;SQL:Advanced;Python:Beginner,1
+9.79,73.94,2,1,2,3,72.72,56.12,75.36,93.99,ECE,HTML:Intermediate;C++:Beginner,1
+8.87,56.24,0,1,4,4,82.54,32.37,84.03,51.68,IT,React:Intermediate;JavaScript:Intermediate;CSS:Advanced;SQL:Advanced,1
+6.07,59.52,0,1,3,2,83.05,56.91,74.98,62.81,MECH,JavaScript:Advanced;CSS:Intermediate;HTML:Beginner;Machine Learning:Intermediate,1
+6.3,70.05,2,0,4,5,95.07,76.43,92.09,54.14,CSE,SQL:Advanced;Java:Intermediate,1
+9.13,60.55,1,0,2,0,38.24,39.64,92.12,87.12,MECH,Java:Advanced;React:Beginner;C++:Intermediate,0
+6.38,90.77,0,0,3,3,95.09,31.8,44.49,98.48,MECH,JavaScript:Beginner;Java:Beginner;SQL:Beginner;Python:Advanced,0
+8.93,68.5,1,1,3,1,79.89,34.2,87.9,68.59,CIVIL,CSS:Beginner;SQL:Intermediate,1
+5.78,60.69,0,1,0,5,80.99,47.44,74.57,82.41,IT,SQL:Intermediate;CSS:Intermediate;React:Advanced;C++:Beginner;JavaScript:Intermediate,0
+9.85,83.21,0,0,1,6,66.76,78.16,97.05,79.17,EEE,CSS:Beginner;HTML:Intermediate,1
+8.57,55.09,1,1,1,0,51.72,97.41,45.26,62.62,CSE,React:Beginner;Java:Beginner,1
+6.82,89.03,0,2,4,7,85.86,51.6,55.73,53.24,MECH,HTML:Beginner;C++:Advanced,1

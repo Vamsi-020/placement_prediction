@@ -80,7 +80,7 @@ function Analytics() {
     datasets: [
       {
         data: [placedCount, notPlacedCount],
-        backgroundColor: ["#22c55e", "#f59e0b"],
+        backgroundColor: ["#10b981", "#f59e0b"],
         borderWidth: 2,
         borderColor: "rgba(255, 255, 255, 0.1)",
       },
@@ -136,10 +136,10 @@ function Analytics() {
       {
         label: "Benchmark Target",
         data: [80, 80, 75, 70, 100],
-        backgroundColor: "rgba(34, 197, 94, 0.1)",
-        borderColor: "#22c55e",
+        backgroundColor: "rgba(16, 185, 129, 0.1)",
+        borderColor: "#10b981",
         borderDash: [4, 4],
-        pointBackgroundColor: "#22c55e",
+        pointBackgroundColor: "#10b981",
       },
     ],
   };
@@ -280,7 +280,7 @@ function Analytics() {
             <div className="chart-header">
               <div>
                 <h3>Factor Comparison vs Placed Average</h3>
-                <p className="chart-sub">Normalized metric scores (0-100)</p>
+                <p className="chart-sub">Normalized metric scores (0 - 100)</p>
               </div>
             </div>
             <div className="chart-canvas-container" style={{ height: "300px" }}>

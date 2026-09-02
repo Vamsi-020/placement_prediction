@@ -5,8 +5,8 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
   const [simData, setSimData] = useState({
     cgpa: initialData.cgpa !== undefined ? initialData.cgpa : 7.5,
     internships: initialData.internships !== undefined ? initialData.internships : 1,
-    skills: initialData.skills !== undefined ? initialData.skills : 7,
-    communication: initialData.communication !== undefined ? initialData.communication : 7,
+    skills: initialData.skills_score !== undefined ? Math.round(initialData.skills_score / 10) : (initialData.skills !== undefined && typeof initialData.skills === "number" ? initialData.skills : 7),
+    communication: initialData.communication_score !== undefined ? Math.round(initialData.communication_score / 10) : (initialData.communication !== undefined ? initialData.communication : 7),
     backlogs: initialData.backlogs !== undefined ? initialData.backlogs : 0,
   });
 
@@ -14,20 +14,20 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
   const [calculating, setCalculating] = useState(false);
 
   const handleSliderChange = (field, value) => {
-    const updated = { ...simData, [field]: value };
-    setSimData(updated);
+    setSimData((prev) => ({ ...prev, [field]: value }));
   };
 
   const runSimulation = async () => {
     setCalculating(true);
     try {
       const res = await predictPlacement({
-        studentName: "Simulation Run",
+        studentName: "What-If Simulation",
         cgpa: parseFloat(simData.cgpa),
         internships: parseInt(simData.internships, 10),
         skills: parseFloat(simData.skills),
         communication: parseFloat(simData.communication),
         backlogs: parseInt(simData.backlogs, 10),
+        branch: initialData.branch || "CSE",
       });
       setSimResult(res);
     } catch (err) {
@@ -43,10 +43,10 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
     <div className="whatif-container">
       <div className="whatif-header">
         <div className="whatif-title-group">
-          <span className="whatif-badge">Interactive Simulator</span>
-          <h3>What-If Career Optimizer</h3>
+          <span className="whatif-badge">Interactive Career Simulator</span>
+          <h3>What-If Scenario Optimizer</h3>
           <p className="whatif-desc">
-            Simulate how improving your skills, earning internships, or raising CGPA affects your placement probability.
+            Adjust metrics below to simulate how earning more internships, improving technical skills, or raising CGPA boosts your placement odds.
           </p>
         </div>
       </div>
@@ -72,8 +72,8 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
 
           <div className="slider-group">
             <div className="slider-label-row">
-              <span>Internships</span>
-              <strong className="slider-val">{simData.internships} completed</strong>
+              <span>Internships Completed</span>
+              <strong className="slider-val">{simData.internships} internship(s)</strong>
             </div>
             <input
               type="range"
@@ -88,7 +88,7 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
 
           <div className="slider-group">
             <div className="slider-label-row">
-              <span>Technical Skills (1-10)</span>
+              <span>Technical Skills (1 - 10)</span>
               <strong className="slider-val">{simData.skills} / 10</strong>
             </div>
             <input
@@ -104,7 +104,7 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
 
           <div className="slider-group">
             <div className="slider-label-row">
-              <span>Communication Score (1-10)</span>
+              <span>Communication Score (1 - 10)</span>
               <strong className="slider-val">{simData.communication} / 10</strong>
             </div>
             <input
@@ -120,9 +120,9 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
 
           <div className="slider-group">
             <div className="slider-label-row">
-              <span>Backlogs</span>
+              <span>Active Backlogs</span>
               <strong className={`slider-val ${simData.backlogs > 0 ? "text-danger" : "text-success"}`}>
-                {simData.backlogs} {simData.backlogs === 0 ? "(Clear)" : "active"}
+                {simData.backlogs} {simData.backlogs === 0 ? "(Zero Backlogs)" : "Active"}
               </strong>
             </div>
             <input
@@ -142,7 +142,7 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
             onClick={runSimulation}
             disabled={calculating}
           >
-            {calculating ? "⚡ Calculating Impact..." : "⚡ Recalculate Simulation"}
+            {calculating ? "⚡ Calculating Simulation Impact..." : "⚡ Recalculate Simulation"}
           </button>
         </div>
 
@@ -156,7 +156,7 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
               </div>
 
               <div className="sim-delta-row">
-                <span>Change vs Current Test:</span>
+                <span>Change vs Baseline:</span>
                 <strong className={`delta-tag ${probDiff >= 0 ? "delta-pos" : "delta-neg"}`}>
                   {probDiff >= 0 ? `+${probDiff}%` : `${probDiff}%`}
                 </strong>
@@ -176,10 +176,10 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
                 <h4>Key Takeaway:</h4>
                 <p>
                   {simData.backlogs > 0
-                    ? "⚠️ Clearing remaining backlogs will drastically raise company eligibility."
+                    ? "⚠️ Clearing backlogs will drastically raise company eligibility and shortlisting rates."
                     : simData.internships >= 2
-                    ? "✨ 2+ internships place you in the top tier of candidates!"
-                    : "💡 Boosting both your DSA Skills and Mock Interviews gives the highest probability multiplier."}
+                    ? "✨ 2+ internships elevate your profile to the top candidate tier!"
+                    : "💡 Boosting both your DSA Skills and Mock Interviews provides the greatest probability lift."}
                 </p>
               </div>
             </div>
@@ -187,7 +187,7 @@ function WhatIfSimulator({ initialData = {}, baseProbability = 50 }) {
             <div className="sim-placeholder">
               <span className="sim-icon">🎯</span>
               <h4>Ready to Simulate</h4>
-              <p>Adjust the sliders to test potential profile upgrades, then click calculate.</p>
+              <p>Adjust the sliders to model potential profile upgrades, then click calculate.</p>
             </div>
           )}
         </div>

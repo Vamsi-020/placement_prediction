@@ -343,7 +343,7 @@ function Settings() {
                         <span className="theme-preview-icon">{t.icon}</span>
                         <div className="theme-color-dots">
                           <span style={{ backgroundColor: t.primary }}></span>
-                          <span style={{ backgroundColor: "#22c55e" }}></span>
+                          <span style={{ backgroundColor: "#10b981" }}></span>
                         </div>
                       </div>
                       <div className="theme-card-info">

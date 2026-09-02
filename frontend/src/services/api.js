@@ -1,16 +1,22 @@
-// api.js
-// Centralized Axios service with JWT Authorization interceptor and full API bindings.
+/**
+ * api.js
+ * Centralized Axios client with JWT Authorization interceptor,
+ * automatic error handling, and complete API endpoint bindings.
+ */
 
 import axios from "axios";
 
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5000";
+
 const API = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: API_BASE_URL,
   headers: {
     "Content-Type": "application/json",
   },
+  timeout: 15000,
 });
 
-// Attach Authorization Bearer token to all outgoing requests if token exists
+// Request Interceptor: Attach JWT Bearer Token if present in storage
 API.interceptors.request.use(
   (config) => {
     const token = localStorage.getItem("placement_token");
@@ -22,17 +28,17 @@ API.interceptors.request.use(
   (error) => Promise.reject(error)
 );
 
-// Response interceptor to handle session expiry or unauthorized errors
+// Response Interceptor: Handle session invalidation and unauthorized errors
 API.interceptors.response.use(
   (response) => response,
   (error) => {
     if (error.response && error.response.status === 401) {
+      const url = error.config?.url || "";
       const isAuthRoute =
-        error.config.url.includes("/api/auth/login") ||
-        error.config.url.includes("/api/auth/register");
+        url.includes("/api/auth/login") ||
+        url.includes("/api/auth/register");
 
       if (!isAuthRoute) {
-        // Token expired or invalid
         localStorage.removeItem("placement_token");
         localStorage.removeItem("placement_user");
       }

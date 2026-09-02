@@ -7,7 +7,7 @@ function Dashboard() {
   const { user, isAuthenticated } = useAuth();
   const [history, setHistory] = useState([]);
   const [stats, setStats] = useState(null);
-  const [accuracy, setAccuracy] = useState(92.86);
+  const [accuracy, setAccuracy] = useState(91.0);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -17,7 +17,7 @@ function Dashboard() {
         const accData = await getAccuracy();
         if (accData.accuracy) setAccuracy(accData.accuracy);
       } catch (err) {
-        console.warn("Using default accuracy score:", err);
+        console.warn("Could not fetch accuracy score:", err);
       }
 
       if (isAuthenticated) {
@@ -132,7 +132,7 @@ function Dashboard() {
           <div className="card-header-row">
             <div>
               <h3>Recent Predictions</h3>
-              <p className="card-sub">Your latest 5 evaluation attempts</p>
+              <p className="card-sub">Your latest evaluation attempts</p>
             </div>
             <Link to="/history" className="btn btn-sm btn-ghost">
               View All →

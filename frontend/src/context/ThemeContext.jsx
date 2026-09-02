@@ -9,7 +9,7 @@ export const THEMES = [
     description: "Deep dark futuristic theme with electric blue accents",
     icon: "🌙",
     primary: "#3b82f6",
-    bg: "#0f172a",
+    bg: "#0b0f19",
   },
   {
     id: "light",
@@ -33,7 +33,7 @@ export const THEMES = [
     description: "Luxurious emerald green & mint professional vibe",
     icon: "🌿",
     primary: "#10b981",
-    bg: "#061a14",
+    bg: "#05140f",
   },
   {
     id: "indigo",
@@ -41,7 +41,7 @@ export const THEMES = [
     description: "Warm royal indigo with rose gold gradients",
     icon: "🌆",
     primary: "#6366f1",
-    bg: "#0e0f2b",
+    bg: "#0b0c20",
   },
 ];
 

@@ -11,15 +11,21 @@ const AuthContext = createContext();
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(() => {
-    const saved = localStorage.getItem("placement_user");
-    return saved ? JSON.parse(saved) : null;
+    try {
+      const saved = localStorage.getItem("placement_user");
+      return saved ? JSON.parse(saved) : null;
+    } catch {
+      return null;
+    }
   });
+
   const [token, setToken] = useState(() => {
     return localStorage.getItem("placement_token") || null;
   });
+
   const [loading, setLoading] = useState(true);
 
-  // Validate and sync user state with backend on startup
+  // Sync and validate authentication on application mount
   useEffect(() => {
     const initAuth = async () => {
       const savedToken = localStorage.getItem("placement_token");
@@ -58,6 +64,10 @@ export const AuthProvider = ({ children }) => {
     setUser(data.user);
     localStorage.setItem("placement_token", data.token);
     localStorage.setItem("placement_user", JSON.stringify(data.user));
+    if (data.user.theme_preference) {
+      localStorage.setItem("placement_theme", data.user.theme_preference);
+      document.documentElement.setAttribute("data-theme", data.user.theme_preference);
+    }
     return data;
   };
 

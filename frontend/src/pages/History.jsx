@@ -4,7 +4,7 @@ import { useAuth } from "../context/AuthContext";
 import { getPredictions, deletePrediction } from "../services/api";
 
 function History() {
-  const { isAuthenticated, user } = useAuth();
+  const { isAuthenticated } = useAuth();
   const [predictions, setPredictions] = useState([]);
   const [stats, setStats] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -24,9 +24,7 @@ function History() {
         console.error("Failed to load backend predictions:", err);
       }
     } else {
-      // Fallback for guest local storage
       const local = JSON.parse(localStorage.getItem("predictionHistory")) || [];
-      // Format local items to match DB structure
       const formatted = local.map((item, idx) => ({
         id: idx + 1,
         student_name: item.studentName || "Guest Student",
@@ -80,7 +78,6 @@ function History() {
     }
   };
 
-  // Filter & Search
   const filteredPredictions = predictions.filter((p) => {
     const matchesFilter = filter === "all" || p.prediction === filter;
     const matchesSearch =

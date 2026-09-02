@@ -42,7 +42,7 @@ function Login() {
     try {
       await login("demouser", "password123");
       navigate("/predict");
-    } catch (err) {
+    } catch {
       setError("Demo login failed. You can register a new account below.");
     } finally {
       setLoading(false);

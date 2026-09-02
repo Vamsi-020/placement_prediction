@@ -5,7 +5,7 @@ import { useTheme } from "../context/ThemeContext";
 
 function Navbar() {
   const { user, isAuthenticated, logout } = useAuth();
-  const { theme, toggleTheme, currentThemeMeta } = useTheme();
+  const { toggleTheme, currentThemeMeta } = useTheme();
   const [menuOpen, setMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const dropdownRef = useRef(null);
@@ -46,13 +46,13 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
         {/* Brand Logo */}
-        <Link to="/" className="navbar-logo">
+        <Link to="/" className="navbar-logo" onClick={() => setMenuOpen(false)}>
           <span className="logo-icon">🎓</span>
           <span className="logo-text">PlacementAI</span>
           <span className="logo-badge">Pro</span>
         </Link>
 
-        {/* Mobile Toggle */}
+        {/* Mobile Toggle Button */}
         <button
           className="navbar-toggle"
           onClick={() => setMenuOpen(!menuOpen)}
@@ -87,7 +87,7 @@ function Navbar() {
             type="button"
             className="theme-toggle-btn"
             onClick={toggleTheme}
-            title={`Current Theme: ${currentThemeMeta.name} (Click to switch)`}
+            title={`Current Theme: ${currentThemeMeta.name} (Click to toggle)`}
             aria-label="Switch Theme"
           >
             <span className="theme-icon">{currentThemeMeta.icon}</span>

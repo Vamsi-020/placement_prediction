@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 
 function Home() {
-  const { isAuthenticated, user } = useAuth();
+  const { isAuthenticated } = useAuth();
 
   return (
     <div className="page home-page">
@@ -38,12 +38,12 @@ function Home() {
 
           <div className="hero-trust-metrics">
             <div className="trust-item">
-              <span className="trust-val">92.86%</span>
+              <span className="trust-val">91.0%</span>
               <span className="trust-label">Model Accuracy</span>
             </div>
             <div className="trust-divider"></div>
             <div className="trust-item">
-              <span className="trust-val">5 Factors</span>
+              <span className="trust-val">12 Factors</span>
               <span className="trust-label">Holistic ML Evaluation</span>
             </div>
             <div className="trust-divider"></div>
@@ -76,7 +76,7 @@ function Home() {
             </div>
             <h3>Random Forest ML Classifier</h3>
             <p>
-              Trained on multi-dimensional placement data to predict placement odds with over 92% validated accuracy.
+              Trained on multi-dimensional placement data to predict placement odds with over 90% validated accuracy.
             </p>
           </div>
 

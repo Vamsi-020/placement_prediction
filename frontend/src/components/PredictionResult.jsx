@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import WhatIfSimulator from "./WhatIfSimulator";
 
 function PredictionResult({ result, studentName, previousPrediction }) {
-  const [activeTab, setActiveTab] = useState("overview"); // 'overview' | 'whatif' | 'report'
+  const [activeTab, setActiveTab] = useState("overview"); // 'overview' | 'whatif'
 
   if (!result) return null;
 
@@ -33,7 +33,7 @@ function PredictionResult({ result, studentName, previousPrediction }) {
           className={`result-tab ${activeTab === "whatif" ? "active" : ""}`}
           onClick={() => setActiveTab("whatif")}
         >
-          ⚡ What-If Simulator
+          ⚡ What-If Career Optimizer
         </button>
       </div>
 
@@ -43,10 +43,10 @@ function PredictionResult({ result, studentName, previousPrediction }) {
           <div className="result-header">
             <div className="result-status-group">
               <span className={`status-pill ${isPlaced ? "pill-success" : "pill-warning"}`}>
-                {isPlaced ? "✨ HIGH PLACEMENT PROBABILITY" : "⚠️ IMPROVEMENT RECOMMENDED"}
+                {isPlaced ? "✨ HIGH PLACEMENT READINESS" : "⚠️ PROFILE ENHANCEMENT RECOMMENDED"}
               </span>
               <h2 className="result-headline">
-                {isPlaced ? "Likely to be Placed" : "Needs Profile Enhancement"}
+                {isPlaced ? "Likely to be Placed" : "Needs Further Preparation"}
               </h2>
               <p className="result-student-tag">
                 Analyzed for: <strong>{studentName || result.studentName || "Candidate"}</strong>
@@ -58,16 +58,12 @@ function PredictionResult({ result, studentName, previousPrediction }) {
                 <svg viewBox="0 0 100 100" className="circular-chart">
                   <path
                     className="circle-bg"
-                    d="M18 2.0845
-                      a 15.9155 15.9155 0 0 1 0 31.831
-                      a 15.9155 15.9155 0 0 1 0 -31.831"
+                    d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
                   />
                   <path
                     className={`circle ${isPlaced ? "circle-placed" : "circle-warning"}`}
                     strokeDasharray={`${prob}, 100`}
-                    d="M18 2.0845
-                      a 15.9155 15.9155 0 0 1 0 31.831
-                      a 15.9155 15.9155 0 0 1 0 -31.831"
+                    d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
                   />
                   <text x="18" y="20.35" className="percentage">
                     {prob}%
@@ -83,7 +79,7 @@ function PredictionResult({ result, studentName, previousPrediction }) {
             <div className="history-compare-banner">
               <span className="compare-icon">📈</span>
               <div className="compare-text">
-                <strong>Progress Delta vs Last Test:</strong>{" "}
+                <strong>Progress Delta vs Last Assessment:</strong>{" "}
                 <span className={parseFloat(probDelta) >= 0 ? "text-success font-bold" : "text-danger font-bold"}>
                   {parseFloat(probDelta) >= 0 ? `+${probDelta}%` : `${probDelta}%`} Probability
                 </span>{" "}
@@ -103,13 +99,13 @@ function PredictionResult({ result, studentName, previousPrediction }) {
             <div className="result-metric-card">
               <span className="metric-title">Database Synced</span>
               <span className="metric-val text-success">
-                {result.saved_to_history ? "Saved to History ✓" : "Guest Mode"}
+                {result.saved_to_history ? "Saved to SQLite ✓" : "Guest Mode"}
               </span>
             </div>
             <div className="result-metric-card">
-              <span className="metric-title">Backlog Risk</span>
+              <span className="metric-title">Backlog Status</span>
               <span className={`metric-val ${(result.inputData?.backlogs || 0) > 0 ? "text-danger" : "text-success"}`}>
-                {(result.inputData?.backlogs || 0) > 0 ? "Active Backlogs Present" : "Clear (Zero Backlogs)"}
+                {(result.inputData?.backlogs || 0) > 0 ? `${result.inputData.backlogs} Active Backlog(s)` : "Clear (Zero Backlogs)"}
               </span>
             </div>
           </div>
@@ -118,11 +114,11 @@ function PredictionResult({ result, studentName, previousPrediction }) {
           {result.feature_importance && (
             <div className="feature-importance-box">
               <div className="box-title-row">
-                <h3>🔍 Explainable AI: Feature Impact Analysis</h3>
-                <span className="badge-subtle">Random Forest Tree Weights</span>
+                <h3>🔍 Explainable AI: Factor Impact Breakdown</h3>
+                <span className="badge-subtle">Decision Tree Feature Weights</span>
               </div>
               <p className="feature-help">
-                Shows which factors weighted most heavily on this placement verdict:
+                Relative influence of your profile attributes on this placement assessment:
               </p>
               <div className="importance-bars">
                 {Object.entries(result.feature_importance)
@@ -177,14 +173,14 @@ function PredictionResult({ result, studentName, previousPrediction }) {
               className="btn btn-secondary btn-sm"
               onClick={handlePrint}
             >
-              🖨️ Export / Print Placement Report
+              🖨️ Export / Print Assessment Report
             </button>
             <button
               type="button"
               className="btn btn-primary btn-sm"
               onClick={() => setActiveTab("whatif")}
             >
-              ⚡ Test Profile Improvements in What-If
+              ⚡ Test Improvements in What-If Simulator
             </button>
           </div>
         </div>
