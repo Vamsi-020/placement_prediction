@@ -14,7 +14,6 @@ function Predict() {
   const [previousPrediction, setPreviousPrediction] = useState(null);
   const [prefillData, setPrefillData] = useState(null);
 
-  // Fetch previous prediction to enable progress delta tracking
   useEffect(() => {
     const fetchLatestUserPrediction = async () => {
       if (isAuthenticated) {
@@ -65,7 +64,6 @@ function Predict() {
       });
       setResult(response);
 
-      // Local storage backup for guest mode
       const history = JSON.parse(localStorage.getItem("predictionHistory")) || [];
       history.push({
         studentName: name,
@@ -77,9 +75,14 @@ function Predict() {
       });
       localStorage.setItem("predictionHistory", JSON.stringify(history));
     } catch (err) {
+      const backendError = err.response?.data;
       setError(
-        err.response?.data?.error ||
-          "Could not connect to the backend server. Please verify Flask is running on http://localhost:5000."
+        backendError?.details
+          ? `${backendError.error || "Prediction failed"}: ${backendError.details}`
+          : backendError?.error ||
+            (err.message === "Network Error"
+              ? "Could not connect to the backend server. Check the Render backend URL and CORS configuration."
+              : "Prediction request failed. Please try again.")
       );
     } finally {
       setLoading(false);
@@ -95,20 +98,13 @@ function Predict() {
         </p>
       </div>
 
-      {/* Returning User Banner */}
       {previousPrediction && (
         <div className="returning-user-banner card">
           <div className="banner-icon">🎯</div>
           <div className="banner-content">
             <div className="banner-title-row">
-              <h4>
-                {user ? `Welcome back, ${user.full_name || user.username}!` : "Welcome back!"}
-              </h4>
-              <span
-                className={`badge-pill ${
-                  previousPrediction.prediction === "Placed" ? "badge-success" : "badge-warning"
-                }`}
-              >
+              <h4>{user ? `Welcome back, ${user.full_name || user.username}!` : "Welcome back!"}</h4>
+              <span className={`badge-pill ${previousPrediction.prediction === "Placed" ? "badge-success" : "badge-warning"}`}>
                 Last Result: {previousPrediction.prediction} ({previousPrediction.probability}%)
               </span>
             </div>
@@ -118,26 +114,16 @@ function Predict() {
             </p>
           </div>
           <div className="banner-actions">
-            <button
-              type="button"
-              className="btn btn-secondary btn-sm"
-              onClick={handlePrefillPrevious}
-            >
+            <button type="button" className="btn btn-secondary btn-sm" onClick={handlePrefillPrevious}>
               📋 Prefill Last Inputs
             </button>
-            <Link to="/history" className="btn btn-ghost btn-sm">
-              📜 View Full History
-            </Link>
+            <Link to="/history" className="btn btn-ghost btn-sm">📜 View Full History</Link>
           </div>
         </div>
       )}
 
       <div className="predict-layout">
-        <PredictionForm
-          onPredict={handlePredict}
-          loading={loading}
-          initialValues={prefillData}
-        />
+        <PredictionForm onPredict={handlePredict} loading={loading} initialValues={prefillData} />
 
         <div className="predict-output">
           {loading && (
@@ -151,11 +137,7 @@ function Predict() {
           {error && <div className="alert alert-danger">{error}</div>}
 
           {result && !loading && (
-            <PredictionResult
-              result={result}
-              studentName={studentName}
-              previousPrediction={previousPrediction}
-            />
+            <PredictionResult result={result} studentName={studentName} previousPrediction={previousPrediction} />
           )}
 
           {!result && !loading && !error && (
