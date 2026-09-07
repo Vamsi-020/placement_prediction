@@ -6,14 +6,18 @@
 
 import axios from "axios";
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:5000";
+// In production, Vite injects VITE_API_BASE_URL at build time.
+// Keep localhost as a development-only fallback.
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL ||
+  (import.meta.env.DEV ? "http://localhost:5000" : "");
 
 const API = axios.create({
   baseURL: API_BASE_URL,
   headers: {
     "Content-Type": "application/json",
   },
-  timeout: 15000,
+  timeout: 30000,
 });
 
 // Request Interceptor: Attach JWT Bearer Token if present in storage
